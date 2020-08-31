@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ニュース検索 on Players1st Blog</title>
+    <link>https://players1st.github.io/blog/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2/</link>
+    <description>Recent content in ニュース検索 on Players1st Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2017 13:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://players1st.github.io/blog/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現</title>
+      <link>https://players1st.github.io/blog/2017/11/28/130025/</link>
+      <pubDate>Tue, 28 Nov 2017 13:00:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2017/11/28/130025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

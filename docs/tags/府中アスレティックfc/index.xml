@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>府中アスレティックfc on Players1st Blog</title>
+    <link>https://players1st.github.io/blog/tags/%E5%BA%9C%E4%B8%AD%E3%82%A2%E3%82%B9%E3%83%AC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFfc/</link>
+    <description>Recent content in 府中アスレティックfc on Players1st Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2016 12:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://players1st.github.io/blog/tags/%E5%BA%9C%E4%B8%AD%E3%82%A2%E3%82%B9%E3%83%AC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFfc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>選手紹介-柴田祐輔選手</title>
+      <link>https://players1st.github.io/blog/2016/11/04/120046/</link>
+      <pubDate>Fri, 04 Nov 2016 12:00:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2016/11/04/120046/</guid>
+      <description>Players1stに登録していただいている選手を順次ご紹介していきます！</description>
+    </item>
+    
+    <item>
+      <title>選手紹介１-宮田義人選手</title>
+      <link>https://players1st.github.io/blog/2016/10/17/163026/</link>
+      <pubDate>Mon, 17 Oct 2016 16:30:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2016/10/17/163026/</guid>
+      <description>Players1stに登録していただいている選手を順次ご紹介していきます！</description>
+    </item>
+    
+    <item>
+      <title>選手への使い方説明会-府中アスレ 宮田選手、柴田選手</title>
+      <link>https://players1st.github.io/blog/2016/08/16/131921/</link>
+      <pubDate>Tue, 16 Aug 2016 13:19:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2016/08/16/131921/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

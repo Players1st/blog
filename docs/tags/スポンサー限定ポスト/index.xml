@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>スポンサー限定ポスト on Players1st Blog</title>
+    <link>https://players1st.github.io/blog/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%99%90%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88/</link>
+    <description>Recent content in スポンサー限定ポスト on Players1st Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Sep 2018 10:05:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://players1st.github.io/blog/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%99%90%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>これはやらなきゃ！月額スポンサーだけが見られる🔐限定公開投稿を活用しましょう💪</title>
+      <link>https://players1st.github.io/blog/2018/09/17/limited_posts/</link>
+      <pubDate>Mon, 17 Sep 2018 10:05:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2018/09/17/limited_posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スポンサー限定ポストにアイコンが付いてわかりやすくなりました🔒</title>
+      <link>https://players1st.github.io/blog/2018/06/18/114610/</link>
+      <pubDate>Mon, 18 Jun 2018 11:46:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2018/06/18/114610/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スポンサー限定ポストができるようになりました</title>
+      <link>https://players1st.github.io/blog/2018/05/17/093047/</link>
+      <pubDate>Thu, 17 May 2018 09:30:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2018/05/17/093047/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

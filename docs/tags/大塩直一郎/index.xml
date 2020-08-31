@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大塩直一郎 on Players1st Blog</title>
+    <link>https://players1st.github.io/blog/tags/%E5%A4%A7%E5%A1%A9%E7%9B%B4%E4%B8%80%E9%83%8E/</link>
+    <description>Recent content in 大塩直一郎 on Players1st Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2016 11:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://players1st.github.io/blog/tags/%E5%A4%A7%E5%A1%A9%E7%9B%B4%E4%B8%80%E9%83%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>選手紹介２-大塩直一郎選手</title>
+      <link>https://players1st.github.io/blog/2016/10/24/110039/</link>
+      <pubDate>Mon, 24 Oct 2016 11:00:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2016/10/24/110039/</guid>
+      <description>Players1stに登録していただいている選手を順次ご紹介していきます！
+🏋</description>
+    </item>
+    
+    <item>
+      <title>選手への使い方説明会-ウェイトリフティング 大塩選手</title>
+      <link>https://players1st.github.io/blog/2016/09/13/100108/</link>
+      <pubDate>Tue, 13 Sep 2016 10:01:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/2016/09/13/100108/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
