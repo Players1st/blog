@@ -68,7 +68,7 @@ description = "This is meta description"
 # Preloader
 preloader = true
 # search
-search = true
+search = false
 # about author
 author = "Players1st"
 author_image = "images/P1st_logo.jpg"
