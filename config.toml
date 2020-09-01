@@ -1,4 +1,4 @@
-baseURL = "https://players1st.github.io/blog/"
+baseURL = "https://blog.players1.st/"
 languageCode = "ja-jp"
 title = "Players1st Blog"
 theme = "parsa"

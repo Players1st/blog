@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>新機能 on Players1st Blog</title>
-    <link>https://players1st.github.io/blog/tags/%E6%96%B0%E6%A9%9F%E8%83%BD/</link>
+    <link>https://blog.players1.st/tags/%E6%96%B0%E6%A9%9F%E8%83%BD/</link>
     <description>Recent content in 新機能 on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 15 Jul 2019 09:34:00 +0900</lastBuildDate>
     
-	<atom:link href="https://players1st.github.io/blog/tags/%E6%96%B0%E6%A9%9F%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.players1.st/tags/%E6%96%B0%E6%A9%9F%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>まとめて応援を開始しました‼️</title>
-      <link>https://players1st.github.io/blog/2019/07/15/matomete-proposal/</link>
+      <link>https://blog.players1.st/2019/07/15/matomete-proposal/</link>
       <pubDate>Mon, 15 Jul 2019 09:34:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2019/07/15/matomete-proposal/</guid>
+      <guid>https://blog.players1.st/2019/07/15/matomete-proposal/</guid>
       <description>様々なアスリートがPlayers1stに登録してきます。
 海外🌐で活動している選手や「こんな競技あったんだ😮」と思うような珍しい競技の選手。
 環境や競技は様々ですが共通しているのは「資金不足」。
@@ -25,10 +25,10 @@
     
     <item>
       <title>スポンサー限定ポストができるようになりました</title>
-      <link>https://players1st.github.io/blog/2018/05/17/093047/</link>
+      <link>https://blog.players1.st/2018/05/17/093047/</link>
       <pubDate>Thu, 17 May 2018 09:30:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2018/05/17/093047/</guid>
+      <guid>https://blog.players1.st/2018/05/17/093047/</guid>
       <description>アスリートを支える機能をまた1つリリースしました！スポンサー限定ポスト機能です。
 
 使い方は簡単 作り方
@@ -37,20 +37,20 @@
     
     <item>
       <title> 選手プロフィールがWebサイトやブログに貼り付けられるようになりました</title>
-      <link>https://players1st.github.io/blog/2018/02/14/150028/</link>
+      <link>https://blog.players1.st/2018/02/14/150028/</link>
       <pubDate>Wed, 14 Feb 2018 15:00:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2018/02/14/150028/</guid>
+      <guid>https://blog.players1.st/2018/02/14/150028/</guid>
       <description>新機能 HTML貼り付け 新機能をリリースしました！選手プロフィールのHTML貼り付け機能です。
  このようなウィジェットがあなたのブログやWebサイトで表示できます。</description>
     </item>
     
     <item>
       <title> アスリートのクラウドスポンサー募集サービス「Players1st」が300円から支援金を送れる「コインパス」を機能拡張。アスリートが返信メッセージを送信可能に</title>
-      <link>https://players1st.github.io/blog/2017/10/17/140026/</link>
+      <link>https://blog.players1.st/2017/10/17/140026/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/10/17/140026/</guid>
+      <guid>https://blog.players1.st/2017/10/17/140026/</guid>
       <description>2017年10月17日
 報道関係者各位
 プレスリリース
@@ -60,10 +60,10 @@ https://players1.st</description>
     
     <item>
       <title> 業界初、「Players1st」がアスリートのメディア掲載情報を自動で検索投稿する機能「PRパス」をリリース。手間のかかるPR業務を登録選手に無料で提供</title>
-      <link>https://players1st.github.io/blog/2017/10/03/150033/</link>
+      <link>https://blog.players1.st/2017/10/03/150033/</link>
       <pubDate>Tue, 03 Oct 2017 15:00:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/10/03/150033/</guid>
+      <guid>https://blog.players1.st/2017/10/03/150033/</guid>
       <description>2017年10月3日
 報道関係者各位 プレスリリース
 株式会社プレイヤーズファースト
@@ -72,10 +72,10 @@ https://players1.st</description>
     
     <item>
       <title> アスリートとスポンサーがコミュニケーションできるメッセージ機能をリリースしました</title>
-      <link>https://players1st.github.io/blog/2017/09/07/180022/</link>
+      <link>https://blog.players1.st/2017/09/07/180022/</link>
       <pubDate>Thu, 07 Sep 2017 18:00:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/09/07/180022/</guid>
+      <guid>https://blog.players1.st/2017/09/07/180022/</guid>
       <description>また一つアスリートの要望を実現しました！メッセージ機能です！ これでアスリートとスポンサーユーザーとのコミュニケーションが取れるようになりました。
 具体的な使い方は、[マニュアル]メッセージの送り方をご覧ください。
 [マニュアル]メッセージの送り方
@@ -84,10 +84,10 @@ https://players1.st</description>
     
     <item>
       <title>Facebookアカウントで登録・ログインできるようになりました</title>
-      <link>https://players1st.github.io/blog/2017/07/19/111248/</link>
+      <link>https://blog.players1.st/2017/07/19/111248/</link>
       <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/07/19/111248/</guid>
+      <guid>https://blog.players1.st/2017/07/19/111248/</guid>
       <description>アカウント作成でメールアドレス、パスワード、プロフィール文などを入力するのは手間ですよね。
 Players1stでは、プロフィールに様々な入力項目がありますが、なかなか全てを埋めていただけるのは難しいようです😅
 選手にとってはサポーターから見つけやすくしてくれるための大事な項目でもあるので、是非とも入力していただきたいところ。
@@ -96,10 +96,10 @@ Players1stでは、プロフィールに様々な入力項目がありますが�
     
     <item>
       <title>通知機能をリリースしました</title>
-      <link>https://players1st.github.io/blog/2017/06/12/190116/</link>
+      <link>https://blog.players1.st/2017/06/12/190116/</link>
       <pubDate>Mon, 12 Jun 2017 19:01:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/06/12/190116/</guid>
+      <guid>https://blog.players1.st/2017/06/12/190116/</guid>
       <description>選手からの要望が多かった。通知機能をリリースしました🎉
 
 スポンサー申し込み時などにお知らせしてくれる機能です。
@@ -109,10 +109,10 @@ Players1stでは、プロフィールに様々な入力項目がありますが�
     
     <item>
       <title>スポンサー支払方法に年一括の銀行振込を追加しました</title>
-      <link>https://players1st.github.io/blog/2017/02/28/180446/</link>
+      <link>https://blog.players1.st/2017/02/28/180446/</link>
       <pubDate>Tue, 28 Feb 2017 18:04:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/02/28/180446/</guid>
+      <guid>https://blog.players1.st/2017/02/28/180446/</guid>
       <description>Players1stはより良く使っていただくために、便利な機能をリリースし続けています。
 今回は、シンプルだけど嬉しいあの機能。
 スポンサー募集の支払い方法に銀行振込が増えました！！🏧 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ポスト on Players1st Blog</title>
-    <link>https://players1st.github.io/blog/tags/%E3%83%9D%E3%82%B9%E3%83%88/</link>
+    <link>https://blog.players1.st/tags/%E3%83%9D%E3%82%B9%E3%83%88/</link>
     <description>Recent content in ポスト on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 01 Feb 2017 11:30:00 +0900</lastBuildDate>
     
-	<atom:link href="https://players1st.github.io/blog/tags/%E3%83%9D%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.players1.st/tags/%E3%83%9D%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>サポーター向けマニュアル-引用ポスト</title>
-      <link>https://players1st.github.io/blog/2017/02/01/113044/</link>
+      <link>https://blog.players1.st/2017/02/01/113044/</link>
       <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/02/01/113044/</guid>
+      <guid>https://blog.players1.st/2017/02/01/113044/</guid>
       <description>いつもPlayers1st で選手のポストを楽しみにしている、スポーツファンの皆さんへ。
 スポーツ選手が投稿したポストやイベント、また試合結果などにコメントが投稿できる“引用ポスト”機能をリリースしました！
 選手の投稿に感想や応援を書くことができます🙆 ぜひ、皆さんの熱いエールをお書きください💪</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>選手マニュアル-動画📹をポストしよう</title>
-      <link>https://players1st.github.io/blog/2016/12/12/170040/</link>
+      <link>https://blog.players1.st/2016/12/12/170040/</link>
       <pubDate>Mon, 12 Dec 2016 17:00:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2016/12/12/170040/</guid>
+      <guid>https://blog.players1.st/2016/12/12/170040/</guid>
       <description>お待たせしました！
 Players1stで📹動画🎬が投稿できるようになりました!!🎉
 さっそく、その手順をご案内します。
@@ -37,10 +37,10 @@ Players1stで📹動画🎬が投稿できるようになりました!!🎉
     
     <item>
       <title>選手マニュアル-ポストしよう</title>
-      <link>https://players1st.github.io/blog/2016/09/23/174520/</link>
+      <link>https://blog.players1.st/2016/09/23/174520/</link>
       <pubDate>Fri, 23 Sep 2016 17:45:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2016/09/23/174520/</guid>
+      <guid>https://blog.players1.st/2016/09/23/174520/</guid>
       <description>Players1stの選手向けマニュアル、４回目は一番簡単でよく使う機能「ポスト」についてです。
  
 まず、Players1stにログインします。</description>

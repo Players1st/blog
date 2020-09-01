@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マニュアル on Players1st Blog</title>
-    <link>https://players1st.github.io/blog/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+    <link>https://blog.players1.st/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
     <description>Recent content in マニュアル on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 27 Sep 2018 11:59:00 +0900</lastBuildDate>
     
-	<atom:link href="https://players1st.github.io/blog/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.players1.st/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう</title>
-      <link>https://players1st.github.io/blog/2018/09/27/500sponsor/</link>
+      <link>https://blog.players1.st/2018/09/27/500sponsor/</link>
       <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2018/09/27/500sponsor/</guid>
+      <guid>https://blog.players1.st/2018/09/27/500sponsor/</guid>
       <description>こんにちは、Players1st運営チームです。
 継続的な月額スポンサーの募集、もう始めているでしょうか？
 Players1stに登録したけどまだ月額スポンサー募集を作ったことがない、という方もいらっしゃいます。
@@ -26,10 +26,10 @@ Players1stに登録したけどまだ月額スポンサー募集を作ったこ�
     
     <item>
       <title>スポンサー支払方法に年一括の銀行振込を追加しました</title>
-      <link>https://players1st.github.io/blog/2017/02/28/180446/</link>
+      <link>https://blog.players1.st/2017/02/28/180446/</link>
       <pubDate>Tue, 28 Feb 2017 18:04:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/02/28/180446/</guid>
+      <guid>https://blog.players1.st/2017/02/28/180446/</guid>
       <description>Players1stはより良く使っていただくために、便利な機能をリリースし続けています。
 今回は、シンプルだけど嬉しいあの機能。
 スポンサー募集の支払い方法に銀行振込が増えました！！🏧 
@@ -38,10 +38,10 @@ Players1stに登録したけどまだ月額スポンサー募集を作ったこ�
     
     <item>
       <title>サポーター向けマニュアル-引用ポスト</title>
-      <link>https://players1st.github.io/blog/2017/02/01/113044/</link>
+      <link>https://blog.players1.st/2017/02/01/113044/</link>
       <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2017/02/01/113044/</guid>
+      <guid>https://blog.players1.st/2017/02/01/113044/</guid>
       <description>いつもPlayers1st で選手のポストを楽しみにしている、スポーツファンの皆さんへ。
 スポーツ選手が投稿したポストやイベント、また試合結果などにコメントが投稿できる“引用ポスト”機能をリリースしました！
 選手の投稿に感想や応援を書くことができます🙆 ぜひ、皆さんの熱いエールをお書きください💪</description>

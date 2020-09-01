@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTMLコード貼り付け on Players1st Blog</title>
-    <link>https://players1st.github.io/blog/tags/html%E3%82%B3%E3%83%BC%E3%83%89%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91/</link>
+    <link>https://blog.players1.st/tags/html%E3%82%B3%E3%83%BC%E3%83%89%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91/</link>
     <description>Recent content in HTMLコード貼り付け on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 14 Feb 2018 15:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://players1st.github.io/blog/tags/html%E3%82%B3%E3%83%BC%E3%83%89%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.players1.st/tags/html%E3%82%B3%E3%83%BC%E3%83%89%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> 選手プロフィールがWebサイトやブログに貼り付けられるようになりました</title>
-      <link>https://players1st.github.io/blog/2018/02/14/150028/</link>
+      <link>https://blog.players1.st/2018/02/14/150028/</link>
       <pubDate>Wed, 14 Feb 2018 15:00:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/2018/02/14/150028/</guid>
+      <guid>https://blog.players1.st/2018/02/14/150028/</guid>
       <description>新機能 HTML貼り付け 新機能をリリースしました！選手プロフィールのHTML貼り付け機能です。
  このようなウィジェットがあなたのブログやWebサイトで表示できます。</description>
     </item>
