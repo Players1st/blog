@@ -1,5 +1,5 @@
 +++
-Categories = ["tech"]
+Categories = ["マニュアル"]
 Description = " こんにちは、Players1st運営チームです。  前回に続いて月額スポンサーを獲得している選手が活用している機能をご紹介します。  blog.players1.st  今回は、「🔐スポンサー限定公開投稿」です。  月額スポンサーの登録を"
 Tags = ["スポンサー獲得", "スポンサー限定ポスト", "選手マニュアル"]
 date = "2018-09-17T10:05:00+09:00"
@@ -7,12 +7,14 @@ title = "これはやらなきゃ！月額スポンサーだけが見られる�
 author = "urabetti"
 archive = ["2018"]
 draft = false
+type = "featured"
+image = "images/20180916215742_featured.png"
 +++
 
 <body>
 <p>こんにちは、Players1st運営チームです。</p>
-<p><a href="https://blog.players1.st/entry/2018/09/15/goal">前回</a>に続いて月額スポンサーを獲得している選手が活用している機能をご紹介します。</p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="スポンサーを得ている選手はもうやっている！ 「ゴール」を設定して目標を宣言しましょう！ - Players1st Blog" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2F2018%2F09%2F15%2Fgoal" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://blog.players1.st/entry/2018/09/15/goal">blog.players1.st</a></cite></p>
+<p><a href="https://blog.players1.st/2018/09/15/goal">前回</a>に続いて月額スポンサーを獲得している選手が活用している機能をご紹介します。</p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="スポンサーを得ている選手はもうやっている！ 「ゴール」を設定して目標を宣言しましょう！ - Players1st Blog" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2F2018%2F09%2F15%2Fgoal" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://blog.players1.st/2018/09/15/goal">blog.players1.st</a></cite></p>
 <p>今回は、<span style="font-size: 150%;"><strong>「🔐スポンサー限定公開投稿」</strong></span>です。</p>
 <p>月額スポンサーの登録をしている方だけが内容を見ることができる投稿です。</p>
 <p>スポンサーではない方、Players1stに登録していない方には、このように見えます。</p>

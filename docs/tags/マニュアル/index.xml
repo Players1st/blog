@@ -5,7 +5,7 @@
     <link>https://players1st.github.io/blog/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
     <description>Recent content in マニュアル on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Thu, 27 Sep 2018 11:59:00 +0900</lastBuildDate>
     
 	<atom:link href="https://players1st.github.io/blog/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
@@ -13,20 +13,15 @@
     
     <item>
       <title>ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう</title>
-      <link>https://players1st.github.io/blog/500sponsor/500sponsor/</link>
+      <link>https://players1st.github.io/blog/2018/09/27/500sponsor/</link>
       <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
       
-      <guid>https://players1st.github.io/blog/500sponsor/500sponsor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> メッセージの送り方</title>
-      <link>https://players1st.github.io/blog/2017/09/07/090034/</link>
-      <pubDate>Thu, 07 Sep 2017 09:00:00 +0900</pubDate>
-      
-      <guid>https://players1st.github.io/blog/2017/09/07/090034/</guid>
-      <description></description>
+      <guid>https://players1st.github.io/blog/2018/09/27/500sponsor/</guid>
+      <description>こんにちは、Players1st運営チームです。
+継続的な月額スポンサーの募集、もう始めているでしょうか？
+Players1stに登録したけどまだ月額スポンサー募集を作ったことがない、という方もいらっしゃいます。
+まずは、
+募集しないとサポーターがスポンサーになりたくてもなれません！</description>
     </item>
     
     <item>
@@ -35,7 +30,9 @@
       <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/2017/02/01/113044/</guid>
-      <description>いつもPlayers1stで選手のポストを楽しみにしている、スポーツファンの皆さんへ。Players1st - 「現役スポーツ選手を見つける、つながる、支える。」</description>
+      <description>いつもPlayers1st で選手のポストを楽しみにしている、スポーツファンの皆さんへ。
+スポーツ選手が投稿したポストやイベント、また試合結果などにコメントが投稿できる“引用ポスト”機能をリリースしました！
+選手の投稿に感想や応援を書くことができます🙆 ぜひ、皆さんの熱いエールをお書きください💪</description>
     </item>
     
   </channel>

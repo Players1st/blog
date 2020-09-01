@@ -1,5 +1,5 @@
 +++
-Categories = ["tech"]
+Categories = ["マニュアル"]
 Description = " こんにちは、Players1st運営チームです。  先日、Players1stを活用していただいている選手の方々にうかがったところ、 「月額スポンサーを得ている選手がしていること」 への関心が高いことがわかりました。  &nbsp;そこで"
 Tags = ["選手マニュアル", "スポンサー獲得", "GOAL"]
 date = "2018-09-15T00:54:00+09:00"
@@ -7,6 +7,8 @@ title = "スポンサーを得ている選手はもうやっている！ 「ゴ�
 author = "urabetti"
 archive = ["2018"]
 draft = false
+type = "featured"
+image ="images/20180914175109_featured.png"
 +++
 
 <body>

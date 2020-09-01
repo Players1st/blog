@@ -1,11 +1,13 @@
 +++
-Categories = ["tech"]
-Description = " 報道関係者各位 プレスリリース  株式会社プレイヤーズファースト https://players1.st  &nbsp;  株式会社プレイヤーズファースト（東京都世田谷区、代表取締役 : 深海寛信）は、スポーツファンディングサイト「Pla"
+Categories = ["プレスリリース"]
+Description = "スポーツファンディングサイト「Players1st（プレイヤーズファースト）」にて、クラブチーム向けにサービス提供を開始いたしました。"
 Tags = ["プレスリリース", "press release", "クラブチーム"]
 date = "2020-05-11T09:58:00+09:00"
 title = "スポーツファンディングサイト「Players1st」が、新型コロナウイルス対策 第2弾としてクラブチーム向けサービスを提供開始 "
 author = "d_sea"
 archive = ["2020"]
+image = "images/post_featured.png"
+type = "featured"
 draft = false
 +++
 
@@ -21,7 +23,7 @@ draft = false
 <p>試合は中断されアスリートの躍動する姿を見ることができない今。 <br>スポーツを観戦する楽しみがない日常は何か物足りず、あらためてスポーツや文化の力を痛感します。</p>
 <p>Players1st は「スポーツを支え、世の中を豊かに。」をコンセプトに今まで現役アスリート向けのスポーツファンディングサイトとして課金窓口・ファンとの交流機能・PR機能を提供することによって支援してきました。</p>
 <p>コロナウイルス対策として一部サービスの手数料無料キャンペーン「自宅からできるアスリート支援」を行っていますが、苦しいのは選手だけでなくクラブチームも同様です。</p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="アスリート専用スポンサー募集サービス「Players1st」が、新型コロナウイルス対策で試合ができない選手への支援として、スポット支援金手数料・振込手数料を完全無料化 - Players1st Blog" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2Fcoinpass-nocharge" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://blog.players1.st/entry/coinpass-nocharge">blog.players1.st</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="アスリート専用スポンサー募集サービス「Players1st」が、新型コロナウイルス対策で試合ができない選手への支援として、スポット支援金手数料・振込手数料を完全無料化 - Players1st Blog" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2Fcoinpass-nocharge" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="/2020/03/23/coinpass-nocharge/">blog.players1.st</a></cite></p>
 <p> 経済的課題に苦しむクラブチームも支援できないかと考え、この度、選手向けに提供しているサービスをクラブチームにも提供できるようクラブチームアカウントをリリースしました。</p>
 <p> </p>
 <h4>クラブチームアカウントをリリース</h4>

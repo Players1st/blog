@@ -5,7 +5,7 @@
     <link>https://players1st.github.io/blog/tags/settings/</link>
     <description>Recent content in settings on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Fri, 26 Aug 2016 17:01:00 +0900</lastBuildDate>
     
 	<atom:link href="https://players1st.github.io/blog/tags/settings/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,10 @@
       <pubDate>Fri, 26 Aug 2016 17:01:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/2016/08/26/170113/</guid>
-      <description>Players1stに投稿しただけで、自動的にFacebookやTwitterにタイトルやリンクが流れます。いちいちシェアしなくてもいいので、楽になりますよ👍</description>
+      <description>インターネット上でのPRに欠かせないSNS（ソーシャル・ネットワーキング・サービス）、ご自身でFacebookやTwitterなどを利用している選手も多いのではないでしょうか？
+今回は、Players1stとFacebook、Twitterの連携についてご説明します。
+連携しておくと、 Players1stに投稿しただけで、自動的にFacebookやTwitterにタイトルやリンクが流れます。
+いちいちシェアしなくてもいいので、楽になりますよ👍</description>
     </item>
     
     <item>
@@ -26,7 +29,10 @@
       <pubDate>Wed, 17 Aug 2016 10:30:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/2016/08/17/103022/</guid>
-      <description></description>
+      <description>登録した選手から、どんなふうにプロフィールを設定したら良いのかな😕？と相談を受けましたので、今日は選手向けに選手プロフィールを充実させる設定方法を説明したいと思います。
+マニュアル📖のように手順にそって進めてもらえれば設定できるように書いていますので、順を追って設定しながら読んでもらえればです。
+まずは設定画面に行きましょう。ログイン後、
+ 右端のメニューアイコンを押す 「設定」リンクを押す 「登録設定」-「選手プロフィール変更」リンクを押す</description>
     </item>
     
   </channel>

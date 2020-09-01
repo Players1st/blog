@@ -5,7 +5,7 @@
     <link>https://players1st.github.io/blog/tags/%E5%85%AC%E9%96%8B/</link>
     <description>Recent content in 公開 on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Tue, 18 Jul 2017 09:28:00 +0900</lastBuildDate>
     
 	<atom:link href="https://players1st.github.io/blog/tags/%E5%85%AC%E9%96%8B/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,11 @@
       <pubDate>Tue, 18 Jul 2017 09:28:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/2017/07/18/092820/</guid>
-      <description></description>
+      <description>選手から要望いただいていたスポンサー募集のステータス機能をリリースしました🎉
+これによって、スポンサー募集の状態を公開・非公開・応募終了の3つに設定することができ、より便利な使い方ができます👍
+さっそく見ていきましょう。
+ステータスとは、スポンサー募集を以下の3つの状態に設定します。
+ 公開 非公開 応募終了  公開 今までのスポンサー募集の状態と同じで、誰からも見れて応募を受け付けている状態です。 今までのスポンサー募集はこの公開の状態1つしか選べませんでした。</description>
     </item>
     
   </channel>

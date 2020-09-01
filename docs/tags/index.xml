@@ -5,7 +5,7 @@
     <link>https://players1st.github.io/blog/tags/</link>
     <description>Recent content in Tags on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Mon, 11 May 2020 09:58:00 +0900</lastBuildDate>
     
 	<atom:link href="https://players1st.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -498,42 +498,6 @@
     </item>
     
     <item>
-      <title>photo</title>
-      <link>https://players1st.github.io/blog/tags/photo/</link>
-      <pubDate>Wed, 14 Feb 2018 11:50:00 +0900</pubDate>
-      
-      <guid>https://players1st.github.io/blog/tags/photo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>フットサル</title>
-      <link>https://players1st.github.io/blog/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</link>
-      <pubDate>Wed, 14 Feb 2018 11:50:00 +0900</pubDate>
-      
-      <guid>https://players1st.github.io/blog/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ポスト</title>
-      <link>https://players1st.github.io/blog/tags/%E3%83%9D%E3%82%B9%E3%83%88/</link>
-      <pubDate>Wed, 14 Feb 2018 11:50:00 +0900</pubDate>
-      
-      <guid>https://players1st.github.io/blog/tags/%E3%83%9D%E3%82%B9%E3%83%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中井健介</title>
-      <link>https://players1st.github.io/blog/tags/%E4%B8%AD%E4%BA%95%E5%81%A5%E4%BB%8B/</link>
-      <pubDate>Wed, 14 Feb 2018 11:50:00 +0900</pubDate>
-      
-      <guid>https://players1st.github.io/blog/tags/%E4%B8%AD%E4%BA%95%E5%81%A5%E4%BB%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>daihyo</title>
       <link>https://players1st.github.io/blog/tags/daihyo/</link>
       <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
@@ -557,6 +521,15 @@
       <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/tags/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>フットサル</title>
+      <link>https://players1st.github.io/blog/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</link>
+      <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</guid>
       <description></description>
     </item>
     
@@ -764,15 +737,6 @@
       <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/tags/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>コミュニケーション</title>
-      <link>https://players1st.github.io/blog/tags/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-      <pubDate>Thu, 07 Sep 2017 09:00:00 +0900</pubDate>
-      
-      <guid>https://players1st.github.io/blog/tags/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description></description>
     </item>
     
@@ -1142,6 +1106,15 @@
       <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/tags/manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ポスト</title>
+      <link>https://players1st.github.io/blog/tags/%E3%83%9D%E3%82%B9%E3%83%88/</link>
+      <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
+      
+      <guid>https://players1st.github.io/blog/tags/%E3%83%9D%E3%82%B9%E3%83%88/</guid>
       <description></description>
     </item>
     

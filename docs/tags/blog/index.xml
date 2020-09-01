@@ -5,7 +5,7 @@
     <link>https://players1st.github.io/blog/tags/blog/</link>
     <description>Recent content in blog on Players1st Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Wed, 03 Aug 2016 12:44:00 +0900</lastBuildDate>
     
 	<atom:link href="https://players1st.github.io/blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,9 @@
       <pubDate>Wed, 03 Aug 2016 12:44:00 +0900</pubDate>
       
       <guid>https://players1st.github.io/blog/2016/08/03/124434/</guid>
-      <description></description>
+      <description>ブログができました！
+アドレスは blog.players1.st です。
+今後、リリース情報、新機能紹介、設定方法の説明、プレイヤーズファースト社の中の様子など発信していきます。</description>
     </item>
     
   </channel>
