@@ -6,6 +6,7 @@ date = "2020-09-26T10:00:00+09:00"
 title = "アスリートエールからの移行キャンペーンを開始しました 「アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン」"
 archive = ["2020"]
 image = "images/20200926_campaign.jpg"
+images = ["images/20200926_campaign.jpg"]
 type = "post"
 draft = false
 +++

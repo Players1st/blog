@@ -64,7 +64,9 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+title = "Players1st(プレイヤーズファースト) Blog"
+description = "Players1st(プレイヤーズファースト) Blog |「スポーツの資金難を解決する」スポーツファンディング 投げ銭、月額スポンサー、スポンサー限定ポストでファンを増やします。アスリート・クラブチームをしっかり支援"
+images = ["images/P1st_logo.jpg"]
 # Preloader
 preloader = true
 # search
