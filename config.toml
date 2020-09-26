@@ -1,6 +1,6 @@
 baseURL = "https://blog.players1.st/"
 languageCode = "ja-jp"
-title = "Players1st Blog"
+title = "Players1st(プレイヤーズファースト) Blog"
 theme = "parsa"
 summaryLength = "6"
 paginate = 6
@@ -94,6 +94,10 @@ URL = "https://www.facebook.com/players1st.web"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "https://twitter.com/pys1st"
+
+[[params.social]]
+icon = "ti-instagram"
+URL = "https://www.instagram.com/players1st.web/"
 
 [[params.social]]
 icon = "ti-linkedin"
