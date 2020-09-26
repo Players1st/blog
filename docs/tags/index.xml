@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Players1st Blog</title>
+    <title>Tags on Players1st(プレイヤーズファースト) Blog</title>
     <link>https://blog.players1.st/tags/</link>
-    <description>Recent content in Tags on Players1st Blog</description>
+    <description>Recent content in Tags on Players1st(プレイヤーズファースト) Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 May 2020 09:58:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 10:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.players1.st/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>お知らせ</title>
+      <link>https://blog.players1.st/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://blog.players1.st/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アカウント登録</title>
+      <link>https://blog.players1.st/tags/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%99%BB%E9%8C%B2/</link>
+      <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://blog.players1.st/tags/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%99%BB%E9%8C%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アスリート支援</title>
+      <link>https://blog.players1.st/tags/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E6%94%AF%E6%8F%B4/</link>
+      <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://blog.players1.st/tags/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E6%94%AF%E6%8F%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スポンサー獲得</title>
+      <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/</link>
+      <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>press release</title>
@@ -102,15 +138,6 @@
     </item>
     
     <item>
-      <title>アスリート支援</title>
-      <link>https://blog.players1.st/tags/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E6%94%AF%E6%8F%B4/</link>
-      <pubDate>Mon, 15 Jul 2019 09:34:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/tags/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E6%94%AF%E6%8F%B4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>スポンサー募集</title>
       <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86/</link>
       <pubDate>Mon, 15 Jul 2019 09:34:00 +0900</pubDate>
@@ -188,15 +215,6 @@
       <pubDate>Mon, 24 Jun 2019 10:19:00 +0900</pubDate>
       
       <guid>https://blog.players1.st/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A%E7%AB%B6%E6%8A%80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>スポンサー獲得</title>
-      <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/</link>
-      <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/</guid>
       <description></description>
     </item>
     
@@ -804,29 +822,11 @@
     </item>
     
     <item>
-      <title>アカウント登録</title>
-      <link>https://blog.players1.st/tags/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%99%BB%E9%8C%B2/</link>
-      <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/tags/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%99%BB%E9%8C%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>簡単</title>
       <link>https://blog.players1.st/tags/%E7%B0%A1%E5%8D%98/</link>
       <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
       
       <guid>https://blog.players1.st/tags/%E7%B0%A1%E5%8D%98/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>お知らせ</title>
-      <link>https://blog.players1.st/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
-      <pubDate>Mon, 12 Jun 2017 19:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
       <description></description>
     </item>
     

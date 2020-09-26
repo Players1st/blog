@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2020s on Players1st Blog</title>
+    <title>2020s on Players1st(プレイヤーズファースト) Blog</title>
     <link>https://blog.players1.st/2020/</link>
-    <description>Recent content in 2020s on Players1st Blog</description>
+    <description>Recent content in 2020s on Players1st(プレイヤーズファースト) Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 May 2020 09:58:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 10:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.players1.st/2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>アスリートエールからの移行キャンペーンを開始しました</title>
+      <link>https://blog.players1.st/2020/09/26/campaign_change_from_ay/</link>
+      <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://blog.players1.st/2020/09/26/campaign_change_from_ay/</guid>
+      <description>アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン 「アスリートエール」サービス終了にあたって 2012年よりアスリート専用の資金調達支援サービスを継続されていた「アスリートエール」が、年内にサービス終了と解散されることとなりました。
+登録していたアスリートの方々、オンライン後援会などでスポンサーをされていたサポーターの方々は、今後の支援方法について模索をされていることと存じます。
+Players1st(プレイヤーズファースト)は2016年より現役アスリート専用のクラウドスポンサー募集サイトとしてサービスを開始しました。 サッカー、野球などのメジャースポーツから、アルティメット、スケルトンなどのマイナースポーツ、ダーツやビリヤードなどの競技まで、多種多様なスポーツのアスリートに登録いただき、個人スポンサーからの支援を受けています。</description>
+    </item>
     
     <item>
       <title>スポーツファンディングサイト「Players1st」が、新型コロナウイルス対策 第2弾としてクラブチーム向けサービスを提供開始 </title>
