@@ -1,6 +1,8 @@
 [submodule "themes/parsa"]
 	path = themes/parsa
 	url = https://github.com/Players1st/parsa-hugo.git
+	ignore = dirty
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
+	ignore = dirty
