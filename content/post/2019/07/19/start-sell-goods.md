@@ -12,6 +12,7 @@ image = "https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20190719/2019071
 +++
 
 <body>
+
 <p><figure class="figure-image figure-image-fotolife" title="スマホケース サンプル Players1st"><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20190719/20190719175625.png" alt="f:id:d_sea:20190719175625p:plain" title="f:id:d_sea:20190719175625p:plain" class="hatena-fotolife" itemprop="image"></span><figcaption>スマホケース サンプル Players1st</figcaption></figure></p>
 
 <p>選手の皆さんにお知らせです🗣</p>
