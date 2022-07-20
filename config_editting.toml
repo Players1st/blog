@@ -1,0 +1,69 @@
+baseurl = "https://blog.players1.st/"
+title = "Players1st プレイヤーズファースト Blog"
+theme = "anubis"
+languageCode = "ja-jp"
+
+googleAnalytics = "UA-73836462-6"
+disqusShortname = ""
+
+paginate = 10
+
+[author]
+name = "Players1st"
+
+[params]
+author = "Players1st"
+email = "support@players1.st"
+avatar = "images/logo_post_square.png"
+description = "Players1st(プレイヤーズファースト)は、月額スポンサー募集によって選手活動に必要な資金を継続的に得ることができます。ファンへのスポンサー特典、スポンサー限定のコンテンツを提供することで、特別な関係を生み出しアスリートとしての価値をさらに高めます。"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = true
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+
+[[params.social]]
+id = "twitter"
+url = "https://twitter.com/pys1st/"
+
+[[params.social]]
+id = "instagram"
+url = "https://www.instagram.com/players1st.web/"
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
