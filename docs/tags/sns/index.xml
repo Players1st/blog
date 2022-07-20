@@ -1,55 +1,276 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SNS on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/sns/</link>
-    <description>Recent content in SNS on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Fri, 15 Sep 2017 17:20:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/sns/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入</title>
-      <link>https://blog.players1.st/2017/09/15/172039/</link>
-      <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/09/15/172039/</guid>
-      <description>2017年9月15日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-    <item>
-      <title>選手マニュアル-ポストしよう</title>
-      <link>https://blog.players1.st/2016/09/23/174520/</link>
-      <pubDate>Fri, 23 Sep 2016 17:45:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/09/23/174520/</guid>
-      <description>Players1stの選手向けマニュアル、４回目は一番簡単でよく使う機能「ポスト」についてです。</description>
-    </item>
-    
-    <item>
-      <title>選手マニュアル-イベントを作る方法</title>
-      <link>https://blog.players1.st/2016/09/02/115947/</link>
-      <pubDate>Fri, 02 Sep 2016 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/09/02/115947/</guid>
-      <description>Players1stでは、選手がイベントのお知らせをして、参加したい方がそのまま申し込みから事前決済まですることができます✌
-スクール、クリニック、レッスン、 報告会、</description>
-    </item>
-    
-    <item>
-      <title>選手マニュアル-SNS連携の方法</title>
-      <link>https://blog.players1.st/2016/08/26/170113/</link>
-      <pubDate>Fri, 26 Aug 2016 17:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/08/26/170113/</guid>
-      <description>インターネット上でのPRに欠かせないSNS（ソーシャル・ネットワーキング・サービス）、ご自身でFacebookやTwitterなどを利用している選手も多いのではないでしょうか？
-今回は、Players1stとFacebook、Twitterの連携についてご説明します。
-連携しておくと、 Players1stに投稿しただけで、自動的にFacebookやTwitterにタイトルやリンクが流れます。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>SNS on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/sns/</link>
+        <description>Recent content in SNS on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Fri, 15 Sep 2017 17:20:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/sns/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C1%E9%80%B1%E9%96%93%E3%81%A7133%E5%8F%A3%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E7%8D%B2%E5%BE%97%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%8C%E8%B3%87%E9%87%91%E3%82%92%E5%85%83%E3%81%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5/</link>
+        <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C1%E9%80%B1%E9%96%93%E3%81%A7133%E5%8F%A3%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E7%8D%B2%E5%BE%97%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%8C%E8%B3%87%E9%87%91%E3%82%92%E5%85%83%E3%81%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入" /&gt;&lt;body&gt;
+&lt;p&gt;2017年9月15日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、リオオリンピック出場ボート競技の中野紘志選手のスポンサーを1週間で133口獲得したことを発表いたします。&lt;/p&gt;
+&lt;h2&gt;1週間で133口スポンサー獲得&lt;/h2&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;758&#34; data-orig-width=&#34;539&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/da20ae93e3e24dbfffc4056e9e612e0a/tumblr_inline_owbb6eYsN11qzhrk3_540.png&#34; class=&#34;&#34; data-orig-height=&#34;758&#34; data-orig-width=&#34;539&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;中野選手がスポンサー募集を開始後、Players1stが&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;と&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;にてプロモーションを行い1万人以上が閲覧しました。&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;経由でスポンサー申込がされ短期間でのスポンサー獲得につながりました。スポンサーの特徴として、複数口や年間一括の銀行振込の割合が多かったことがあげられます。一口月額500円と少額に設定したことで、払いやすく広まりやすかったと考えています。&lt;/p&gt;
+&lt;p&gt;「少額スポンサー x インターネットで広く多く」の組み合わせは、インターネットの力でスポーツを支えることができる好例となりました。&lt;/p&gt;
+&lt;h2&gt;選手がトレーニングシューズを購入&lt;/h2&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;679&#34; data-orig-width=&#34;477&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111121.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/f703ecd039c13765a919deffa2f7ef78/tumblr_inline_owbb6fFL7b1qzhrk3_540.png&#34; class=&#34;&#34; data-orig-height=&#34;679&#34; data-orig-width=&#34;477&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111121.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;中野選手は資金を元にトレーニングシューズを購入したことをPlayers1st内で報告しています。選手へ直接支援金を渡せる課金窓口を提供することで、素早く日々のトレーニングの質を向上させることができるようになりました。&lt;/p&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;今回の事例より、さらなるスポンサー募集に向けた効果的なプロモーションやシステム改善に努めていきます。また、オリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;、ワールド&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AB%A5%C3%A5%D7&#34;&gt;カップ&lt;/a&gt;など世界で戦うアスリートを支えるスポーツインターネットサービスとして、アスリートの新規登録を進めていく予定です。&lt;/p&gt;
+&lt;h2&gt;中野紘志選手について&lt;/h2&gt;
+&lt;p&gt;2016年リオオリンピックにて、ボート競技で男子日本代表として出場。2017年5月に開催された第39回全日本軽量級選手権の軽量級男子&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B7%A5%F3%A5%B0%A5%EB%A5%B9%A5%AB%A5%EB&#34;&gt;シングルスカル&lt;/a&gt;にて優勝し国内を代表するボート競技のトップアスリートです。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;中野選手は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;で金メダルを目指しています。金メダル獲得に向けてより多くの人の期待を力にしたいとの思いがあり、Players1stではスポンサー募集、PR・ファン獲得などを行い中野選手をサポートしています。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。&lt;/p&gt;
+&lt;p&gt;アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;国内第一人者の選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト&lt;br&gt;
+所在地         東京都世田谷区北烏山1-9-18
+&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信&lt;br&gt;
+設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st
+&lt;/a&gt;&lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/
+&lt;/a&gt;&lt;br&gt;事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/0B_VrJS-a3nLpb2dBZUNBWmcxUVU?usp=sharing&#34;&gt;https://drive.google.com/drive/folders/0B_VrJS-a3nLpb2dBZUNBWmcxUVU?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手マニュアル-ポストしよう</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%9D%E3%82%B9%E3%83%88%E3%81%97%E3%82%88%E3%81%86/</link>
+        <pubDate>Fri, 23 Sep 2016 17:45:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%9D%E3%82%B9%E3%83%88%E3%81%97%E3%82%88%E3%81%86/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111038.png" alt="Featured image of post 選手マニュアル-ポストしよう" /&gt;&lt;body&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;の選手向けマニュアル、４回目は一番簡単でよく使う機能「&lt;b&gt;ポスト&lt;/b&gt;」についてです。&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;にログインします。&lt;/p&gt;
+&lt;h2&gt;まずは新規ポスト画面へ&lt;/h2&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1119&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111038.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1119&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;今回も仮のフィギュアスケート選手アカウントでご説明します。&lt;/p&gt;
+&lt;p&gt;このマイページを下に降りていくと、ポストのエリアがあります。&lt;br&gt;（もし、ログインしてマイページではなく、『最新情報』のページになっていたら、右上の三本線メニューから『マイページ』へ移動してください）&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「＋新規追加」&lt;/b&gt;を押して、ポストを作りましょう☺&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1116&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110556.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1116&#34;&gt;&lt;/figure&gt;&lt;h2&gt;ポスト作成画面&lt;/h2&gt;
+&lt;p&gt;次の画面でポストの内容を作っていきます。&lt;br&gt;内容はこれだけです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;タイトル&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;内容&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;タグ&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;画像&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SNSの投稿と同じような感覚で入力できます👌&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111211.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34;&gt;&lt;/figure&gt;&lt;p&gt;タグは、スマートフォンからの場合は単語を入力して確定すれば自動的に区切りが入ります。&lt;br&gt;PCからは、&lt;b&gt;,（カンマ）&lt;/b&gt;で区切ってください。&lt;/p&gt;
+&lt;p&gt;同じタグをつけた記事とつながることができます。&lt;/p&gt;
+&lt;p&gt;たとえば、&lt;b&gt;「トレーニング」&lt;/b&gt;というタグを他のスポーツ選手が使っていた場合、そのタグを経由すると他ジャンルの選手のトレーニングに関わる記事が見られます。&lt;/p&gt;
+&lt;p&gt;その下のSNS連携がONになっていると、投稿と同時にSNSにもリンクがポストされます。&lt;/p&gt;
+&lt;p&gt;最後の&lt;b&gt;「登録」&lt;/b&gt;ボタンを押し忘れないようにしましょう！&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;649&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111020.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;649&#34;&gt;&lt;/figure&gt;&lt;p&gt;ポストすると、その結果を確認できます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;500&#34; data-orig-height=&#34;1122&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111216.png&#34; alt=&#34;image&#34; data-orig-width=&#34;500&#34; data-orig-height=&#34;1122&#34;&gt;&lt;/figure&gt;&lt;p&gt;訂正があれば、下の&lt;b&gt;「変更する」&lt;/b&gt;から編集できます。&lt;/p&gt;
+&lt;p&gt;ポストの仕方はこれだけです！&lt;/p&gt;
+&lt;h2&gt;SNSにはこのように流れます&lt;/h2&gt;
+&lt;p&gt;上の仮選手はSNSにつながっていませんので、Players1stエバンジェリストの宮田義人選手の画面から引用させていただきます。&lt;/p&gt;
+&lt;p&gt;まず、投稿時のTwitter連携からはこのように流れています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;596&#34; data-orig-height=&#34;264&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110813.png&#34; alt=&#34;image&#34; data-orig-width=&#34;596&#34; data-orig-height=&#34;264&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のFacebookアカウントにも連携しているとこのように流れます。&lt;br&gt;（※これは別のイベントを投稿した際の画面です）&lt;/p&gt;
+&lt;figure data-orig-width=&#34;526&#34; data-orig-height=&#34;477&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111103.png&#34; alt=&#34;image&#34; data-orig-width=&#34;526&#34; data-orig-height=&#34;477&#34;&gt;&lt;/figure&gt;&lt;p&gt;そして、&lt;a href=&#34;https://twitter.com/pys1st&#34;&gt;Players1stのTwitterアカウント&lt;/a&gt;からも、ポストを紹介するツイートを流しています。&lt;/p&gt;
+&lt;p&gt;こちらはポストやイベントを作成してから１営業日以内に、よく人がSNSを見る時間帯を狙って投稿しています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;593&#34; data-orig-height=&#34;407&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110732.png&#34; alt=&#34;image&#34; data-orig-width=&#34;593&#34; data-orig-height=&#34;407&#34;&gt;&lt;/figure&gt;&lt;p&gt;同時に&lt;a href=&#34;https://www.facebook.com/players1st.web/?fref=ts&#34;&gt;Facebookページ&lt;/a&gt;でも拡散！&lt;/p&gt;
+&lt;figure data-orig-width=&#34;515&#34; data-orig-height=&#34;566&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110115.png&#34; alt=&#34;image&#34; data-orig-width=&#34;515&#34; data-orig-height=&#34;566&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のサポーター、フォロワーだけではなく、Players1stのフォロワー、提携メディアへも情報を拡散します。&lt;/p&gt;
+&lt;p&gt;そうして、このトレーニングマッチのポストは公開後３日間で２２０回近く読まれています🎉&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;なにをポストしたらいい？&lt;/h2&gt;
+&lt;p&gt;「やり方は見たらわかるのだけど、どんな内容を書いたらいいのかわからない😕」&lt;br&gt;という選手もおられるかと思います。&lt;/p&gt;
+&lt;p&gt;あなたがスポーツにかかわっている限りは、どんなことでもいいのです👌&lt;/p&gt;
+&lt;p&gt;例として細かく切り出してみましょう。&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;何時に寝て何時に起きている？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;大舞台の前にすることは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;食べ物で気を付けていることは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;日々の練習メニューは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;特別な練習は？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;体のメンテナンスは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;今日、気持ちよかった瞬間は？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;チームメイト、ライバルとの関係は？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;家族は、あなたのスポーツ生活にどんな言葉を？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;どうしてそのスポーツと出会ったのか？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;そのスポーツにのめり込んだターニングポイントは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;地域のイベント参加は？&lt;/li&gt;
+&lt;li&gt;どんな子どもだった？&lt;/li&gt;
+&lt;li&gt;こだわりのアイテムはある？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Players1stでは、ウェイトリフティングの&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/naoichiro&#34;&gt;大塩直一郎&lt;/a&gt;選手が、切り出し方がとてもうまいですね👍&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/posts/1&#34;&gt;4年後の自分 - Players1st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/posts/2&#34;&gt;完全栄養食品 - Players1st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://players1.st/posts/3&#34;&gt;三井温熱療法 - Players1st&lt;/a&gt; &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;長い文章は必要ありません。&lt;/p&gt;
+&lt;p&gt;小さく少しずつでもポストを続けるうちに、あなたの人物像やそのスポーツの魅力が伝わり、興味を持った人がファンに、もともとファンだった人はさらなる支援者になるでしょう。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;スポーツ選手であるあなたの日常は、応援したいわたしたちの非日常です。&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ほんの一握りのスポーツ選手であるあなたの日常を、少しだけ見せてみてください☺&lt;/p&gt;
+&lt;p&gt;では、&lt;a href=&#34;https://players1.st/posts/new&#34;&gt;まずはここから投稿してみましょう！&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われた選手は &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F%23form&amp;amp;t=N2QyNWZlNTY1ZTBjNWUyMTM2ODE0M2JkYTk3MjMyYWYzOTBjMjdhNyxmQUE5MmMweQ%3D%3D&#34;&gt;選手登録申請フォーム&lt;/a&gt; から申請して下さい。 審査後、承認された場合は登録用アドレスをお送りします。&lt;/p&gt;
+&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手マニュアル-イベントを作る方法</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+        <pubDate>Fri, 02 Sep 2016 11:59:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111047.jpg" alt="Featured image of post 選手マニュアル-イベントを作る方法" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;では、選手がイベントのお知らせをして、参加したい方がそのまま申し込みから事前決済まですることができます✌&lt;/p&gt;
+&lt;p&gt;スクール、クリニック、レッスン、
+&lt;p&gt;報告会、&lt;/p&gt;
+&lt;p&gt;交流会など、Players1stでイベントを作ってみましょう。&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;へのシェアも簡単なので、拡がりやすくなりますよ👍&lt;/p&gt;
+&lt;h2&gt;（１）イベント作成メニューへの行き方&lt;/h2&gt;
+&lt;p&gt;右上の三本線アイコンからメニューを開き、&lt;b&gt;「マイページ」&lt;/b&gt;を押します。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;1116&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;1116&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111047.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;マイページの中段に、&lt;b&gt;「イベント」&lt;/b&gt;欄があります。&lt;/p&gt;
+&lt;p&gt;その右端にある&lt;b&gt;「＋新規追加」&lt;/b&gt;を押します。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;681&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;681&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110615.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;イベント作成メニューに着きました✌&lt;/p&gt;
+&lt;h2&gt;（２）イベントの開催項目を入力する&lt;/h2&gt;
+&lt;p&gt;上から順番に、一つ一つ内容を入力していきます。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;イベントのタイトル&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;開催場所&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;参加費&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;定員&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;開催日時&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;受付期間&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;内容説明文&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%B7%A5%E5%A5%BF%A5%B0&#34;&gt;ハッシュタグ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;画像&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;1111&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;1111&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110706.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;「参加費」と「定員」は数字だけで、「円」「人」は要りません。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;開催日時と受付期間は、時間も設定します。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;受付期間の時間まで決めていないという場合は、「00:00」でかまいません。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;840&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;840&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110500.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%B7%A5%E5%A5%BF%A5%B0&#34;&gt;ハッシュタグ&lt;/a&gt;をつけると、同じタグをつけたイベントがつながります。&lt;br&gt;ぜひ活用しましょう☺&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%D5%A5%A9%A5%F3&#34;&gt;スマートフォン&lt;/a&gt;からの場合はカンマは要りません。&lt;br&gt;単語ごとに一つ一つ入力すれば、自動的に区切りが入ります👌&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;957&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;957&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110847.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;最後は&lt;b&gt;「登録」&lt;/b&gt;ボタンを忘れずに❗&lt;/p&gt;
+&lt;p&gt;これで完成です。&lt;/p&gt;
+&lt;h2&gt;（３）内容の変更もできます&lt;/h2&gt;
+&lt;p&gt;登録後の画面で内容を確認しましょう。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;1023&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;1023&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110209.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;内容に間違いや、公開後の変更があった場合は、この下にある&lt;b&gt;「変更」ボタン&lt;/b&gt;を押して再編集します。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;681&#34; data-orig-width=&#34;720&#34;&gt;&lt;img data-orig-height=&#34;681&#34; data-orig-width=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110342.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;（４）&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;で注目を集めましょう&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.players1.st/post/149500610897/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-sns%E9%80%A3%E6%90%BA%E3%81%AE%E6%96%B9%E6%B3%95&#34;&gt;SNSの連携設定&lt;/a&gt;を済ませておくと、&lt;b&gt;イベントを公開した時点で自動的に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;に投稿されます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Players1stの&lt;a href=&#34;https://www.facebook.com/players1st.web/&#34;&gt;Facebookページ&lt;/a&gt;、&lt;a href=&#34;https://twitter.com/pys1st&#34;&gt;Twitter&lt;/a&gt;にも告知が流れます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;公開後もイベント画面の下にあるボタンから、いつでも&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;に投稿できます。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;240&#34; data-orig-width=&#34;329&#34;&gt;&lt;img data-orig-height=&#34;240&#34; data-orig-width=&#34;329&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110130.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;イベントの告知、拡散、申し込み受付から入&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B6%E2%B4%C9&#34;&gt;金管&lt;/a&gt;理までできます。&lt;/p&gt;
+&lt;p&gt;ぜひ、ご活用ください‼&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われた選手は &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F%23form&amp;amp;t=N2QyNWZlNTY1ZTBjNWUyMTM2ODE0M2JkYTk3MjMyYWYzOTBjMjdhNyxmQUE5MmMweQ%3D%3D&#34;&gt;選手登録申請フォーム&lt;/a&gt; から申請して下さい。 審査後、承認された場合は登録用アドレスをお送りします。&lt;/p&gt;
+&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手マニュアル-SNS連携の方法</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-sns%E9%80%A3%E6%90%BA%E3%81%AE%E6%96%B9%E6%B3%95/</link>
+        <pubDate>Fri, 26 Aug 2016 17:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-sns%E9%80%A3%E6%90%BA%E3%81%AE%E6%96%B9%E6%B3%95/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110552.png" alt="Featured image of post 選手マニュアル-SNS連携の方法" /&gt;&lt;body&gt;
+&lt;p&gt;インターネット上でのPRに欠かせない&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;（&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%B7%A5%E3%A5%EB%A1%A6%A5%CD%A5%C3%A5%C8%A5%EF%A1%BC%A5%AD%A5%F3%A5%B0%A1%A6%A5%B5%A1%BC%A5%D3%A5%B9&#34;&gt;ソーシャル・ネットワーキング・サービス&lt;/a&gt;）、ご自身で&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;などを利用している選手も多いのではないでしょうか？&lt;/p&gt;
+&lt;p&gt;今回は、&lt;b&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1s&lt;/a&gt;tと&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;の連携&lt;/b&gt;についてご説明します。&lt;/p&gt;
+&lt;p&gt;連携しておくと、
+&lt;p&gt;&lt;b&gt;Players1stに投稿しただけで、自動的に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;にタイトルやリンクが流れます。&lt;/b&gt;&lt;br&gt;いちいちシェアしなくてもいいので、楽になりますよ👍&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;なお、すでに&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;、または&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;をご利用されている方向けの説明です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;（まだの方も、メールアドレスとパスワードを入力するだけで始められます）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;にログインします。&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;右上の三本線メニューから、マイページの下▼にある「設定」へ進みます。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;360&#34; data-orig-height=&#34;400&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110552.png&#34; alt=&#34;image&#34; data-orig-width=&#34;360&#34; data-orig-height=&#34;400&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;連携メニューがあります。&lt;/p&gt;
+&lt;p&gt;最初は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;も&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;も&lt;b&gt;「リンクされていません」&lt;/b&gt;の状態です。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1116&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110510.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1116&#34;&gt;&lt;/figure&gt;&lt;p&gt;横の緑のボタンから１つずつ設定しましょう。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;（１）&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;の場合&lt;/h2&gt;
+&lt;p&gt;「連携する」ボタンを押すと、このような画面になります。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1108&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110633.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1108&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;「次へ」&lt;/b&gt;ボタンを押して進みます。&lt;/p&gt;
+&lt;p&gt;Players1stに投稿した際に、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;にも連携して投稿されるようになるので、その範囲を決める画面になります。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1132&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111300.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1132&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;で認定した「友達」だけではなく、誰にでも見て欲しい投稿なので、ここは&lt;b&gt;「全体公開」&lt;/b&gt;にするのがおすすめです！&lt;/p&gt;
+&lt;p&gt;▼から範囲を変更できます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;714&#34; data-orig-height=&#34;1124&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110058.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;714&#34; data-orig-height=&#34;1124&#34;&gt;&lt;/figure&gt;&lt;p&gt;これで、友達の友達へも、これまであなたを知らなかった方へも投稿を見てもらうことができます。&lt;/p&gt;
+&lt;p&gt;「OK」すると、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;が「リンク済み」&lt;/b&gt;になっています。&lt;/p&gt;
+&lt;p&gt;もし、連携解除したくなった場合は、&lt;b&gt;右の「解除」ボタン&lt;/b&gt;からできます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1228&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110444.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1228&#34;&gt;&lt;/figure&gt;&lt;h2&gt;（２）&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;の場合&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;も同様に&lt;b&gt;「連携する」&lt;/b&gt;ボタンから進みます。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%D5%A5%A9%A5%F3&#34;&gt;スマートフォン&lt;/a&gt;であれば、どのアプリから開くかを選ぶ画面になるので、普段&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;を使っているアプリを選びます。&lt;/p&gt;
+&lt;p&gt;Players1stに連携する許可をする画面になるので、&lt;br&gt;&lt;b&gt;「連携アプリを認証」&lt;/b&gt;を押します。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110601.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34;&gt;&lt;/figure&gt;&lt;p&gt;これで、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;との連携ができました。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110527.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34;&gt;&lt;/figure&gt;&lt;p&gt;この設定をすると、&lt;b&gt;今後の投稿・イベント作成・サポーターズクラブ作成、スターをつけた時に自動的に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;にも投稿されます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;シェアは各ページからもできます&lt;/h2&gt;
+&lt;p&gt;連携設定前の投稿を&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;にシェアする場合の方法もあります。&lt;/p&gt;
+&lt;p&gt;投稿時に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;に流しているけれど、イベントの期日が近づいてきた時などに再度流したい場合にも使えます。&lt;/p&gt;
+&lt;p&gt;そのポスト（投稿）・イベントなどのページを開いて、&lt;b&gt;下にある&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;シェアボタンを押すだけ&lt;/b&gt;です！&lt;/p&gt;
+&lt;figure data-orig-width=&#34;361&#34; data-orig-height=&#34;619&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110702.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;361&#34; data-orig-height=&#34;619&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;プロフィールページも同様に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;にシェアすることができます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Players1stを使って、サポーターの方々に随時情報を届けて応援してもらいましょう！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われた選手は &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F%23form&amp;amp;t=N2QyNWZlNTY1ZTBjNWUyMTM2ODE0M2JkYTk3MjMyYWYzOTBjMjdhNyxmQUE5MmMweQ%3D%3D&#34;&gt;選手登録申請フォーム&lt;/a&gt; から申請して下さい。 審査後、承認された場合は登録用アドレスをお送りします。&lt;/p&gt;
+&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

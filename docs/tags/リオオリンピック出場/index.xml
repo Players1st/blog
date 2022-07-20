@@ -1,46 +1,154 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>リオオリンピック出場 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%83%AA%E3%82%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%87%BA%E5%A0%B4/</link>
-    <description>Recent content in リオオリンピック出場 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Mon, 19 Feb 2018 15:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%83%AA%E3%82%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%87%BA%E5%A0%B4/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title> 東京五輪ボート競技で金メダル獲得を目指す中野紘志選手のグッズ販売を開始</title>
-      <link>https://blog.players1.st/2018/02/19/150045/</link>
-      <pubDate>Mon, 19 Feb 2018 15:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/19/150045/</guid>
-      <description>2018年2月19日
-報道関係者各位</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入</title>
-      <link>https://blog.players1.st/2017/09/15/172039/</link>
-      <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/09/15/172039/</guid>
-      <description>2017年9月15日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」がリオオリンピック出場 中野紘志選手へサービス提供開始。東京オリンピックで金メダル獲得に向けスポンサー募集・プロモーションをサポート</title>
-      <link>https://blog.players1.st/2017/08/17/173036/</link>
-      <pubDate>Thu, 17 Aug 2017 17:30:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/08/17/173036/</guid>
-      <description>2017年8月17日
-報道関係者各位
-プレスリリース</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>リオオリンピック出場 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%83%AA%E3%82%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%87%BA%E5%A0%B4/</link>
+        <description>Recent content in リオオリンピック出場 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Mon, 19 Feb 2018 15:00:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%83%AA%E3%82%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%87%BA%E5%A0%B4/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title> 東京五輪ボート競技で金メダル獲得を目指す中野紘志選手のグッズ販売を開始</title>
+        <link>https://blog.players1.st/p/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%BC%E3%83%88%E7%AB%B6%E6%8A%80%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%B8%AD%E9%87%8E%E7%B4%98%E5%BF%97%E9%81%B8%E6%89%8B%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B/</link>
+        <pubDate>Mon, 19 Feb 2018 15:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E6%9D%B1%E4%BA%AC%E4%BA%94%E8%BC%AA%E3%83%9C%E3%83%BC%E3%83%88%E7%AB%B6%E6%8A%80%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%B8%AD%E9%87%8E%E7%B4%98%E5%BF%97%E9%81%B8%E6%89%8B%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110817.png" alt="Featured image of post  東京五輪ボート競技で金メダル獲得を目指す中野紘志選手のグッズ販売を開始" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;br&gt;2018年2月19日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」 を運営する株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）が、リオオリンピック出場ボート競技の中野紘志選手のグッズ販売を開始いたしました。&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;グッズは&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%D5%A5%A9%A5%F3&#34;&gt;スマートフォン&lt;/a&gt;カ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D0%A1%BC&#34;&gt;バー&lt;/a&gt;、トートバッグなど&lt;/h2&gt;
+&lt;p&gt;Players1stのWebショップ内で取り扱う中野紘志選手のグッズは下記の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%D5%A5%A9%A5%F3&#34;&gt;スマートフォン&lt;/a&gt;ケース（&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/iPhone&#34;&gt;iPhone&lt;/a&gt;、Galaxy、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Xperia&#34;&gt;Xperia&lt;/a&gt;他）&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&#34;&gt;スマホ&lt;/a&gt;リング&lt;/li&gt;
+&lt;li&gt;トートバッグ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ボートを漕ぐ中野選手のシルエット、その軌跡が印象的なグッズに仕上がりました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1033&#34; data-orig-height=&#34;1137&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110817.png&#34; data-orig-width=&#34;1033&#34; data-orig-height=&#34;1137&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style=&#34;font-size: 14px;&#34;&gt;中野選手のグッズ販売サイト &lt;a href=&#34;https://players1st.official.ec/categories/836129&#34;&gt;https://players1st.official.ec/categories/836129&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ボート競技のグッズは国内でも珍しく、常に持ち歩くアイテムを購入することで、ファンが中野選手、及びボートという競技の支援をしている姿勢を目に見える形にできます。&lt;/p&gt;
+&lt;p&gt;なお、このWebショップでの売上金は製作原価を除いた利益の50%を選手に渡し、競技者としての活動資金をサポートします。&lt;/p&gt;
+&lt;p&gt;完全受注生産制で、1個から注文を受付け。販売、生産、配送まで一括してPlayers1stが行います。&lt;/p&gt;
+&lt;h2&gt;中野紘志選手について&lt;/h2&gt;
+&lt;p&gt;2016年リオオリンピックにて、ボート競技で男子日本代表として出場。2017年5月に開催された第39回全日本軽量級選手権の軽量級男子&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B7%A5%F3%A5%B0%A5%EB%A5%B9%A5%AB%A5%EB&#34;&gt;シングルスカル&lt;/a&gt;にて優勝し国内を代表するボート競技のトップアスリートです。&lt;/p&gt;
+&lt;p&gt;中野選手は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;で金メダルを目指しています。金メダル獲得に向けてより多くの人の期待を力にしたいとの思いがあり、Players1stではスポンサー募集、PR・ファン獲得などを行い中野選手をサポートしています。&lt;/p&gt;
+&lt;p&gt;すでに中野選手はPlayers1stにて一週間で133口のスポンサーを獲得した実績があります。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.players1.st/post/165359442040/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&#34;&gt;&lt;/a&gt;&lt;b&gt;[関連記事]&lt;br&gt;&lt;/b&gt;&lt;a href=&#34;http://blog.players1.st/post/165359442040/&#34;&gt;[プレスリリース] アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;中野紘志選手のプロフィールページ&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://players1.st/pirotirorin/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34;&gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+&lt;/iframe&gt;
+&lt;h2&gt;Players1stとは&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのための&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービスです。ファン獲得・スポンサー獲得・自動PR・セカンドキャリア支援など選手に必要な活動をサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録はアスリート・サポーター共に無料です。&lt;/p&gt;
+&lt;p&gt;現在、日本代表やオリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;出場を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;p&gt;アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」
+&lt;a href=&#34;https://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st&amp;amp;amp;t=MjhmNzE1Y2IxNjg5MjA4YWFkMTNlODkyMjljZWJiODVkNjQ0ODU5NSxpNThIeksyQw%3D%3D&amp;amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;amp;p=http%3A%2F%2Fblog.players1.st%2Fpost%2F165359442040%2F%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&amp;amp;amp;m=1&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;社名 株式会社プレイヤーズファースト&lt;br&gt;
+所在地 東京都世田谷区北烏山1-9-18&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; 深海 寛信&lt;br&gt;
+設立 2016年3月23日&lt;br&gt;
+企業URL &lt;a href=&#34;https://company.players1.st/&#34;&gt;http://company.players1.st&lt;br&gt;&lt;/a&gt;
+サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/&lt;br&gt;&lt;/a&gt;事業内容 アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C1%E9%80%B1%E9%96%93%E3%81%A7133%E5%8F%A3%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E7%8D%B2%E5%BE%97%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%8C%E8%B3%87%E9%87%91%E3%82%92%E5%85%83%E3%81%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5/</link>
+        <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C1%E9%80%B1%E9%96%93%E3%81%A7133%E5%8F%A3%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E7%8D%B2%E5%BE%97%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%8C%E8%B3%87%E9%87%91%E3%82%92%E5%85%83%E3%81%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入" /&gt;&lt;body&gt;
+&lt;p&gt;2017年9月15日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、リオオリンピック出場ボート競技の中野紘志選手のスポンサーを1週間で133口獲得したことを発表いたします。&lt;/p&gt;
+&lt;h2&gt;1週間で133口スポンサー獲得&lt;/h2&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;758&#34; data-orig-width=&#34;539&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/da20ae93e3e24dbfffc4056e9e612e0a/tumblr_inline_owbb6eYsN11qzhrk3_540.png&#34; class=&#34;&#34; data-orig-height=&#34;758&#34; data-orig-width=&#34;539&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;中野選手がスポンサー募集を開始後、Players1stが&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;と&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;にてプロモーションを行い1万人以上が閲覧しました。&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;経由でスポンサー申込がされ短期間でのスポンサー獲得につながりました。スポンサーの特徴として、複数口や年間一括の銀行振込の割合が多かったことがあげられます。一口月額500円と少額に設定したことで、払いやすく広まりやすかったと考えています。&lt;/p&gt;
+&lt;p&gt;「少額スポンサー x インターネットで広く多く」の組み合わせは、インターネットの力でスポーツを支えることができる好例となりました。&lt;/p&gt;
+&lt;h2&gt;選手がトレーニングシューズを購入&lt;/h2&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;679&#34; data-orig-width=&#34;477&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111121.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/f703ecd039c13765a919deffa2f7ef78/tumblr_inline_owbb6fFL7b1qzhrk3_540.png&#34; class=&#34;&#34; data-orig-height=&#34;679&#34; data-orig-width=&#34;477&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111121.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;中野選手は資金を元にトレーニングシューズを購入したことをPlayers1st内で報告しています。選手へ直接支援金を渡せる課金窓口を提供することで、素早く日々のトレーニングの質を向上させることができるようになりました。&lt;/p&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;今回の事例より、さらなるスポンサー募集に向けた効果的なプロモーションやシステム改善に努めていきます。また、オリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;、ワールド&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AB%A5%C3%A5%D7&#34;&gt;カップ&lt;/a&gt;など世界で戦うアスリートを支えるスポーツインターネットサービスとして、アスリートの新規登録を進めていく予定です。&lt;/p&gt;
+&lt;h2&gt;中野紘志選手について&lt;/h2&gt;
+&lt;p&gt;2016年リオオリンピックにて、ボート競技で男子日本代表として出場。2017年5月に開催された第39回全日本軽量級選手権の軽量級男子&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B7%A5%F3%A5%B0%A5%EB%A5%B9%A5%AB%A5%EB&#34;&gt;シングルスカル&lt;/a&gt;にて優勝し国内を代表するボート競技のトップアスリートです。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;中野選手は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;で金メダルを目指しています。金メダル獲得に向けてより多くの人の期待を力にしたいとの思いがあり、Players1stではスポンサー募集、PR・ファン獲得などを行い中野選手をサポートしています。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。&lt;/p&gt;
+&lt;p&gt;アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;国内第一人者の選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト&lt;br&gt;
+所在地         東京都世田谷区北烏山1-9-18
+&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信&lt;br&gt;
+設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st
+&lt;/a&gt;&lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/
+&lt;/a&gt;&lt;br&gt;事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/0B_VrJS-a3nLpb2dBZUNBWmcxUVU?usp=sharing&#34;&gt;https://drive.google.com/drive/folders/0B_VrJS-a3nLpb2dBZUNBWmcxUVU?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」がリオオリンピック出場 中野紘志選手へサービス提供開始。東京オリンピックで金メダル獲得に向けスポンサー募集・プロモーションをサポート</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E3%83%AA%E3%82%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%87%BA%E5%A0%B4-%E4%B8%AD%E9%87%8E%E7%B4%98%E5%BF%97%E9%81%B8%E6%89%8B%E3%81%B8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%81%AB%E5%90%91%E3%81%91%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</link>
+        <pubDate>Thu, 17 Aug 2017 17:30:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E3%83%AA%E3%82%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%87%BA%E5%A0%B4-%E4%B8%AD%E9%87%8E%E7%B4%98%E5%BF%97%E9%81%B8%E6%89%8B%E3%81%B8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%81%AB%E5%90%91%E3%81%91%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110153.jpg" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」がリオオリンピック出場 中野紘志選手へサービス提供開始。東京オリンピックで金メダル獲得に向けスポンサー募集・プロモーションをサポート" /&gt;&lt;body&gt;
+&lt;p&gt;2017年8月17日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、リオオリンピック出場 ボート競技の中野紘志選手へサービス提供を開始したことを発表いたします。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1024&#34; data-orig-height=&#34;492&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110808.png&#34; data-orig-width=&#34;1024&#34; data-orig-height=&#34;492&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;中野紘志選手のプロフィールページ&lt;a href=&#34;https://players1.st/pirotirorin&#34;&gt;&lt;br&gt;https://players1.st/pirotirorin&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;中野紘志選手について&lt;/h2&gt;
+&lt;p&gt;2016年リオオリンピックにて、ボート競技で男子日本代表として出場。男子ボートの日本代表出場枠は2名で男子軽量級ダブルスカルに出場。順位は15位でした。2017年5月に開催された第39回全日本軽量級選手権の軽量級男子&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B7%A5%F3%A5%B0%A5%EB%A5%B9%A5%AB%A5%EB&#34;&gt;シングルスカル&lt;/a&gt;にて優勝しています。国内を代表するボート競技のトップアスリートです。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;900&#34; data-orig-height=&#34;599&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110153.jpg&#34; data-orig-width=&#34;900&#34; data-orig-height=&#34;599&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;Players1st利用開始の経緯&lt;/h2&gt;
+&lt;p&gt;中野選手は競技活動の資金課題について、「日本代表に選ばれると遠征費などは自腹になり100万円ほど追加でかかり、それが払えないので辞退するケースもあった。」と話しています。生活するだけでなく、選手としての活動費も自分でなんとかしなければいけない現状がありました。代表 深海が中野選手のブログ記事が目に止まったことがきっかけでした。アスリートの課題に悩み、それでも前を向く中野選手の文章に「この選手にPlayers1stを使ってもらい一緒に解決したい。」と思い中野選手の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントにメッセージを出しました。メッセージのやりとりをしてPlayers1stのアカウント登録をし、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;で金メダルを獲得するためのPlayers1stのサポートが始まりました。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;900&#34; data-orig-height=&#34;599&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110531.jpg&#34; data-orig-width=&#34;900&#34; data-orig-height=&#34;599&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;で金メダルを目指す&lt;/h2&gt;
+&lt;p&gt;中野選手は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;で金メダルを目指しています。金メダル獲得に向けてより多くの人の期待を力にしたいとの思いがあります。Players1stは、スポンサー募集、PR・ファン獲得などを行い中野選手をサポートします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;900&#34; data-orig-height=&#34;600&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111247.jpg&#34; data-orig-width=&#34;900&#34; data-orig-height=&#34;600&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。&lt;/p&gt;
+&lt;p&gt;アスリートのスポンサー募集サービス「Players1st」&lt;a href=&#34;https://players1.st&#34;&gt;&lt;br&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;figure data-orig-width=&#34;512&#34; data-orig-height=&#34;392&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111134.png&#34; data-orig-width=&#34;512&#34; data-orig-height=&#34;392&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;国内第一人者の選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト&lt;br&gt;所在地         東京都世田谷区北烏山1-9-18&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日&lt;br&gt;
+企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;&lt;br&gt;事業内容      アスリートのスポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=0B_VrJS-a3nLpZjBLc3RZOThTelU&#34;&gt;https://drive.google.com/open?id=0B_VrJS-a3nLpZjBLc3RZOThTelU&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>blog on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/blog/</link>
-    <description>Recent content in blog on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 03 Aug 2016 12:44:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Players1stブログ スタート！</title>
-      <link>https://blog.players1.st/2016/08/03/124434/</link>
-      <pubDate>Wed, 03 Aug 2016 12:44:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/08/03/124434/</guid>
-      <description>ブログができました！
-アドレスは blog.players1.st です。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>blog on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/blog/</link>
+        <description>Recent content in blog on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Wed, 03 Aug 2016 12:44:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Players1stブログ スタート！</title>
+        <link>https://blog.players1.st/p/players1st%E3%83%96%E3%83%AD%E3%82%B0-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88/</link>
+        <pubDate>Wed, 03 Aug 2016 12:44:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/players1st%E3%83%96%E3%83%AD%E3%82%B0-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post Players1stブログ スタート！" /&gt;&lt;body&gt;
+&lt;p&gt;ブログができました！&lt;/p&gt;
+&lt;p&gt;アドレスは &lt;a href=&#34;http://blog.players1.st&#34;&gt;blog.players1.st&lt;/a&gt; です。&lt;/p&gt;
+&lt;p&gt;今後、リリース情報、新機能紹介、設定方法の説明、プレイヤーズファースト社の中の様子など発信していきます。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/RSS&#34;&gt;RSS&lt;/a&gt;でも配信しています。&lt;a href=&#34;http://blog.players1.st/rss&#34;&gt;http://blog.players1.st/rss&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;チェックいただければです :-)&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

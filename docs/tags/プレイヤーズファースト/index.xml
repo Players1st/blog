@@ -1,56 +1,262 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>プレイヤーズファースト on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</link>
-    <description>Recent content in プレイヤーズファースト on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Tue, 28 Nov 2017 13:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現</title>
-      <link>https://blog.players1.st/2017/11/28/130025/</link>
-      <pubDate>Tue, 28 Nov 2017 13:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/11/28/130025/</guid>
-      <description>2017年11月28日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が300円から支援金を送れる「コインパス」を機能拡張。アスリートが返信メッセージを送信可能に</title>
-      <link>https://blog.players1.st/2017/10/17/140026/</link>
-      <pubDate>Tue, 17 Oct 2017 14:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/10/17/140026/</guid>
-      <description>2017年10月17日
+    <channel>
+        <title>プレイヤーズファースト on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</link>
+        <description>Recent content in プレイヤーズファースト on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Tue, 28 Nov 2017 13:00:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E8%87%AA%E5%8B%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%81%AE%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2%E3%81%AE%E5%AE%8C%E5%85%A8%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE/</link>
+        <pubDate>Tue, 28 Nov 2017 13:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E8%87%AA%E5%8B%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%81%AE%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2%E3%81%AE%E5%AE%8C%E5%85%A8%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111251.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現" /&gt;&lt;body&gt;
+&lt;p&gt;2017年11月28日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）は、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」にて、自動ニュース検索機能の外部向け販売を開始いたしました。サービス名をは「Auto PR」とし、手間のかかるメディア掲載情報の検索業務を完全自動化し、低コストで正確な情報収集サービスを提供します。&lt;/p&gt;
+&lt;p&gt;「Auto PR」&lt;a href=&#34;https://autopr.players1.st/&#34;&gt;https://autopr.players1.st/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1058&#34; data-orig-height=&#34;739&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111251.png&#34; data-orig-width=&#34;1058&#34; data-orig-height=&#34;739&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;「Auto PR」とは&lt;/h2&gt;
+&lt;p&gt;膨大なニュースサイトからキーワード検索して、マッチした記事をお知らせする、自動ニュース検索&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;サービスです。システムが特定のキーワードをニュースサイトから検索し、マッチした記事をメールでお知らせします。利用者は最初に検索キーワードを決めたらメールが届くのを待つだけで、あとはシステムが自動で毎日検索を行います。&lt;/p&gt;
+&lt;p&gt;
+Players1stが独自に開発した、メディア掲載情報を自動で検索投稿するシステムを外部向けにカスタマイズしました。この機能は日々トレーニングや試合を行うトップアスリートにとって、PRをすべて任せることができるメリットがあり、アスリートを支える大きな機能の一つとなっています。&lt;/p&gt;
+&lt;h2&gt;想定利用顧客&lt;/h2&gt;
+&lt;p&gt;以下を想定利用顧客としています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;タレントやアスリートを抱えるマネジメン事務所 (氏名や競技名で検索)&lt;/li&gt;
+&lt;li&gt;企業のPR担当者 (会社名や自社サービス名で検索)&lt;/li&gt;
+&lt;li&gt;ライバル会社の動向チェックしたい製品開発者 (競合製品名で検索)&lt;/li&gt;
+&lt;li&gt;スポーツクラブ・チーム (クラブ名や選手名で検索)&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A8%A5%B4%A5%B5%A1%BC%A5%C1&#34;&gt;エゴサーチ&lt;/a&gt;したい個人 (自分の名前で検索)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;サービス内容&lt;/h2&gt;
+&lt;p&gt;特定のキーワードにマッチしたニュースサイトの記事のタイトル、URLリンクを含んだメールを送信します。検索とメール配信は1日1回行います。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;特徴&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt; : 検索からお知らせまで全部自動化。特別なアプリは必要ありません。&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;で検索からお知らせまで自動で行います。&lt;/li&gt;
+&lt;li&gt;メール : メールを待つだけです。シンプルです。&lt;/li&gt;
+&lt;li&gt;膨大なニュースサイト : 検索対象のニュースサイトは大手からマイナーなサイトまで膨大な数にのぼります。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure data-orig-width=&#34;780&#34; data-orig-height=&#34;936&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110257.png&#34; data-orig-width=&#34;780&#34; data-orig-height=&#34;936&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;サンプ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EB%A5%E1%A1%BC%A5%EB&#34;&gt;ルメール&lt;/a&gt; (2017年11月16日のニュースにてキーワード「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E7%C3%AB%E6%C6%CA%BF&#34;&gt;大谷翔平&lt;/a&gt;」を検索)&lt;/p&gt;
+&lt;h2&gt;価格&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;初期費無料、月額6,890円 税込&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DC%A5%EA%A5%E5%A1%BC%A5%E0%A5%C7%A5%A3%A5%B9%A5%AB%A5%A6%A5%F3%A5%C8&#34;&gt;ボリュームディスカウント&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;年一括 (12ヶ月分一括支払い) : 1ヶ月分OFF 75,790円 (1ヶ月あたり 6,316円)&lt;/li&gt;
+&lt;li&gt;支払い方法 : クレジットカード決済もしくは銀行振込&lt;/li&gt;
+&lt;li&gt;お試し1ヶ月キャンペーン : 1ヶ月分 70%OFF 月額2,060円 税込&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;20個〜 20％OFF 月額5,510円/個 20個 合計110,200円 税込&lt;/li&gt;
+&lt;li&gt;50個〜 35％OFF 月額4,478円/個 50個 合計223,900円 税込&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;販売パートナー募集&lt;/h2&gt;
+&lt;p&gt;Auto PRの販売パートナー事業者を募集します。問い合わせフォームから受付しています。
+販売成約条件 : 3ヶ月分の売上100％。紹介顧客の利用開始から3ヶ月間で発生した売上の100％をパートナー事業者にお渡しします。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのための&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービスです。ファン獲得・スポンサー獲得・自動PR・セカンドキャリア支援など選手に必要な活動をサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録はアスリート・サポーター共に無料です。&lt;/p&gt;
+&lt;p&gt;
+現在、日本代表やオリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;出場を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;707&#34; data-orig-height=&#34;465&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110028.png&#34; data-orig-width=&#34;707&#34; data-orig-height=&#34;465&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;左から、カヌー リオオリンピック出場 中野紘志選手、フィンスイミング日本代表 松田志保選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C6%FC%CB%DC%C2%E5%C9%BD&#34;&gt;フットサル日本代表&lt;/a&gt; 室田祐希選手、ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ン日本代表 若林唯選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;日本代表 田畑輝樹選手&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト &lt;br&gt;所在地         東京都世田谷区北烏山1-9-18
+&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;
+&lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/&lt;/a&gt;
+&lt;br&gt;事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像や本文のPDFファイルをお求めの場合、こちらよりダウンロードしてご活用ください。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1nFrRgMV3pWbrV95jNZMPsRksUP65GDTm?usp=sharing&#34;&gt;https://drive.google.com/drive/folders/1nFrRgMV3pWbrV95jNZMPsRksUP65GDTm?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が300円から支援金を送れる「コインパス」を機能拡張。アスリートが返信メッセージを送信可能に</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C300%E5%86%86%E3%81%8B%E3%82%89%E6%94%AF%E6%8F%B4%E9%87%91%E3%82%92%E9%80%81%E3%82%8C%E3%82%8B%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%82%92%E6%A9%9F%E8%83%BD%E6%8B%A1%E5%BC%B5%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%8C%E8%BF%94%E4%BF%A1%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E9%80%81%E4%BF%A1%E5%8F%AF%E8%83%BD%E3%81%AB/</link>
+        <pubDate>Tue, 17 Oct 2017 14:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C300%E5%86%86%E3%81%8B%E3%82%89%E6%94%AF%E6%8F%B4%E9%87%91%E3%82%92%E9%80%81%E3%82%8C%E3%82%8B%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%82%92%E6%A9%9F%E8%83%BD%E6%8B%A1%E5%BC%B5%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%8C%E8%BF%94%E4%BF%A1%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E9%80%81%E4%BF%A1%E5%8F%AF%E8%83%BD%E3%81%AB/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111256.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が300円から支援金を送れる「コインパス」を機能拡張。アスリートが返信メッセージを送信可能に" /&gt;&lt;body&gt;
+&lt;p&gt;2017年10月17日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;
+プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）は、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」にて、300円からメッセージ付き支援金を送れる「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;」の機能拡張を行いました。これによりアスリートから返信メッセージが送れるようになります。&lt;/p&gt;
+&lt;p&gt;「Players1st（プレイヤーズファースト）」
+&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;640&#34; data-orig-width=&#34;640&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111256.png&#34; data-orig-height=&#34;640&#34; data-orig-width=&#34;640&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;」とは&lt;/h2&gt;
+&lt;p&gt;アスリートへメッセージ付きの支援金を届けるスポット課金の機能です。Players1stの登録アスリートは、いつでもどこからでも支援を受け付けることができます。サポーターは、数ステップでクレジットカード決済を完了し、支援金とともにメッセージを送ることができます。支援金は300円から受付可能で上限はありません。&lt;/p&gt;
+&lt;p&gt;なお、支援金のうち15%をプレイヤーズファーストが手数料として徴収し、残りの85% を選手に支払います。手数料にはクレジット決済手数料や選手の口座への振込手数料を含みます。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;は、手軽に少額からアスリートに直接支援金を届けることができるため、多くのサポーターに利用されてきました。ゴールを決めた時、試合に勝った時・負けた時、誕生日祝などに送られ、メッセージはアスリートへ大きな励ましとなっていました。「いつもコ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;してくれるサポーターにお礼が言いたい！」とのアスリートの声に答えて、機能開発を行いました。&lt;/p&gt;
+&lt;h2&gt;返信メッセージ機能追加&lt;/h2&gt;
+&lt;p&gt;今まで支払う側が一方的にメッセージを送っていたものをアスリートからもメッセージを返信できるようにしました。この機能追加によって、アスリートはサポーターに思いを伝えることでより強い結びつきが生まれ、競技活動にプラスになることを目指しています。&lt;/p&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;世界で戦うアリートの環境改善に向け、インターネット上でもアスリートとサポーターが心を通わせられるより良い支援関係が産まれる場となれるよう、機能拡充やテク&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%CE%A5%ED&#34;&gt;ノロ&lt;/a&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B8%A1%BC&#34;&gt;ジー&lt;/a&gt;をスポーツに活かす取り組みを続けていきます。また、オリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;、ワールド&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AB%A5%C3%A5%D7&#34;&gt;カップ&lt;/a&gt;など世界で戦うアスリートを支えるスポーツインターネットサービスとして、アスリートの新規登録を進めていく予定です。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのための&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービスです。ファン獲得・スポンサー獲得・自動PR・セカンドキャリア支援など選手に必要な活動をサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録はアスリート・サポーター共に無料です。&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%DF%B5%A8%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;冬季オリンピック&lt;/a&gt;出場を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;p&gt;選手一覧&lt;br&gt;&lt;a href=&#34;https://players1.st/players&#34;&gt;https://players1.st/players&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;465&#34; data-orig-width=&#34;707&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110024.png&#34; data-orig-height=&#34;465&#34; data-orig-width=&#34;707&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;左から、カヌー リオオリンピック出場 中野紘志選手、フィンスイミング日本代表 松田志保選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C6%FC%CB%DC%C2%E5%C9%BD&#34;&gt;フットサル日本代表&lt;/a&gt; 室田祐希選手、ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ン日本代表 若林唯選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;日本代表 田畑輝樹選手&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト
+&lt;br&gt;所在地         東京都世田谷区北烏山1-9-18&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;&lt;br&gt;
+サービスURL &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;br&gt;
+事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像や本文のPDFファイルをお求めの場合、こちらよりダウンロードしてご活用ください。
+&lt;a href=&#34;https://drive.google.com/drive/folders/0B_VrJS-a3nLpUkwzRHl3dDY3Ym8?usp=sharing&#34;&gt;https://drive.google.com/drive/folders/0B_VrJS-a3nLpUkwzRHl3dDY3Ym8?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;担当 : 押田&lt;br&gt;Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が登録アスリートのグッズ作成・販売を開始。利益をアスリートに還元。1点から注文受付、送料無料</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E7%99%BB%E9%8C%B2%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E4%BD%9C%E6%88%90%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B%E5%88%A9%E7%9B%8A%E3%82%92%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AB%E9%82%84%E5%85%831%E7%82%B9%E3%81%8B%E3%82%89%E6%B3%A8%E6%96%87%E5%8F%97%E4%BB%98%E9%80%81%E6%96%99%E7%84%A1%E6%96%99/</link>
+        <pubDate>Wed, 30 Aug 2017 11:59:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E7%99%BB%E9%8C%B2%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%B0%E3%83%83%E3%82%BA%E4%BD%9C%E6%88%90%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B%E5%88%A9%E7%9B%8A%E3%82%92%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AB%E9%82%84%E5%85%831%E7%82%B9%E3%81%8B%E3%82%89%E6%B3%A8%E6%96%87%E5%8F%97%E4%BB%98%E9%80%81%E6%96%99%E7%84%A1%E6%96%99/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110354.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が登録アスリートのグッズ作成・販売を開始。利益をアスリートに還元。1点から注文受付、送料無料" /&gt;&lt;body&gt;
+&lt;p&gt;2017年8月30日 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;
+プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、登録アスリートのオリジナルグッズの作成と販売を&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AA%A5%F3%A5%E9%A5%A4%A5%F3%A5%B9%A5%C8%A5%A2&#34;&gt;オンラインストア&lt;/a&gt;にて開始しました。1点から注文受付、送料無料。利益の半分がアスリートに渡ります。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;600&#34; data-orig-width=&#34;800&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110354.png&#34; data-orig-height=&#34;600&#34; data-orig-width=&#34;800&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Players1st プレイヤーズファースト
+オフィシャルショップ
+&lt;a href=&#34;https://players1st.official.ec/&#34;&gt;https://players1st.official.ec/&lt;/a&gt;
+&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;768&#34; data-orig-width=&#34;1024&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110314.png&#34; data-orig-height=&#34;768&#34; data-orig-width=&#34;1024&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;グッズ一例&lt;/p&gt;
+&lt;h2&gt;販売方法&lt;/h2&gt;
+&lt;p&gt;「Players1stオフィシャルショップ」として&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AA%A5%F3%A5%E9%A5%A4%A5%F3%A5%B9%A5%C8%A5%A2&#34;&gt;オンラインストア&lt;/a&gt;を開設し、Players1stの登録アスリートのグッズの作成・販売・送付を行います。1点から注文可能で送料は無料です。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;500&#34; data-orig-width=&#34;500&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110727.png&#34; data-orig-height=&#34;500&#34; data-orig-width=&#34;500&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;利益の半分をアスリートへ&lt;/h2&gt;
+&lt;p&gt;販売価格から原価を引いた利益の半分がアスリートに渡ります。アスリートはPlayers1stに登録するだけで負担なくファンとの新しいつながりから収益を得ることができます。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;500&#34; data-orig-width=&#34;500&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110106.png&#34; data-orig-height=&#34;500&#34; data-orig-width=&#34;500&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;きっかけはファンの声&lt;/h2&gt;
+&lt;p&gt;今までアスリート個人がグッズを作成・販売することは手間がかかりまた販売数が見込めないと生産が難しいことより、マナー競技のアスリート個人のグッズの販売はほとんど行われていない状況がありました。Players1stのサポーターユーザーから「応援しているアスリートのグッズが欲しい。」との意見から、Players1stが1点から作成・販売可能なシステムを構築しました。&lt;/p&gt;
+&lt;h2&gt;販売アイテムについて&lt;/h2&gt;
+&lt;p&gt;アスリートの写真やサインを取り入れたデザインの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&#34;&gt;スマホ&lt;/a&gt;ケース、トートバッグ、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&#34;&gt;スマホ&lt;/a&gt;リングなどを販売しています。&lt;/p&gt;
+&lt;h2&gt;今後の展開&lt;/h2&gt;
+&lt;p&gt;今後は、ファンの多い登録アスリートから順にグッズをラインナップしていきます。グッズのアスリート数は3ヶ月後に10名、2017年中に20名を目指します。また、グッズの種類を増やしアスリートひとりあたりのグッズ数も増やしていきます。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援などアスリートに必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。&lt;/p&gt;
+&lt;p&gt;
+アスリートのスポンサー募集サービス「Players1st」&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;
+https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも無料で行なえます。&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名               株式会社プレイヤーズファースト&lt;br&gt;所在地           東京都世田谷区北烏山1-9-18 &lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;    深海 寛信&lt;br&gt;設立               2016年3月23日 &lt;br&gt;企業URL        &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt; &lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt; &lt;br&gt;事業内容        アスリートのスポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://drive.google.com/open?id=0B_VrJS-a3nLpXy1BYXY4aG1jaXM&#34;&gt;https://drive.google.com/open?id=0B_VrJS-a3nLpXy1BYXY4aG1jaXM&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;担当 : 押田&lt;br&gt;Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が日本最高峰フットサルリーグ参戦クラブのペスカドーラ町田から選手個人スポンサー制度を委託。アスリートのさらなる環境改善に向けクラブと協力連携</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E6%97%A5%E6%9C%AC%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%8F%82%E6%88%A6%E3%82%AF%E3%83%A9%E3%83%96%E3%81%AE%E3%83%9A%E3%82%B9%E3%82%AB%E3%83%89%E3%83%BC%E3%83%A9%E7%94%BA%E7%94%B0%E3%81%8B%E3%82%89%E9%81%B8%E6%89%8B%E5%80%8B%E4%BA%BA%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%88%B6%E5%BA%A6%E3%82%92%E5%A7%94%E8%A8%97%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%81%95%E3%82%89%E3%81%AA%E3%82%8B%E7%92%B0%E5%A2%83%E6%94%B9%E5%96%84%E3%81%AB%E5%90%91%E3%81%91%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A8%E5%8D%94%E5%8A%9B%E9%80%A3%E6%90%BA/</link>
+        <pubDate>Thu, 24 Aug 2017 11:59:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E6%97%A5%E6%9C%AC%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%8F%82%E6%88%A6%E3%82%AF%E3%83%A9%E3%83%96%E3%81%AE%E3%83%9A%E3%82%B9%E3%82%AB%E3%83%89%E3%83%BC%E3%83%A9%E7%94%BA%E7%94%B0%E3%81%8B%E3%82%89%E9%81%B8%E6%89%8B%E5%80%8B%E4%BA%BA%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%88%B6%E5%BA%A6%E3%82%92%E5%A7%94%E8%A8%97%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%81%95%E3%82%89%E3%81%AA%E3%82%8B%E7%92%B0%E5%A2%83%E6%94%B9%E5%96%84%E3%81%AB%E5%90%91%E3%81%91%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A8%E5%8D%94%E5%8A%9B%E9%80%A3%E6%90%BA/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110420.jpg" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が日本最高峰フットサルリーグ参戦クラブのペスカドーラ町田から選手個人スポンサー制度を委託。アスリートのさらなる環境改善に向けクラブと協力連携" /&gt;&lt;body&gt;
+&lt;p&gt;2017年8月24日&lt;/p&gt;
+&lt;p&gt;
 報道関係者各位
-プレスリリース</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が登録アスリートのグッズ作成・販売を開始。利益をアスリートに還元。1点から注文受付、送料無料</title>
-      <link>https://blog.players1.st/2017/08/30/115943/</link>
-      <pubDate>Wed, 30 Aug 2017 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/08/30/115943/</guid>
-      <description>2017年8月30日 報道関係者各位
-プレスリリース</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が日本最高峰フットサルリーグ参戦クラブのペスカドーラ町田から選手個人スポンサー制度を委託。アスリートのさらなる環境改善に向けクラブと協力連携</title>
-      <link>https://blog.players1.st/2017/08/24/115942/</link>
-      <pubDate>Thu, 24 Aug 2017 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/08/24/115942/</guid>
-      <description>2017年8月24日
- 報道関係者各位 プレスリリース 株式会社プレイヤーズファースト</description>
-    </item>
-    
-  </channel>
+&lt;br&gt;プレスリリース &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;&#34;&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; :
+深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、日本最高峰フットサルリーグ「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;」の参戦クラブである&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;から選手個人スポンサー制度を外部委託されましたことを発表いたします。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;350&#34; data-orig-width=&#34;731&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110420.jpg&#34; data-orig-height=&#34;350&#34; data-orig-width=&#34;731&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;について &lt;br&gt;
+&lt;/h2&gt;
+&lt;figure data-orig-height=&#34;270&#34; data-orig-width=&#34;236&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111030.png&#34; data-orig-height=&#34;270&#34; data-orig-width=&#34;236&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;日本最高峰フットサルリーグの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;に参戦するクラブであり、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C6%FC%CB%DC%C2%E5%C9%BD&#34;&gt;フットサル日本代表&lt;/a&gt;選手を数多く抱える強豪クラブです。昨シーズンの成績は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;2016/2017 3位、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;2016/2017&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A1%BC%A5%AA%A5%D5&#34;&gt;プレーオフ&lt;/a&gt; 準優勝、第22回 &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C1%B4%C6%FC%CB%DC%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C1%AA%BC%EA%B8%A2&#34;&gt;全日本フットサル選手権&lt;/a&gt; ベスト8です。 &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;選手個人スポンサー制度について&lt;/h2&gt;
+&lt;p&gt;
+通常のクラブに対するスポンサーと異なり、選手個人に対してスポンサーする制度になります。スポンサーへの特典内容は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲームご招待などクラブと協力連携のもとに提供されます。Players1stのサイトから各選手のページもしくはスポンサー募集一覧からオンラインで申し込めます。支払い方法は、月額クレジットカードもしくはシーズン終了までの年間一括銀行振込に対応しています。具体的なスポンサーメニューと特典内容は以下となっています。&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;法人向け 21,600円/月 (1口)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+御社ホームページにて「○○会社は○○選手を応援しています」等の告知が可能です。&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;オフィシャルウェブサイトに御社名をリンクにて記載させて頂きます。&lt;/li&gt;
+&lt;li&gt; &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲームにご招待します。（１口につき年間招待席１枚）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;ご提案に応じて、選手と御社のつながりをアピールして頂くことができます。また、選手を応援するための様々なイベント、 企画をして頂くことが可能です。&lt;/li&gt;
+&lt;li&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;個人向け 5,400円/月 (1口) &lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;オフィシャルウェブサイトにお名前を記載させて頂きます。（ご希望の場合のみ） &lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲームにご招待します。（１口につき年間チケット「スタンド席」１枚）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲーム終了時に１F ロビーにて、契約選手との写真撮影が可能です。 &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;
+現在の登録選手と選手ページは以下となります。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;682&#34; data-orig-width=&#34;672&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110134.png&#34; data-orig-height=&#34;682&#34; data-orig-width=&#34;672&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;室田祐希 &lt;a href=&#34;https://players1.st/yuki-murota11&#34;&gt;https://players1.st/yuki-murota11&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;658&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110504.png&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;658&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt; 原辰介 &lt;a href=&#34;https://players1.st/Harashinsuke&#34;&gt;https://players1.st/Harashinsuke&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;730&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110539.png&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;730&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;中井健介 &lt;a href=&#34;https://players1.st/nakaikensuke&#34;&gt;https://players1.st/nakaikensuke&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;680&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111112.png&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;680&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;横江怜 &lt;a href=&#34;https://players1.st/leoyokoe&#34;&gt;https://players1.st/leoyokoe&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;684&#34; data-orig-width=&#34;694&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111024.png&#34; data-orig-height=&#34;684&#34; data-orig-width=&#34;694&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C6%FC%BA%AC%CC%EE&#34;&gt;日根野&lt;/a&gt;谷建 &lt;a href=&#34;https://players1.st/hinenoyaken&#34;&gt;https://players1.st/hinenoyaken&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;678&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110904.png&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;678&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;篠崎隆樹 &lt;a href=&#34;https://players1.st/ryukishinozaki&#34;&gt;https://players1.st/ryukishinozaki&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;686&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110628.png&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;686&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;伊藤圭汰 &lt;a href=&#34;https://players1.st/keita_ito&#34;&gt;https://players1.st/keita_ito&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;678&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110120.png&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;678&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;瀬戸真司 &lt;a href=&#34;https://players1.st/setoshinji&#34;&gt;https://players1.st/setoshinji&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p style=&#34;&#34;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;
+「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;アスリートのスポンサー募集サービス「Players1st」&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;
+現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;国内第一人者の選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。 &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;会社概要 &lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト&lt;br&gt;所在地         東京都世田谷区北烏山1-9-18&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;&lt;br&gt;
+事業内容      アスリートのスポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;b&gt;プレスキット&lt;/b&gt;&lt;br&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。&lt;br&gt;&lt;a href=&#34;https://drive.google.com/open?id=0B_VrJS-a3nLpbUhzVmpJNDhyR0U&#34;&gt;https://drive.google.com/open?id=0B_VrJS-a3nLpbUhzVmpJNDhyR0U&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;本件に関するお問い合わせ先&lt;br&gt;&lt;/b&gt;株式会社プレイヤーズファースト担当 : 押田Mail : press@players1.st
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

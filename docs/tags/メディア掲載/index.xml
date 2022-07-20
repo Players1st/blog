@@ -1,53 +1,170 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>メディア掲載 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</link>
-    <description>Recent content in メディア掲載 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 14 Feb 2018 08:29:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト</title>
-      <link>https://blog.players1.st/2018/02/14/082904/</link>
-      <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/14/082904/</guid>
-      <description>Link: 「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト</description>
-    </item>
-    
-    <item>
-      <title>「[メディア掲載] 室田祐希 選手「フットサル日本代表 グループステージ第2戦 韓国代表に勝利しグループステージ突破を決める ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 フットサル - Players1st（プレイヤーズファースト）</title>
-      <link>https://blog.players1.st/2018/02/05/104632/</link>
-      <pubDate>Mon, 05 Feb 2018 10:46:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/05/104632/</guid>
-      <description>Link: 「[メディア掲載] 室田祐希 選手「フットサル日本代表 グループステージ第2戦 韓国代表に勝利しグループステージ突破を決める ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 フットサル - Players1st（プレイヤーズファースト）</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現</title>
-      <link>https://blog.players1.st/2017/11/28/130025/</link>
-      <pubDate>Tue, 28 Nov 2017 13:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/11/28/130025/</guid>
-      <description>2017年11月28日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-    <item>
-      <title> 業界初、「Players1st」がアスリートのメディア掲載情報を自動で検索投稿する機能「PRパス」をリリース。手間のかかるPR業務を登録選手に無料で提供</title>
-      <link>https://blog.players1.st/2017/10/03/150033/</link>
-      <pubDate>Tue, 03 Oct 2017 15:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/10/03/150033/</guid>
-      <description>2017年10月3日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>メディア掲載 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</link>
+        <description>Recent content in メディア掲載 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Wed, 14 Feb 2018 08:29:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト</title>
+        <link>https://blog.players1.st/p/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89-%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E9%81%B8%E6%89%8B%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8-%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AB0-4%E3%81%A7%E6%95%97%E9%80%80-%E6%BA%96%E5%84%AA%E5%8B%9D%E3%81%A7%E5%A4%A7%E4%BC%9A%E3%82%92%E7%B5%82%E3%81%88%E3%82%8B-afc%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B%E6%A8%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%9A%E3%82%A42018-#jfa-%23daihyo%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB-players1st-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</link>
+        <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89-%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E9%81%B8%E6%89%8B%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8-%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AB0-4%E3%81%A7%E6%95%97%E9%80%80-%E6%BA%96%E5%84%AA%E5%8B%9D%E3%81%A7%E5%A4%A7%E4%BC%9A%E3%82%92%E7%B5%82%E3%81%88%E3%82%8B-afc%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B%E6%A8%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%9A%E3%82%A42018-#jfa-%23daihyo%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB-players1st-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post 「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト" /&gt;&lt;body&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://players1.st/posts/192&#34;&gt;「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt; &amp;lt;p&amp;gt;メディア掲載情報&amp;lt;/p&amp;gt;
+ &lt;/pre&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>「[メディア掲載] 室田祐希 選手「フットサル日本代表 グループステージ第2戦 韓国代表に勝利しグループステージ突破を決める ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 フットサル - Players1st（プレイヤーズファースト）</title>
+        <link>https://blog.players1.st/p/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89-%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E9%81%B8%E6%89%8B%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E7%AC%AC2%E6%88%A6-%E9%9F%93%E5%9B%BD%E4%BB%A3%E8%A1%A8%E3%81%AB%E5%8B%9D%E5%88%A9%E3%81%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E7%AA%81%E7%A0%B4%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B-afc%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B%E6%A8%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%9A%E3%82%A42018-#jfa-%23daihyo%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB-players1st%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</link>
+        <pubDate>Mon, 05 Feb 2018 10:46:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89-%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E9%81%B8%E6%89%8B%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E7%AC%AC2%E6%88%A6-%E9%9F%93%E5%9B%BD%E4%BB%A3%E8%A1%A8%E3%81%AB%E5%8B%9D%E5%88%A9%E3%81%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E7%AA%81%E7%A0%B4%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B-afc%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B%E6%A8%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%9A%E3%82%A42018-#jfa-%23daihyo%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB-players1st%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post 「[メディア掲載] 室田祐希 選手「フットサル日本代表 グループステージ第2戦 韓国代表に勝利しグループステージ突破を決める ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 フットサル - Players1st（プレイヤーズファースト）" /&gt;&lt;body&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://players1.st/posts/187&#34;&gt;「[メディア掲載] 室田祐希 選手「フットサル日本代表 グループステージ第2戦 韓国代表に勝利しグループステージ突破を決める ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 フットサル - Players1st（プレイヤーズファースト）&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt; &amp;lt;p&amp;gt;フットサル 室田祐希 選手がニュースメディアに掲載されました。&amp;lt;/p&amp;gt;
+ &lt;/pre&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C6%FC%CB%DC%C2%E5%C9%BD&#34;&gt;フットサル日本代表&lt;/a&gt;　グループステージ第2戦 韓国代表に勝利しグループステージ突破を決める　～&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/AFC%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C1%AA%BC%EA%B8%A2&#34;&gt;AFCフットサル選手権&lt;/a&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C1%A5%E3%A5%A4%A5%CB%A1%BC%A5%BA%A1%A6%A5%BF%A5%A4%A5%DA%A5%A4&#34;&gt;チャイニーズ・タイペイ&lt;/a&gt;2018～ #&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/jfa&#34;&gt;jfa&lt;/a&gt; #daihyo #P1st #メディア掲載情報 #室田祐希&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E8%87%AA%E5%8B%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%81%AE%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2%E3%81%AE%E5%AE%8C%E5%85%A8%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE/</link>
+        <pubDate>Tue, 28 Nov 2017 13:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E8%87%AA%E5%8B%95%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2%E6%A9%9F%E8%83%BD%E3%81%AE%E8%B2%A9%E5%A3%B2%E3%82%92%E9%96%8B%E5%A7%8B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2%E3%81%AE%E5%AE%8C%E5%85%A8%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%92%E5%AE%9F%E7%8F%BE/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111251.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が自動ニュース検索機能の販売を開始。メディア掲載情報検索の完全自動化を実現" /&gt;&lt;body&gt;
+&lt;p&gt;2017年11月28日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）は、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」にて、自動ニュース検索機能の外部向け販売を開始いたしました。サービス名をは「Auto PR」とし、手間のかかるメディア掲載情報の検索業務を完全自動化し、低コストで正確な情報収集サービスを提供します。&lt;/p&gt;
+&lt;p&gt;「Auto PR」&lt;a href=&#34;https://autopr.players1.st/&#34;&gt;https://autopr.players1.st/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1058&#34; data-orig-height=&#34;739&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111251.png&#34; data-orig-width=&#34;1058&#34; data-orig-height=&#34;739&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;「Auto PR」とは&lt;/h2&gt;
+&lt;p&gt;膨大なニュースサイトからキーワード検索して、マッチした記事をお知らせする、自動ニュース検索&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;サービスです。システムが特定のキーワードをニュースサイトから検索し、マッチした記事をメールでお知らせします。利用者は最初に検索キーワードを決めたらメールが届くのを待つだけで、あとはシステムが自動で毎日検索を行います。&lt;/p&gt;
+&lt;p&gt;
+Players1stが独自に開発した、メディア掲載情報を自動で検索投稿するシステムを外部向けにカスタマイズしました。この機能は日々トレーニングや試合を行うトップアスリートにとって、PRをすべて任せることができるメリットがあり、アスリートを支える大きな機能の一つとなっています。&lt;/p&gt;
+&lt;h2&gt;想定利用顧客&lt;/h2&gt;
+&lt;p&gt;以下を想定利用顧客としています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;タレントやアスリートを抱えるマネジメン事務所 (氏名や競技名で検索)&lt;/li&gt;
+&lt;li&gt;企業のPR担当者 (会社名や自社サービス名で検索)&lt;/li&gt;
+&lt;li&gt;ライバル会社の動向チェックしたい製品開発者 (競合製品名で検索)&lt;/li&gt;
+&lt;li&gt;スポーツクラブ・チーム (クラブ名や選手名で検索)&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A8%A5%B4%A5%B5%A1%BC%A5%C1&#34;&gt;エゴサーチ&lt;/a&gt;したい個人 (自分の名前で検索)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;サービス内容&lt;/h2&gt;
+&lt;p&gt;特定のキーワードにマッチしたニュースサイトの記事のタイトル、URLリンクを含んだメールを送信します。検索とメール配信は1日1回行います。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;特徴&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt; : 検索からお知らせまで全部自動化。特別なアプリは必要ありません。&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;で検索からお知らせまで自動で行います。&lt;/li&gt;
+&lt;li&gt;メール : メールを待つだけです。シンプルです。&lt;/li&gt;
+&lt;li&gt;膨大なニュースサイト : 検索対象のニュースサイトは大手からマイナーなサイトまで膨大な数にのぼります。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure data-orig-width=&#34;780&#34; data-orig-height=&#34;936&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110257.png&#34; data-orig-width=&#34;780&#34; data-orig-height=&#34;936&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;サンプ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EB%A5%E1%A1%BC%A5%EB&#34;&gt;ルメール&lt;/a&gt; (2017年11月16日のニュースにてキーワード「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E7%C3%AB%E6%C6%CA%BF&#34;&gt;大谷翔平&lt;/a&gt;」を検索)&lt;/p&gt;
+&lt;h2&gt;価格&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;初期費無料、月額6,890円 税込&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DC%A5%EA%A5%E5%A1%BC%A5%E0%A5%C7%A5%A3%A5%B9%A5%AB%A5%A6%A5%F3%A5%C8&#34;&gt;ボリュームディスカウント&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;年一括 (12ヶ月分一括支払い) : 1ヶ月分OFF 75,790円 (1ヶ月あたり 6,316円)&lt;/li&gt;
+&lt;li&gt;支払い方法 : クレジットカード決済もしくは銀行振込&lt;/li&gt;
+&lt;li&gt;お試し1ヶ月キャンペーン : 1ヶ月分 70%OFF 月額2,060円 税込&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;20個〜 20％OFF 月額5,510円/個 20個 合計110,200円 税込&lt;/li&gt;
+&lt;li&gt;50個〜 35％OFF 月額4,478円/個 50個 合計223,900円 税込&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;販売パートナー募集&lt;/h2&gt;
+&lt;p&gt;Auto PRの販売パートナー事業者を募集します。問い合わせフォームから受付しています。
+販売成約条件 : 3ヶ月分の売上100％。紹介顧客の利用開始から3ヶ月間で発生した売上の100％をパートナー事業者にお渡しします。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのための&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービスです。ファン獲得・スポンサー獲得・自動PR・セカンドキャリア支援など選手に必要な活動をサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録はアスリート・サポーター共に無料です。&lt;/p&gt;
+&lt;p&gt;
+現在、日本代表やオリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;出場を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;707&#34; data-orig-height=&#34;465&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110028.png&#34; data-orig-width=&#34;707&#34; data-orig-height=&#34;465&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;左から、カヌー リオオリンピック出場 中野紘志選手、フィンスイミング日本代表 松田志保選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C6%FC%CB%DC%C2%E5%C9%BD&#34;&gt;フットサル日本代表&lt;/a&gt; 室田祐希選手、ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ン日本代表 若林唯選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;日本代表 田畑輝樹選手&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト &lt;br&gt;所在地         東京都世田谷区北烏山1-9-18
+&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;
+&lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/&lt;/a&gt;
+&lt;br&gt;事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像や本文のPDFファイルをお求めの場合、こちらよりダウンロードしてご活用ください。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1nFrRgMV3pWbrV95jNZMPsRksUP65GDTm?usp=sharing&#34;&gt;https://drive.google.com/drive/folders/1nFrRgMV3pWbrV95jNZMPsRksUP65GDTm?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> 業界初、「Players1st」がアスリートのメディア掲載情報を自動で検索投稿する機能「PRパス」をリリース。手間のかかるPR業務を登録選手に無料で提供</title>
+        <link>https://blog.players1.st/p/%E6%A5%AD%E7%95%8C%E5%88%9Dplayers1st%E3%81%8C%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%E3%82%92%E8%87%AA%E5%8B%95%E3%81%A7%E6%A4%9C%E7%B4%A2%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BDpr%E3%83%91%E3%82%B9%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%89%8B%E9%96%93%E3%81%AE%E3%81%8B%E3%81%8B%E3%82%8Bpr%E6%A5%AD%E5%8B%99%E3%82%92%E7%99%BB%E9%8C%B2%E9%81%B8%E6%89%8B%E3%81%AB%E7%84%A1%E6%96%99%E3%81%A7%E6%8F%90%E4%BE%9B/</link>
+        <pubDate>Tue, 03 Oct 2017 15:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E6%A5%AD%E7%95%8C%E5%88%9Dplayers1st%E3%81%8C%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E6%83%85%E5%A0%B1%E3%82%92%E8%87%AA%E5%8B%95%E3%81%A7%E6%A4%9C%E7%B4%A2%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%A9%9F%E8%83%BDpr%E3%83%91%E3%82%B9%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%89%8B%E9%96%93%E3%81%AE%E3%81%8B%E3%81%8B%E3%82%8Bpr%E6%A5%AD%E5%8B%99%E3%82%92%E7%99%BB%E9%8C%B2%E9%81%B8%E6%89%8B%E3%81%AB%E7%84%A1%E6%96%99%E3%81%A7%E6%8F%90%E4%BE%9B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110723.png" alt="Featured image of post  業界初、「Players1st」がアスリートのメディア掲載情報を自動で検索投稿する機能「PRパス」をリリース。手間のかかるPR業務を登録選手に無料で提供" /&gt;&lt;body&gt;
+&lt;p&gt;2017年10月3日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）は、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」にて、アスリートのメディア掲載情報を自動で検索し投稿する機能「PRパス」をリリースしました。数多くのニュースサイトから選手名を検索し、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;などに投稿するまでを完全自動化。手間のかかる作業を自動化することによって、マイナーな選手でも無料でPRマネージメントサービスを受けることができます。この機能はPlayers1stに登録したすべての選手に適用されます。&lt;/p&gt;
+&lt;p&gt;「Players1st（プレイヤーズファースト）」&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;199&#34; data-orig-height=&#34;199&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110723.png&#34; data-orig-width=&#34;199&#34; data-orig-height=&#34;199&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;「PRパス」とは&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;多数のニュースサイトの膨大な記事の中から登録選手に関する記事を検索し、マッチした記事をメディア掲載情報として投稿を行う機能です。投稿は毎朝7時に行われ、前日分のニュースが対象となります。投稿はPlayers1st内およびPlayers1stの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;ページと&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;にも同時に行います。この一連の作業をPlayers1stが開発したシステムが行い、完全自動化を実現しています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;960&#34; data-orig-height=&#34;720&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111158.jpg&#34; data-orig-width=&#34;960&#34; data-orig-height=&#34;720&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;アスリートマネジメント業界では初&lt;/h2&gt;
+&lt;p&gt;
+アスリートのメディア掲載情報の公開は、今までマネージメント会社もしくは資金力のあるクラブのみが行っていました。検索作業は人の手では非常に手間がかかり、アスリート自身が行うには負担が大きすぎるために、マナー競技のアスリートはやりたくてもやれない課題がありました。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;この課題を解決するためPlayers1stがシステムを開発し完全自動化を実現。Players1stに選手登録した全てのアスリートが、手間やコストをかけずにメディア掲載情報を発信することができるようになりました。システムによる完全自動化はアスリートマネジメント業界では初となります。「PRパス」はPlayers1stに登録したすべての選手に適用されます。選手登録は無料でいつでもPlayers1stサイトから行なえます。 &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;「PRパス」によって投稿されたメディア掲載情報&lt;/h2&gt;
+&lt;p&gt;Players1st内に投稿された掲載情報&lt;/p&gt;
+&lt;figure data-orig-width=&#34;522&#34; data-orig-height=&#34;469&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111321.png&#34; data-orig-width=&#34;522&#34; data-orig-height=&#34;469&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;ページに投稿された掲載情報&lt;/p&gt;
+&lt;figure data-orig-width=&#34;1022&#34; data-orig-height=&#34;1044&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110623.png&#34; data-orig-width=&#34;1022&#34; data-orig-height=&#34;1044&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;に投稿された掲載情報&lt;/p&gt;
+&lt;figure data-orig-width=&#34;1216&#34; data-orig-height=&#34;1422&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111237.png&#34; data-orig-width=&#34;1216&#34; data-orig-height=&#34;1422&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;
+世界で戦うアリートの環境改善に向け、効果的なPR・プロモーション機能の開発やテク&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%CE%A5%ED&#34;&gt;ノロ&lt;/a&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B8%A1%BC&#34;&gt;ジー&lt;/a&gt;をスポーツに活かす取り組みを続けていきます。また、オリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;、ワールド&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AB%A5%C3%A5%D7&#34;&gt;カップ&lt;/a&gt;など世界で戦うアスリートを支えるスポーツインターネットサービスとして、アスリートの新規登録を進めていく予定です。 &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Players1stとは &lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのための&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録はアスリート・サポーター共に無料です。&lt;/p&gt;
+&lt;h2&gt;
+登録アスリートについて &lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%DF%B5%A8%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;冬季オリンピック&lt;/a&gt;出場を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;
+社名             株式会社プレイヤーズファースト
+&lt;br&gt;所在地         東京都世田谷区北烏山1-9-18&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日&lt;br&gt;
+企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;
+&lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/&lt;/a&gt;&lt;br&gt;事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット &lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=0B_VrJS-a3nLpczN5WThwcTAxcVk&#34;&gt;
+https://drive.google.com/open?id=0B_VrJS-a3nLpczN5WThwcTAxcVk&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;
+株式会社プレイヤーズファースト&lt;br&gt;担当 : 押田&lt;br&gt;Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

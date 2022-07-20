@@ -1,84 +1,710 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>アスリート紹介 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/</link>
-    <description>Recent content in アスリート紹介 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Fri, 23 Mar 2018 10:17:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>【北京冬季五輪日本代表の夢を叶える】スケルトン：奥村駿選手</title>
-      <link>https://blog.players1.st/2018/03/23/101700/</link>
-      <pubDate>Fri, 23 Mar 2018 10:17:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/03/23/101700/</guid>
-      <description>アスリートの競技者生活を支えるクラウドスポンサー募集サービス「Players1st」を利用していただいているアスリートの皆さんを、ご紹介します。
-今回はスケルトンの奥村駿（おくむら・しゅん）選手です。
-スケルトンとは まずは、スケルトンという競技をまだ見たことがない方に向けて、ざっくりとご紹介します。</description>
-    </item>
-    
-    <item>
-      <title>目標は「出場者で最高齢になっても世界選手権出場」トレイルランニング:宮地藤雄選手</title>
-      <link>https://blog.players1.st/2018/02/27/173014/</link>
-      <pubDate>Tue, 27 Feb 2018 17:30:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/27/173014/</guid>
-      <description>アスリートの競技者生活を支えるクラウドスポンサー募集サービス「Players1st」を利用していただいているアスリートの皆さんを、ご紹介します。
-今回は、トレイルランニングの宮地藤雄（みやち・ふじお）選手です。  トレイルランニングとは トレイルランニング（通称トレイルラン）は、山岳地など勾配があり舗装されていない道を走る中長距離走の陸上競技です。</description>
-    </item>
-    
-    <item>
-      <title>選手紹介５-松岡翔太選手</title>
-      <link>https://blog.players1.st/2016/11/21/180050/</link>
-      <pubDate>Mon, 21 Nov 2016 18:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/11/21/180050/</guid>
-      <description>Players1stに登録していただいている選手を順次ご紹介していきます！ 第５回は、ビーチサッカー選手の松岡翔太さんです。
-   夏の海岸🌊でビーチバレーボールを楽しんだ経験のある方は多いと思いますが、ビーチサッカー⚽をしたり、プロの試合を見たことがある方は、まだそこまで多くはないかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>選手紹介-柴田祐輔選手</title>
-      <link>https://blog.players1.st/2016/11/04/120046/</link>
-      <pubDate>Fri, 04 Nov 2016 12:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/11/04/120046/</guid>
-      <description>Players1stに登録していただいている選手を順次ご紹介していきます！</description>
-    </item>
-    
-    <item>
-      <title>選手紹介３-宮地藤雄選手</title>
-      <link>https://blog.players1.st/2016/10/28/170053/</link>
-      <pubDate>Fri, 28 Oct 2016 17:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/10/28/170053/</guid>
-      <description>Players1stに登録していただいている選手を順次ご紹介していきます！ 第三回はトレイルランニングの宮地藤雄さんです👏
-   まず、トレイルランニングという競技について、初めて目にする方にご説明します😉</description>
-    </item>
-    
-    <item>
-      <title>選手紹介２-大塩直一郎選手</title>
-      <link>https://blog.players1.st/2016/10/24/110039/</link>
-      <pubDate>Mon, 24 Oct 2016 11:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/10/24/110039/</guid>
-      <description>Players1stに登録していただいている選手を順次ご紹介していきます！</description>
-    </item>
-    
-    <item>
-      <title>選手紹介１-宮田義人選手</title>
-      <link>https://blog.players1.st/2016/10/17/163026/</link>
-      <pubDate>Mon, 17 Oct 2016 16:30:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/10/17/163026/</guid>
-      <description>Players1stに登録していただいている選手を順次ご紹介していきます！
-第１回はPlayers1stエバンジェリスト選手の宮田義人さん⚽です☺</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>アスリート紹介 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/</link>
+        <description>Recent content in アスリート紹介 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Fri, 23 Mar 2018 10:17:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>【北京冬季五輪日本代表の夢を叶える】スケルトン：奥村駿選手</title>
+        <link>https://blog.players1.st/p/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%AD%A3%E4%BA%94%E8%BC%AA%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E3%81%AE%E5%A4%A2%E3%82%92%E5%8F%B6%E3%81%88%E3%82%8B%E3%82%B9%E3%82%B1%E3%83%AB%E3%83%88%E3%83%B3%E5%A5%A5%E6%9D%91%E9%A7%BF%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Fri, 23 Mar 2018 10:17:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%AD%A3%E4%BA%94%E8%BC%AA%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E3%81%AE%E5%A4%A2%E3%82%92%E5%8F%B6%E3%81%88%E3%82%8B%E3%82%B9%E3%82%B1%E3%83%AB%E3%83%88%E3%83%B3%E5%A5%A5%E6%9D%91%E9%A7%BF%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post 【北京冬季五輪日本代表の夢を叶える】スケルトン：奥村駿選手" /&gt;&lt;body&gt;
+&lt;p&gt;アスリートの競技者生活を支える&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;」を利用していただいているアスリートの皆さんを、ご紹介します。&lt;/p&gt;
+&lt;p&gt;今回はス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ンの&lt;a href=&#34;https://players1.st/okuoku7613&#34;&gt;&lt;strong&gt;奥村駿（おくむら・しゅん）選手&lt;/strong&gt;&lt;/a&gt;です。&lt;/p&gt;
+&lt;h2&gt;ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ンとは&lt;/h2&gt;
+&lt;p&gt;まずは、ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ンという競技をまだ見たことがない方に向けて、ざっくりとご紹介します。&lt;/p&gt;
+&lt;p&gt;ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ンは、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EA%A5%E5%A1%BC%A5%B8%A5%E5&#34;&gt;リュージュ&lt;/a&gt;、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DC%A5%D6%A5%B9%A5%EC%A1%BC&#34;&gt;ボブスレー&lt;/a&gt;と並ぶソリ種目です。&lt;/p&gt;
+&lt;p&gt;ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ン＝骨組みの名前の通り、最小のソリに乗って&lt;strong&gt;1300m～1500mのコースを時速約130kmのスピードで滑走&lt;/strong&gt;します。&lt;/p&gt;
+&lt;p&gt;ソリにはハンドルもブレーキも無く、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DC%A5%D6%A5%B9%A5%EC%A1%BC&#34;&gt;ボブスレー&lt;/a&gt;と違い&lt;strong&gt;乗れるのは1人だけ&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;そして、仰向けで足を進行方向に向けて乗る&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EA%A5%E5%A1%BC%A5%B8%A5%E5&#34;&gt;リュージュ&lt;/a&gt;とは逆に、&lt;strong&gt;うつ伏せで頭を進行方向に向けてソリに乗ります。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;顔から氷面まではわずか10cmほど！&lt;/p&gt;
+&lt;p&gt;1928年、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B5%A5%F3%A5%E2%A5%EA%A5%C3%A5%C4&#34;&gt;サンモリッツ&lt;/a&gt;オリンピックから正式種目となりましたが、1948年の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B5%A5%F3%A5%E2%A5%EA%A5%C3%A5%C4&#34;&gt;サンモリッツ&lt;/a&gt;オリンピックを最後にしばらくオリンピック種目から外れていました。&lt;/p&gt;
+&lt;p&gt;その後、ヘルメットやプロテクターの着用が義務化され、2002年&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%BD%A5%EB%A5%C8%A5%EC%A5%A4%A5%AF%A5%B7%A5%C6%A5%A3%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;ソルトレイクシティオリンピック&lt;/a&gt;から54年ぶりに正式種目になりました。&lt;/p&gt;
+&lt;p&gt;2018年の平昌&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%DF%B5%A8%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;冬季オリンピック&lt;/a&gt;では、男子の高橋弘篤選手が22位、&lt;/p&gt;
+&lt;p&gt;宮嶋克幸 選手が26位、女子の小口貴子選手が19位でした。&lt;/p&gt;
+&lt;h2&gt;奥村駿選手へのインタビュー&lt;/h2&gt;
+&lt;p&gt;――今の競技を始めてどれくらいですか？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;６カ月です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;――競技を始めたきっかけは？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7月の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B2%C3%B8%C5%C0%EE&#34;&gt;加古川&lt;/a&gt;でのコン&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%ED%A1%BC%A5%EB&#34;&gt;トロール&lt;/a&gt;テストで自分の予想よりも良い結果を出せたから、ス&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B1%A5%EB%A5%C8&#34;&gt;ケルト&lt;/a&gt;ンで勝負したいと思いました。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;――あなたが得意なことは？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;スプリント力です。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;――『普段の１日』のスケジュールを教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;トレーニングは週5日やっています。
+バイトも週5日で、バイトが終わってから練習に行くという感じです。
+メンテナンスは、月に二回のペースで名古屋のタイマッサージに行きます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;――練習はどこでどのくらい行いますか？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大学で週5日と、個人的に千種の池下でパーソナルジムに行ってます。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;――選手としての活動費、生活費はどのように得ていますか？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今はバイトのみという形です。実家暮らしなので生活費には困らないです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;――次の目標を教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;まずは最初の国際大会での代表であります。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;―― ゴールとする目標は？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;次の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%CB%CC%B5%FE%C5%DF%B5%A8%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;北京冬季オリンピック&lt;/a&gt;（2022年）までに日本代表に選ばれることです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;―― ありがとうございました。&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;
+&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://t.co/3ZVcxBEdCT&#34;&gt;pic.twitter.com/3ZVcxBEdCT&lt;/a&gt;&lt;/p&gt;— 奥村駿 (@oku791) &lt;a href=&#34;https://twitter.com/oku791/status/946701806523990017?ref_src=twsrc%5Etfw&#34;&gt;2017年12月29日&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;奥村選手は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%CE%A6%BE%E5%B6%A5%B5%BB&#34;&gt;陸上競技&lt;/a&gt;出身。&lt;/p&gt;
+&lt;p&gt;NTIDオリンピック発掘プログラムを2年連続で受験し、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%A3%A1%BC%A5%EB%A5%C9%A5%DB%A5%C3%A5%B1%A1%BC&#34;&gt;フィールドホッケー&lt;/a&gt;、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B6%E1%C2%E5%B8%DE%BC%EF&#34;&gt;近代五種&lt;/a&gt;競技で評価を受け、日本代表を目指す自信をつけたそうです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「環境に恵まれなかった過去の自分を驚かせるために、日本代表になり日の丸を背負いたい」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「身長や環境に恵まれていなくても、過去は関係ないと証明したい」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;そんな奥村選手自身の熱い言葉を、ぜひ読んでみてください。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ソリ競技は今年で日本の唯一の長野スパイラルが閉鎖してしまい、来年から冬の期間海外進出しなくてはいけないです。だからこそプレイヤーズファーストでファンの方々にサポートを受けたいと思ってます。
+過去は変えることができないですが、未来は変えれます。やらなければ始まらない、諦めなければ終わらない。&lt;/p&gt;
+&lt;p&gt;この自分に賛同していただけている方にサポートをお願いしたいです、よろしくお願いいたします。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ぜひ、活動をフォローして、少額から支援を送れる「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;」を送ってみませんか？&lt;/p&gt;
+&lt;iframe src=&#34;https://players1.st/okuoku7613/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ🔗&lt;a href=&#34;https://players1.st/&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>目標は「出場者で最高齢になっても世界選手権出場」トレイルランニング:宮地藤雄選手</title>
+        <link>https://blog.players1.st/p/%E7%9B%AE%E6%A8%99%E3%81%AF%E5%87%BA%E5%A0%B4%E8%80%85%E3%81%A7%E6%9C%80%E9%AB%98%E9%BD%A2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%82%E4%B8%96%E7%95%8C%E9%81%B8%E6%89%8B%E6%A8%A9%E5%87%BA%E5%A0%B4%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E5%AE%AE%E5%9C%B0%E8%97%A4%E9%9B%84%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Tue, 27 Feb 2018 17:30:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E7%9B%AE%E6%A8%99%E3%81%AF%E5%87%BA%E5%A0%B4%E8%80%85%E3%81%A7%E6%9C%80%E9%AB%98%E9%BD%A2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%82%E4%B8%96%E7%95%8C%E9%81%B8%E6%89%8B%E6%A8%A9%E5%87%BA%E5%A0%B4%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E5%AE%AE%E5%9C%B0%E8%97%A4%E9%9B%84%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110249.jpg" alt="Featured image of post 目標は「出場者で最高齢になっても世界選手権出場」トレイルランニング:宮地藤雄選手" /&gt;&lt;body&gt;
+&lt;p&gt;アスリートの競技者生活を支える&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「P&lt;a href=&#34;https://players1.st/&#34;&gt;layers1st&lt;/a&gt;」を利用していただいているアスリートの皆さんを、ご紹介します。&lt;/p&gt;
+&lt;p&gt;今回は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;の&lt;b&gt;&lt;a href=&#34;https://players1.st/FUJIOMIYACHI&#34;&gt;宮地藤雄&lt;/a&gt;（みやち・ふじお）選手&lt;/b&gt;です。
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110249.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;とは&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;（通称トレイルラン）は、&lt;b&gt;山岳地など勾配があり舗装されていない道を走る中&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C4%B9%B5%F7%CE%A5%C1%F6&#34;&gt;長距離走&lt;/a&gt;の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%CE%A6%BE%E5%B6%A5%B5%BB&#34;&gt;陸上競技&lt;/a&gt;&lt;/b&gt;です。&lt;/p&gt;
+&lt;p&gt;日本国内での大きな大会では、下記があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;富士山周囲を走る「ULTRA-TRAIL Mt.FUJI」（168km・88km）&lt;/li&gt;
+&lt;li&gt;OSJおんたけスカイレース（37km）&lt;/li&gt;
+&lt;li&gt; 〃  ウルトラトレイル100K （100km）&lt;/li&gt;
+&lt;li&gt;上州&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%F0%C2%BA%BB%B3&#34;&gt;武尊山&lt;/a&gt;スカイビュー・ウルトラトレイル（120km・66km・30km）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他にも北海道から沖縄まで、山とランニングを愛するランナーが集う大会が各地で開催されています。&lt;/p&gt;
+&lt;p&gt;宮地選手は、&lt;b&gt;2013~2017年のマウンテンランニング日本代表&lt;/b&gt;として多数の国際大会で活躍しています。&lt;/p&gt;
+&lt;p&gt;また、神奈川県逗子市を拠点としてトレイルラン練習会や、子ども向けイベントも開催し、競技の普及振興につとめています。&lt;/p&gt;
+&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110322.jpg&#34; alt=&#34;&#34;&gt;&lt;h2&gt;宮地藤雄選手のインタビュー&lt;/h2&gt;
+&lt;p&gt;ー&lt;/p&gt;
+&lt;p&gt;ー&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;の競技を始められて何年になりますか？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;12年になります。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;競技を始めたきっかけは？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;偶然、トライルランニングの大会ポスターを見かけて、写真に魅せられました。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;あなたが得意なことは？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;読書、旅、寝る（好きなことでもあります）。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;大会などが無い『普段の１日』のスケジュールを教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;朝練と夕方練習を軸に、日中は仕事をしています。移動中は読書をします。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;練習はどこでどのくらい行いますか？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;近所の山を、朝と夕方に週５日くらい走ります。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;選手としての活動費、生活費はどのように得ていますか？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;大会の主催や運営、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0%A5%AF%A5%E9%A5%D6&#34;&gt;ランニングクラブ&lt;/a&gt;を主宰しています。
+&lt;br&gt;その他に幾つかの企業にスポンサーをしていただいています。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;同居されているご家族の構成は？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;妻、愛犬、6月に第１子が生まれる予定です。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;次の目標を教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;力と思いの続く限り、競技を、世界転戦を続けます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;2020年（&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;の年）はどう迎えますか？&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;大会出場者の中で最高齢になっても、世界選手権出場します。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ー ー&lt;/p&gt;
+&lt;p&gt;ありがとうございました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;を通じてスポーツを楽しむ人を増やしたいと語る宮地選手、数少ない日本のプロトレイルランナーとして、日々普及や地域振興活動にも力を入れています。&lt;/p&gt;
+&lt;p&gt;宮地選手のプロフィールページは🔗&lt;a href=&#34;https://players1.st/FUJIOMIYACHI&#34;&gt;こちら&lt;/a&gt;です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt; &lt;br&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://players1.st/FUJIOMIYACHI/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34;&gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+&lt;/iframe&gt;&lt;p&gt;活動をフォローして、ぜひ、少額から支援を送れる「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;」を送ってみませんか？&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;amp;t=NjI2MDVhMjljMWZhZDNjZmIzMzA3YzQ5ZWNiMmM2M2I1ZDUwZmRlZSxORFo2WHpLbw%3D%3D&amp;amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;amp;p=http%3A%2F%2Fblog.players1.st%2Fpost%2F170899344527%2Famazon%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8%E3%81%A7%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%8C%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F&amp;amp;amp;m=1&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ🔗こちらからご登録ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up_confirm%3Ftoken%3DU9uHncad&amp;amp;amp;t=YzY4YWVmOGMxOTMxNGYzNTgwOGQzYzIxMDc5NWNmOGU5M2Q3ZmEwYixORFo2WHpLbw%3D%3D&amp;amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;amp;p=http%3A%2F%2Fblog.players1.st%2Fpost%2F170899344527%2Famazon%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8%E3%81%A7%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%8C%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F&amp;amp;amp;m=1&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手紹介５-松岡翔太選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%95-%E6%9D%BE%E5%B2%A1%E7%BF%94%E5%A4%AA%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Mon, 21 Nov 2016 18:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%95-%E6%9D%BE%E5%B2%A1%E7%BF%94%E5%A4%AA%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111207.jpg" alt="Featured image of post 選手紹介５-松岡翔太選手" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=YjNhNTIxYTk3YjJjZDU4MDY5ZDIyODg4NGMxZmFmYzVjZmE3M2NhMCw1NXdkcjVRRw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;Players1st&lt;/a&gt;に登録していただいている選手を順次ご紹介していきます！ &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第５回は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手の&lt;a href=&#34;https://players1.st/shota-matsuoka&#34;&gt;松岡翔太さん&lt;/a&gt;です。&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/shota-matsuoka/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;夏の海岸🌊で&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%D0%A5%EC%A1%BC%A5%DC%A1%BC%A5%EB&#34;&gt;ビーチバレーボール&lt;/a&gt;を楽しんだ経験のある方は多いと思いますが、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;⚽をしたり、プロの試合を見たことがある方は、まだそこまで多くはないかもしれません。&lt;/p&gt;
+&lt;p&gt;サッカーやフットサルとどんな違いがあるのか、国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのチーム東京レキオスBSでプレーをする松岡選手の言葉から聞いていきましょう！&lt;/p&gt;
+&lt;p&gt;まずは、プロフィールから深掘りしていきます👇&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;p&gt;Profile&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;氏名&lt;/b&gt;： &lt;b&gt;松岡 翔太&lt;/b&gt;（まつおか・しょうた）&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;生年月日&lt;/b&gt;：1989年&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;競技&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;所属&lt;/b&gt;：東京レキオスBS&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;活動拠点&lt;/b&gt;：東京都文京区&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;出身地&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B7%A7%CB%DC%B8%A9&#34;&gt;熊本県&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;&lt;b&gt;❓松岡&lt;/b&gt;選手に１０の質問❓&lt;/b&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;b&gt;今の競技との出会いは？&lt;/b&gt;&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A2%A5%EB%A5%D3%A5%EC%A5%C3%A5%AF%A5%B9%BF%B7%B3%E3%A1%A6%A5%B7%A5%F3%A5%AC%A5%DD%A1%BC%A5%EB&#34;&gt;アルビレックス新潟・シンガポール&lt;/a&gt;でサッカーをさせてもらった後、&lt;br&gt;タイなどにトライアウト（※）を受けに１ヶ月くらい行ったのですが合格することは出来ず、&lt;br&gt;一旦日本に帰ってお金を貯めてまた海外へ行く予定で自主トレーニングをしていたところ、ちょうど高校の先輩が&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;をされていて、&lt;br&gt;&lt;b&gt;「ビーチでのトレーニングはフィジカルトレーニングや裸足の感覚を掴めるぞ」&lt;br&gt;&lt;/b&gt;という事で一緒にやらせてもらったのがキッカケです。&lt;br&gt;（※プロチームの入団テスト）&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;この競技の魅力は？&lt;/b&gt;&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;は、通常のサッカーと比べて得点が多く、&lt;b&gt;あっという間に攻守が入れ替わる展開が早いスポーツ&lt;/b&gt;です。&lt;br&gt;&lt;br&gt;
+またオーバヘッドやジャンピングボレー、空中でのパス交換など、&lt;b&gt;普段サッカーでは見ることの少ないアクロバティックなプレーが当たり前のように見られるのも大きな魅力&lt;/b&gt;です。&lt;br&gt;&lt;br&gt;
+砂浜で、裸足で、ボールを扱うという点で、サッカーだけでは得られない&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%CE%B4%B4&#34;&gt;体幹&lt;/a&gt;のバランス、ボールタッチの感覚が自然に身につくので、サッカーに還元する為のトレーニングとしてもかなり有効です。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;目標とする選手は？&lt;/b&gt;&lt;br&gt;特にいないです。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;自分が得意なことは？&lt;/b&gt;&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;では&lt;b&gt;“フィクソ”&lt;/b&gt;というポジションをやらせてもらっています。&lt;br&gt;
+かなり簡単にいうとサッカーでいうディフェンスのようなポジションです。&lt;br&gt;
+対人でのプレーやヘディングはプレーの中でも１番自信を持っています。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;”普通の１日”のスケジュール&lt;/b&gt;&lt;br&gt;
+朝からチームでのトレーニングを行い、午後は自ら興したスポーツウェアの会社（&lt;a href=&#34;http://www.evolejapan.net/&#34;&gt;EVOLE JAPAN Co., Ltd.&lt;/a&gt;）の運営をしています。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;練習方法&lt;/b&gt;&lt;br&gt;&lt;b&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;はフットサル同様５対５で行うスポーツ&lt;/b&gt;なんですが、攻守共に&lt;b&gt;５人全員が絡み合って連動して行います。&lt;/b&gt;&lt;br&gt;
+なので基本的な練習は空中でのパス交換やシュートまでの過程をイメージしたトレーニング、そして守備の動き方などが中心です。&lt;br&gt;&lt;br&gt;
+あとは置いたボールを蹴る&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%EA%A1%BC%A5%AD%A5%C3%A5%AF&#34;&gt;フリーキック&lt;/a&gt;。（※FK）&lt;br&gt;&lt;b&gt;
+“FKは壁を作れない”&lt;/b&gt;というのと&lt;b&gt;“ファールを受けた本人が蹴る”&lt;/b&gt;というルールが存在するので&lt;b&gt;FKはかなり高い確率で得点につながります。&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;家族構成&lt;/b&gt;&lt;br&gt;嫁さんと２人暮らしです。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;次の目標は？&lt;/b&gt;&lt;br&gt;&lt;b&gt;
+全国王者奪還&lt;/b&gt;です。&lt;br&gt;
+そして&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;を日本全国の方に知ってもらう事。&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;選手としての活動費・生活費はどのように得ていますか？&lt;/b&gt;&lt;br&gt;
+チームからの手当てと、自身の会社で得ています。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;サポーターに一言 💬&lt;/b&gt; &lt;br&gt;まだまだ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;を知らない方も多いと思いますが、大会は全国各地で行われていますので、是非１度僕たちのプレーを観戦しに来て下さい。&lt;br&gt;
+リアルタイムでしか味わえない緊張感や躍動感、そして何よりも選手達の熱い熱い白熱した戦いがビーチにはあります。&lt;br&gt;&lt;b&gt;
+100%楽しんで頂ける自信があります！お待ちしております！&lt;/b&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;松岡選手、ありがとうございました😊&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;日本の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;チームで最多数の全国大会優勝🏆に輝くレキオスBSでプレーしながら、ご自身で起業したスポーツウェアブランドの会社の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;でもある松岡選手。&lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;http://www.evolejapan.net/&#34;&gt;EVOLE JAPAN Co., Ltd.&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ブランド製品の紹介では自らモデルにもなり、その魅力をPRするなど多方面の活躍をされています。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;とサッカー、フットサルはどう違う？&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;もちろん、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;は砂浜での競技&lt;/b&gt;ということがサッカー、フットサルと大きく違いますが、&lt;b&gt;それだけではありません。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;松岡選手のコメントにもありますが、&lt;br&gt;&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;は５人対５人でプレー&lt;/b&gt;します。ここはフットサルと同じですね。（サッカーは１１人）&lt;/p&gt;
+&lt;p&gt;試合時間は、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;が１２分✖３ピリオド制&lt;/b&gt;、フットサルは２０分✖前半後半、サッカーは４５分✖前半後半です。&lt;/p&gt;
+&lt;p&gt;フィールドの大きさもサッカーの半分ほどとフットサルと似ていますが、より&lt;b&gt;ゴールからゴールまでの縦幅が短くなっています。&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;足元が柔らかい砂浜での競技ということで、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;は空中戦が多いことも魅力の一つ。
+&lt;p&gt;オー&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D0%A1%BC&#34;&gt;バー&lt;/a&gt;ヘッドキックもよく見られます。&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1024&#34; data-orig-height=&#34;768&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111207.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;1024&#34; data-orig-height=&#34;768&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;（引用：松岡選手のblog  &lt;a href=&#34;http://shota-matsuoka.net/20161116&#34;&gt;写真で振り返る地域チャンピオンシップ 番外編&lt;/a&gt; より）&lt;/p&gt;
+&lt;p&gt;選手の身体を受け止める一方で足もひっぱる砂浜でのボールさばきも見どころです👏😊&lt;/p&gt;
+&lt;p&gt;砂も白熱する&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;の試合、&lt;b&gt;ぜひ実際に会場に足を運んでみてください&lt;/b&gt;❢&lt;/p&gt;
+&lt;p&gt;松岡選手のPlayers1stページはこちらです⇓&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/shota-matsuoka/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;まだの方は、ぜひPlayers1stに登録して、松岡選手をフォローしましょう🎉&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「スポーツを支える」力になりたい。&lt;/b&gt;そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたスポーツファンの方は、ぜひ🔗&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up&amp;amp;t=ZWI5MThjZTUzZmY2NjA4YjIzNGUwOTZmMTNlZTA1OGRhZTJkZjFhNyxPdm1QVGF4Sw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;登録料・会費などはありません。&lt;/b&gt;&lt;br&gt;選手への支援、選手が作成した課金アイテム・イベントへの支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手紹介-柴田祐輔選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B-%E6%9F%B4%E7%94%B0%E7%A5%90%E8%BC%94%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Fri, 04 Nov 2016 12:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B-%E6%9F%B4%E7%94%B0%E7%A5%90%E8%BC%94%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110440.jpg" alt="Featured image of post 選手紹介-柴田祐輔選手" /&gt;&lt;body&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;に登録していただいている選手を順次ご紹介していきます！&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;第４回は、フットサル選手の柴田祐輔さんです⚽
+&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/Yusuke21shiba/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;選手紹介シリーズの初回に登場した宮田選手とは&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%DC%C3%E6%A5%A2%A5%B9%A5%EC%A5%C6%A5%A3%A5%C3%A5%AFFC&#34;&gt;府中アスレティックFC&lt;/a&gt;のチームメイトです☺
+&lt;/p&gt;
+&lt;p&gt;それでは、柴田選手のプロフィールから深掘りしていきましょう❗&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Profile&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;氏名&lt;/b&gt;：&lt;b&gt;柴田　祐輔&lt;/b&gt;（しばた・ゆうすけ）&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;生年月日&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/1984&#34;&gt;1984&lt;/a&gt;年5月30日&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;競技&lt;/b&gt;：フットサル&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;所属&lt;/b&gt;： &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%DC%C3%E6%A5%A2%A5%B9%A5%EC%A5%C6%A5%A3%A5%C3%A5%AFFC&#34;&gt;府中アスレティックFC&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;活動拠点&lt;/b&gt;： &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%C5%D4%C9%DC%C3%E6%BB%D4&#34;&gt;東京都府中市&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;出身地&lt;/b&gt;： &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B2%AC%BB%B3%B8%A9&#34;&gt;岡山県&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;&lt;b&gt;❓柴田&lt;/b&gt;選手に１０の質問❓&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;b&gt;今の競技との出会いは？&lt;/b&gt;&lt;br&gt;
+高校の同級生の誘いです！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;この競技の魅力は？&lt;/b&gt;&lt;br&gt;
+展開が早い事です！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;目標とする選手は？&lt;/b&gt;&lt;br&gt;
+特にいないですけど&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AA%A1%BC%A5%EB%A5%DE%A5%A4%A5%C6%A5%A3%A1%BC&#34;&gt;オールマイティー&lt;/a&gt;な選手です！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;自分が得意なことは？&lt;/b&gt;&lt;br&gt;
+両足のシュートですかね！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;”普通の１日”のスケジュール&lt;/b&gt;&lt;br&gt;
+午前中練習で午後からは仕事です！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;練習方法&lt;/b&gt;&lt;br&gt;
+チームコンセプトと対戦相手の対策です！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;家族構成&lt;/b&gt;&lt;br&gt;
+4人です！奥さん男の子2人です！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;次の目標は？&lt;/b&gt;&lt;br&gt;&lt;b&gt;
+リーグ優勝です！&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;選手としての活動費・生活費はどのように得ていますか？&lt;/b&gt;&lt;br&gt;
+スポンサーさんの所で働かせてもらってます！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;サポーターに一言 💬&lt;/b&gt; &lt;br&gt;
+府中アスレがリーグ優勝できるように沢山の応援をして下さい！ &lt;br&gt;&lt;b&gt;特にホームゲームでは会場を茶色一色にして下さい！&lt;/b&gt; &lt;br&gt;宜しくお願い致します！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;柴田選手、ありがとうございました😊&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;勢いのあるコメントが、柴田選手らしいですね‼&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B2%AC%BB%B3%B8%A9&#34;&gt;岡山県&lt;/a&gt;からの出身では初のプロフットサル選手である柴田選手。&lt;br&gt;普段は午前中に練習⚽、&lt;br&gt;午後からはスポンサー企業に勤務、&lt;br&gt;さらに夕方からクリニック（フットサルスクール）を行う日もあります。&lt;/p&gt;
+&lt;p&gt;Players1stでも、試合に向けての意気込みなど熱い🔥ポストが人気です。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1368&#34; data-orig-height=&#34;912&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110440.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;1368&#34; data-orig-height=&#34;912&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;（写真：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/posts/19&#34;&gt;ホームVSフーガドールすみだ - Players1st&lt;/a&gt; より）&lt;/p&gt;
+&lt;p&gt;柴田選手のPlayers1stページはこちら⇓&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/Yusuke21shiba/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;まだの方は、ぜひPlayers1stに登録して、
+&lt;p&gt;柴田選手をフォローしましょう🎉&lt;/p&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は、「&lt;b&gt;スポーツの力で世の中をより良くする&lt;/b&gt;」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「スポーツを支える」力になりたい。&lt;/b&gt;そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたスポーツファンの方は、ぜひ &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up&amp;amp;t=ZWI5MThjZTUzZmY2NjA4YjIzNGUwOTZmMTNlZTA1OGRhZTJkZjFhNyxPdm1QVGF4Sw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;登録料・会費などはありません。&lt;/b&gt;&lt;br&gt;選手への支援、選手が作成した課金アイテム・イベントへの支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手紹介３-宮地藤雄選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%93-%E5%AE%AE%E5%9C%B0%E8%97%A4%E9%9B%84%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Fri, 28 Oct 2016 17:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%93-%E5%AE%AE%E5%9C%B0%E8%97%A4%E9%9B%84%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110350.jpg" alt="Featured image of post 選手紹介３-宮地藤雄選手" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=ZDQxMTAwOGUzYmMxNjZkNTgwYjhkODlmNTcyNjhkNzI2MDljMWJjMSxPWnV1YzZuZw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;Players1st&lt;/a&gt;に登録していただいている選手を順次ご紹介していきます！ &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第三回は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;の&lt;b&gt;&lt;a href=&#34;https://players1.st/FUJIOMIYACHI&#34;&gt;宮地藤雄&lt;/a&gt;さん&lt;/b&gt;です👏&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/FUJIOMIYACHI/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;まず、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;&lt;/b&gt;という競技について、初めて目にする方にご説明します😉&lt;/p&gt;
+&lt;h2&gt;🔰&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;とは🔰
+&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;（通称トレイルラン）は、&lt;b&gt;山岳地など勾配があり舗装されていない道を走る中&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C4%B9%B5%F7%CE%A5%C1%F6&#34;&gt;長距離走&lt;/a&gt;の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%CE%A6%BE%E5%B6%A5%B5%BB&#34;&gt;陸上競技&lt;/a&gt;&lt;/b&gt;です。&lt;/p&gt;
+&lt;p&gt;自然の道を走る競技では&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%ED%A5%B9%A5%AB%A5%F3%A5%C8%A5%EA%A1%BC&#34;&gt;クロスカントリー&lt;/a&gt;もありますが、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;はさらに登山の要素が強く、専用の装備も必要となります。&lt;/p&gt;
+&lt;p&gt;日本国内での大きな大会では、下記があります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;富士山周囲を走る「ULTRA-TRAIL Mt.FUJI」（168km・88km）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;OSJおんたけスカイレース（37km）&lt;br&gt; 〃  ウルトラトレイル100K （100km）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;上州&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%F0%C2%BA%BB%B3&#34;&gt;武尊山&lt;/a&gt;スカイビュー・ウルトラトレイル（120km・66km・30km）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;高尾山天狗トレイル&lt;/p&gt;
+&lt;p&gt;（16km）&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%BF%AE%B1%DB&#34;&gt;信越&lt;/a&gt;五岳&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;レース （110km）&lt;/li&gt;&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;伊豆トレイルジャーニー （75km）&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;大山登山マ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3&#34;&gt;ラソン&lt;/a&gt; （9km）&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他にも北海道から沖縄まで、山とランニングを愛するランナーが集う大会が各地で開催されています。&lt;/p&gt;
+&lt;p&gt;それでは、2013年～2016年Mountain Runningの日本代表である宮地選手のプロフィールを深掘りしていきましょう！&lt;/p&gt;
+&lt;h2&gt;Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;氏名&lt;/b&gt;：&lt;b&gt;
+&lt;p&gt;宮地　藤雄&lt;/b&gt;（みやち・ふじお）&lt;/li&gt;&lt;/p&gt;
+&lt;li&gt;
+&lt;b&gt;生年月日&lt;/b&gt;：1978年11月30日&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;競技&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;活動拠点&lt;/b&gt;：神奈川県逗子市&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;出身地&lt;/b&gt;：東京都&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;b&gt;&lt;b&gt;❓宮地&lt;/b&gt;選手に１０の質問❓&lt;/b&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;b&gt;今の競技との出会いは？&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;ランニングショップで見かけた&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;の大会チラシの写真に魅せられて&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;この競技の魅力は？&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;自然、人、景色、様々なものとの出会い。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;目標とする選手は？&lt;/b&gt;&lt;br&gt;同い年で競技をするどのスポーツ選手よりも長く競技を続けること。&lt;br&gt;たくさんの選手をリスペクトしていますが、誰かを目標にするのでなく、&lt;b&gt;僕らしくできること&lt;/b&gt;を追求することが重要だと考えています。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;自分が得意なことは？&lt;br&gt;&lt;/b&gt;何事もやると決めたら突き進むこと。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;”普通の１日”のスケジュール&lt;/b&gt;&lt;br&gt;朝ラン、朝食、打ち合わせや作業、昼食、午後〜夕方にラン、夕食。&lt;br&gt;基本的には朝方生活です。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;練習方法&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;近所のトレイルを走るのが中心。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;家族構成&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;妻&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;次の目標は？&lt;/b&gt;&lt;br&gt;誰かに&lt;b&gt;「このような生き方もある、僕も（私も）そうありたい」&lt;/b&gt;と背中を追ってもらえるようになること。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;選手としての活動費・生活費はどのように得ていますか？&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;スポンサー収入、ランニングイベント運営など&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;サポーターに一言 💬&lt;/b&gt; &lt;br&gt;
+&lt;p&gt;競技に励むのはもちろんですが、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;を通じてスポーツに親しむ人を増やしたい&lt;/b&gt;と思い、走っています。&lt;br&gt;そのためにスポーツの普及や地域振興にも力を入れています。&lt;br&gt;是非とも応援よろしくお願いいたします。&lt;/p&gt;
+&lt;br&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;宮地選手、ありがとうございました😊&lt;/b&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;宮地選手は国内の大会だけではなく、ヨーロッパを中心に海外の大会にも出場経験が豊富で、2013年からはMountain Running日本代表としても数多くの国際大会に出場しています。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;2183&#34; data-orig-height=&#34;2183&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110350.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;2183&#34; data-orig-height=&#34;2183&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;（写真：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/events/10&#34;&gt;RUN all over the WORLD ~2016年アメリカ遠征報告会~ - Players1s&lt;/a&gt;tより）&lt;/p&gt;
+&lt;p&gt;プロのトレイルランナーとして、PR活動、海外への大会出場の為の手配、スポンサード募集も自身でしながら、文字通り毎日走り続けています。&lt;/p&gt;
+&lt;p&gt;その一方で、地元の逗子でトレイルラン練習会のイベント🚩を定期開催し、Players1stでも募集をしています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;また、野山の中を駆ける魅力を子どもたちにも、とジュニア向けのトレイルランイベントも開催しています😃&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;同い年で競技をするどのスポーツ選手よりも長く競技を続けること。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;誰かに&lt;b&gt;「このような生き方もある、僕も（私も）そうありたい」&lt;/b&gt;と背中を追ってもらえるようになること。&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;そう目標を語る宮地選手。&lt;br&gt;日本の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;を背負って走っている姿が見えるようですね。&lt;/p&gt;
+&lt;p&gt;宮地選手のPlayers1stページはこちら⇓です。&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/FUJIOMIYACHI/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;ぜひPlayers1stに登録して、宮地選手をフォローしましょう☺&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「スポーツを支える」力になりたい。&lt;/b&gt;そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたスポーツファンの方は、ぜひ &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up&amp;amp;t=ZWI5MThjZTUzZmY2NjA4YjIzNGUwOTZmMTNlZTA1OGRhZTJkZjFhNyxPdm1QVGF4Sw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;登録料・会費などはありません。&lt;/b&gt;&lt;br&gt;選手への支援、選手が作成した課金アイテム・イベントへの支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手紹介２-大塩直一郎選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%92-%E5%A4%A7%E5%A1%A9%E7%9B%B4%E4%B8%80%E9%83%8E%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Mon, 24 Oct 2016 11:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%92-%E5%A4%A7%E5%A1%A9%E7%9B%B4%E4%B8%80%E9%83%8E%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111055.jpg" alt="Featured image of post 選手紹介２-大塩直一郎選手" /&gt;&lt;body&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=ZDQxMTAwOGUzYmMxNjZkNTgwYjhkODlmNTcyNjhkNzI2MDljMWJjMSxPWnV1YzZuZw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;Players1st&lt;/a&gt;に登録していただいている選手を順次ご紹介していきます！&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;第二回は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A6%A5%A8%A5%A4%A5%C8%A5%EA%A5%D5%A5%C6%A5%A3%A5%F3%A5%B0&#34;&gt;ウェイトリフティング&lt;/a&gt;の&lt;b&gt;大塩直一郎さん&lt;/b&gt;です
+&lt;p&gt;🏋&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;400&#34; data-orig-height=&#34;500&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110412.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;400&#34; data-orig-height=&#34;500&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;では、今回も深掘りしていきましょう！&lt;/p&gt;
+&lt;h2&gt;Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;氏名&lt;/b&gt;：&lt;b&gt;大塩　直一郎&lt;/b&gt;（おおしお・なおいちろう）&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;生年月日&lt;/b&gt;：1982年&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;競技&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A6%A5%A8%A5%A4%A5%C8%A5%EA%A5%D5%A5%C6%A5%A3%A5%F3%A5%B0&#34;&gt;ウェイトリフティング&lt;/a&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;所属&lt;/b&gt;：&lt;a href=&#34;http://www.stoicfamily.com/&#34;&gt;STOIC FAMILY&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;活動拠点&lt;/b&gt;：千葉県&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B1%BA%B0%C2%BB%D4&#34;&gt;浦安市&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;出身地&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%CA%BC%B8%CB%B8%A9&#34;&gt;兵庫県&lt;/a&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%B1%CF%A9%BB%D4&#34;&gt;姫路市&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;&lt;b&gt;❓大塩&lt;/b&gt;選手に１０の質問❓&lt;/b&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;b&gt;今の競技との出会いは？&lt;/b&gt;&lt;br&gt;知人の紹介で出会った現役リフターの方に勧められたことが、ウェイトリフティングを競技としてやろうと思ったきっかけです。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;この競技の魅力は？&lt;/b&gt;&lt;br&gt;良い意味で単純なところです。&lt;br&gt;誰かに左右される事なく重量と向き合い、己のチカラのみで勝負する。協調性に欠ける僕には合っているのかもしれません(苦笑)&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;目標とする選手は？&lt;/b&gt;&lt;br&gt;平岡勇輝&lt;br&gt;（※ 大塩選手のウェイトリフティングにおける師匠。&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C1%B4%C6%FC%CB%DC%C1%AA%BC%EA%B8%A2&#34;&gt;全日本選手権&lt;/a&gt;優勝歴７回、94kg級&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C6%FC%CB%DC%B5%AD%CF%BF&#34;&gt;日本記録&lt;/a&gt;保持者。&lt;br&gt;&lt;a href=&#34;https://players1.st/posts/5&#34;&gt;
+&lt;p&gt;🔗&lt;/p&gt;
+&lt;p&gt;My coach 平岡勇輝 - Players1st&lt;/p&gt;&lt;/a&gt;
+&lt;p&gt;）&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;自分が得意なことは？&lt;/b&gt;&lt;br&gt;人の能力を上げてあげることかな。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;”普通の１日”のスケジュール&lt;/b&gt;&lt;br&gt;6時起床&lt;br&gt;8時から終日&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A1%BC%A5%BD%A5%CA%A5%EB%A5%C8%A5%EC%A1%BC%A5%CB%A5%F3%A5%B0&#34;&gt;パーソナルトレーニング&lt;/a&gt;のセッション&lt;br&gt;終了後、セッションの合間に自らのトレーニング&amp;amp;食事&lt;br&gt;1〜2時に就寝&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;練習方法&lt;/b&gt;&lt;br&gt;基本的には週末に代々木に行き、コーチ指導のもとリフティング&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%AD%A5%EB%A5%A2%A5%C3%A5%D7&#34;&gt;スキルアップ&lt;/a&gt;、パワー強化に努め、平日は教わったことの反復練習&amp;amp;補強練習に努めています。毎日約2時間弱の練習をしています。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;家族構成&lt;/b&gt;&lt;br&gt;妻、娘1人&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;次の目標は？&lt;/b&gt;&lt;br&gt;&lt;b&gt;最終目標は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;&lt;/b&gt;ですが、とりあえずは&lt;b&gt;スクワットを240kg&lt;/b&gt;ですね。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;選手としての活動費・生活費はどのように得ていますか？&lt;/b&gt;&lt;br&gt;主たる業務が&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A1%BC%A5%BD%A5%CA%A5%EB%A5%C8%A5%EC%A1%BC%A5%CB%A5%F3%A5%B0&#34;&gt;パーソナルトレーニング&lt;/a&gt;でもありますので、主に資金は自ら稼ぐしかないです。&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;サポーターに一言
+&lt;p&gt;&lt;/b&gt;&lt;p&gt;💬&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;しがないリフターですが、皆さんの応援や支援あって挑戦できることだと思っています。何歳からでも夢に挑戦できるんだってことをカラダを張って証明してみせます。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;大塩選手、ありがとうございました😊&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;b&gt;2.この競技の魅力は？&lt;/b&gt;&lt;br&gt;良い意味で単純なところです。
+&lt;br&gt;誰かに左右される事なく重量と向き合い、己のチカラのみで勝負する。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;たしかに、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A6%A5%A8%A5%A4%A5%C8%A5%EA%A5%D5%A5%C6%A5%A3%A5%F3%A5%B0&#34;&gt;ウェイトリフティング&lt;/a&gt;は対戦相手がいるわけではなく、チーム戦でもなく、審判に美しさを判定される競技でもありません。&lt;br&gt;これは目からウロコでした💡&lt;br&gt;&lt;br&gt;大塩選手はPlayers1stの初ポストに書かれているように、３０代から&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A6%A5%A8%A5%A4%A5%C8%A5%EA%A5%D5%A5%C6%A5%A3%A5%F3%A5%B0&#34;&gt;ウェイトリフティング&lt;/a&gt;🏋を始め、４年後の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;出場を目指して日々トレーニングに励んでいます。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「伸びしろしかありませんッ‼︎」&lt;/b&gt;&lt;br&gt;の言葉が熱いですね🔥&lt;/p&gt;
+&lt;figure data-orig-width=&#34;740&#34; data-orig-height=&#34;493&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111055.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;740&#34; data-orig-height=&#34;493&#34;&gt;&lt;/figure&gt;&lt;p&gt;（&lt;a href=&#34;https://players1.st/posts/1&#34;&gt;🔗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4年後の自分 - Players1st より）&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;大塩選手は、パーソナルジム「&lt;a href=&#34;http://www.stoicfamily.com/&#34;&gt;STOIC FAMILY&lt;/a&gt;」の経営者でもあります。&lt;/p&gt;
+&lt;p&gt;Players1stでのポストも、日々のトレーニングのことだけではなく、&lt;br&gt;身体作り・メンテナンスに関するポスト、&lt;br&gt;サポートしている他競技の選手に関するポストなど、&lt;br&gt;内容も多彩です。&lt;/p&gt;
+&lt;p&gt;大塩直一郎選手のPlayers1stページはこちら⇓です。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fyoshihitomiyata&amp;amp;t=MzYxNjQ1OWMzNzg0Zjg0ODFjM2ExZmU3ZWFiN2YxMDUzYzAwYmQ5NCxtV0QwWjN3RQ%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/naoichiro&#34;&gt;大塩直一郎 - Players1st&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;日本では競技人口がまだ少ない&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A6%A5%A8%A5%A4%A5%C8%A5%EA%A5%D5%A5%C6%A5%A3%A5%F3%A5%B0&#34;&gt;ウェイトリフティング&lt;/a&gt;選手の、日々の姿をキャッチできます👍&lt;/p&gt;
+&lt;p&gt;ぜひPlayers1stに登録して、大塩選手をフォローしましょう☺&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「スポーツを支える」力になりたい。&lt;/b&gt;そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたスポーツファンの方は、ぜひ &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up&amp;amp;t=ZWI5MThjZTUzZmY2NjA4YjIzNGUwOTZmMTNlZTA1OGRhZTJkZjFhNyxPdm1QVGF4Sw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;登録料・会費などはありません。&lt;/b&gt;&lt;br&gt;選手への支援、選手が作成した課金アイテム・イベントへの支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手紹介１-宮田義人選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%91-%E5%AE%AE%E7%94%B0%E7%BE%A9%E4%BA%BA%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Mon, 17 Oct 2016 16:30:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B%EF%BC%91-%E5%AE%AE%E7%94%B0%E7%BE%A9%E4%BA%BA%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110658.jpg" alt="Featured image of post 選手紹介１-宮田義人選手" /&gt;&lt;body&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=ZDQxMTAwOGUzYmMxNjZkNTgwYjhkODlmNTcyNjhkNzI2MDljMWJjMSxPWnV1YzZuZw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;Players1st&lt;/a&gt;に登録していただいている選手を順次ご紹介していきます！&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;第１回はPlayers1st&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A8%A5%D0%A5%F3%A5%B8%A5%A7%A5%EA%A5%B9%A5%C8&#34;&gt;エバンジェリスト&lt;/a&gt;選手の&lt;b&gt;宮田義人さん&lt;/b&gt;⚽です☺&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/yoshihitomiyata/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A8%A5%D0%A5%F3%A5%B8%A5%A7%A5%EA%A5%B9%A5%C8&#34;&gt;エバンジェリスト&lt;/a&gt;選手とはPlayers1stの魅力を他のスポーツ選手、サポーターに普及する役割を担う選手&lt;/b&gt;のことです。&lt;/p&gt;
+&lt;p&gt;Players1stにも宮田選手自身が意気込みをポストしています。&lt;br&gt;🔗&lt;a href=&#34;https://players1.st/posts/12&#34;&gt;ミーティング - Players1st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;それでは、宮田選手のプロフィールから深掘りしてみましょう！&lt;/p&gt;
+&lt;h2&gt;Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;氏名&lt;/b&gt;：&lt;b&gt;宮田　義人&lt;/b&gt;（みやた・よしひと）&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;生年月日&lt;/b&gt;：1982年7月8日&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;競技&lt;/b&gt;：フットサル&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;所属&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%DC%C3%E6%A5%A2%A5%B9%A5%EC%A5%C6%A5%A3%A5%C3%A5%AFFC&#34;&gt;府中アスレティックFC&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;活動拠点&lt;/b&gt;：&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%C5%D4%C9%DC%C3%E6%BB%D4&#34;&gt;東京都府中市&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;出身地&lt;/b&gt;：東京都&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C4%B4%C9%DB%BB%D4&#34;&gt;調布市&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;経歴&lt;/b&gt;&lt;br&gt;&lt;b&gt;【サッカー】&lt;/b&gt;&lt;br&gt;調布&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A1%BC%A5%B0%A5%EB%A5%B9&#34;&gt;イーグルス&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%F4%A5%A7%A5%EB%A5%C7%A5%A3%A5%E6%A1%BC%A5%B9&#34;&gt;ヴェルディユース&lt;/a&gt;S&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%F4%A5%A7%A5%EB%A5%C7%A5%A3&#34;&gt;ヴェルディ&lt;/a&gt;Jrユース&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%CB%DC%B6%BF%B9%E2%B9%BB&#34;&gt;本郷高校&lt;/a&gt;サッカー部&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%B9%F1%BB%CE%B4%DC%C2%E7%B3%D8&#34;&gt;国士舘大学&lt;/a&gt;サッカー部&lt;br&gt;&lt;br&gt;&lt;b&gt;【フットサル】&lt;br&gt;&lt;/b&gt; &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%DC%C3%E6%A5%A2%A5%B9%A5%EC%A5%C6%A5%A3%A5%C3%A5%AFFC&#34;&gt;府中アスレティックFC&lt;/a&gt;&lt;br&gt;（関東フットサルリーグ） &lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C9%DC%C3%E6%A5%A2%A5%B9%A5%EC%A5%C6%A5%A3%A5%C3%A5%AFFC&#34;&gt;府中アスレティックFC&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;b&gt;&lt;b&gt;❓&lt;/b&gt;宮田選手に１０の質問❓&lt;/b&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;b&gt;今の競技との出会いは？&lt;br&gt;&lt;/b&gt;
+&lt;p&gt;大学生の頃に地元の仲間に誘われてフットサル大会に出たのが最初です。&lt;br&gt;大学サッカーを引退した後に中学時代の恩師の勧めで府中アスレを紹介してもらい、セレクション（※）を受け本格的にフットサルを始めるようになりました。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;（※セレクション＝クラブチームへの入団テスト）&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;この競技の魅力は？&lt;/b&gt;&lt;br&gt;&lt;b&gt;攻守の切り替えが早いゲーム展開&lt;/b&gt;です。&lt;br&gt;&lt;b&gt;サッカーの約1/4のコートで5人対5人で行う為、ボールに触れる回数が多い&lt;/b&gt;です。&lt;br&gt;&lt;b&gt;シュートシーンが多く、誰でもゴールを決めるチャンスがある&lt;/b&gt;ところも魅力です！&lt;br&gt;&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;目標とする選手は？&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;プレースタイルなどは僕と違いますが、ブラジル代表の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%A1%A5%EB%A5%AB%A5%F3&#34;&gt;ファルカン&lt;/a&gt;選手を初めて拝見した時の衝撃（&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D2%A1%BC%A5%EB%A5%EA%A5%D5%A5%C8&#34;&gt;ヒールリフト&lt;/a&gt;で相手を交わしたりするなど数々のテクニックなど）は忘れられません。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;自分が得意なことは？&lt;/b&gt;&lt;br&gt;
+&lt;p&gt; 僕はFIXO（※）の選手なのでディフェンスには自信を持っています。&lt;br&gt;（※FIXO＝フィクソ：フットサルのポジション名で、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B4%A1%BC%A5%EB%A5%AD%A1%BC%A5%D1%A1%BC&#34;&gt;ゴールキーパー&lt;/a&gt;を除いて一番自陣のゴールに近い位置を担う）&lt;br&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;”普通の１日”のスケジュール&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;午前中練習→午後から子供のフットサルスクール、夜は大人のフットサルスクールなど&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;練習方法&lt;/b&gt;&lt;br&gt;
+&lt;p&gt; 主に監督が決めた練習メニューをこなしますが、フィジカルトレーニングを始め、ビデオミーティングなどを行い前の試合を振り返ったり、次の対戦チームのスカウティングや対策に合わせたメニューを行なっています。&lt;br&gt;また、オフが続く時はジムで筋トレをしたり、水泳やランニングなど体力維持のための自主トレを行なっています。&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;家族構成&lt;/b&gt;：
+&lt;p&gt;妻、娘、犬&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;次の目標は？&lt;br&gt;リーグ優勝🏆&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;スポーツ選手としての活動費・生活費はどのように得ていますか？&lt;br&gt;&lt;/b&gt;フットサルスクール
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;サポーターに一言💬&lt;/b&gt;&lt;br&gt;
+&lt;p&gt;チームサポーターの皆様にはいつも熱い声援を頂き心から感謝しています。&lt;br&gt;皆さんの声が、僕個人としてもチームとしても本当に大きな力となっています。&lt;br&gt;また、他チームのサポーターの皆様にも&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;をより一層楽しんでいただけるよう、一選手としてもチームとしても手強い相手であれるよう頑張ります。&lt;br&gt;今後ともチーム、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;をよろしくお願いします。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure data-orig-width=&#34;1568&#34; data-orig-height=&#34;1044&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110658.jpg&#34; data-orig-width=&#34;1568&#34; data-orig-height=&#34;1044&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;b&gt;宮田選手、ありがとうございました😊&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;宮田選手は、現在３４歳。日本のフットサルでは長いキャリアのあるベテラン選手です。&lt;/p&gt;
+&lt;p&gt;普通の１日の過ごし方の回答にあるように、自分の練習だけではなく、フットサルのプレイヤーを育てる役割も担っています。&lt;br&gt;（Players1stでも、たびたびフットサルクリニックのイベントを立てています）&lt;/p&gt;
+&lt;p&gt;そして、日本のフットサルの最高峰である&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;に出場していながらも、主な収入はフットサルを人に教えることから得ています。&lt;/p&gt;
+&lt;p&gt;ここ10数年で認知度が上がり、競技人口も増えたフットサルですが、トッププレイヤーでも試合に出ることだけで生活することはまだ難しい状況です。&lt;/p&gt;
+&lt;p&gt;いち早く、Players1stの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A8%A5%D0%A5%F3%A5%B8%A5%A7%A5%EA%A5%B9%A5%C8&#34;&gt;エバンジェリスト&lt;/a&gt;を引き受けられた宮田選手は、&lt;b&gt;後に続く若手選手がスポーツ競技者として生計を立てていける環境づくり&lt;/b&gt;にも力を入れています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;894&#34; data-orig-height=&#34;661&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110741.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;894&#34; data-orig-height=&#34;661&#34;&gt;&lt;/figure&gt;&lt;p&gt;（写真：宮田選手のポスト  &lt;a href=&#34;https://players1.st/posts/13&#34;&gt;フットサルクリニック&lt;/a&gt; より）&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;宮田義人選手のPlayers1stページはこちら⇓です。&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://players1.st/yoshihitomiyata/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;まだの方は、ぜひPlayers1stに登録して、宮田選手をフォローしましょう🎉&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「スポーツを支える」力になりたい。&lt;/b&gt;そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたスポーツファンの方は、ぜひ &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up&amp;amp;t=ZWI5MThjZTUzZmY2NjA4YjIzNGUwOTZmMTNlZTA1OGRhZTJkZjFhNyxPdm1QVGF4Sw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;m=1&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;登録料・会費などはありません。&lt;/b&gt;&lt;br&gt;選手への支援、選手が作成した課金アイテム・イベントへの支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

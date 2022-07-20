@@ -1,26 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>通知 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E9%80%9A%E7%9F%A5/</link>
-    <description>Recent content in 通知 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Mon, 12 Jun 2017 19:01:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E9%80%9A%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>通知機能をリリースしました</title>
-      <link>https://blog.players1.st/2017/06/12/190116/</link>
-      <pubDate>Mon, 12 Jun 2017 19:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/06/12/190116/</guid>
-      <description>選手からの要望が多かった。通知機能をリリースしました🎉
-
-スポンサー申し込み時などにお知らせしてくれる機能です。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>通知 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E9%80%9A%E7%9F%A5/</link>
+        <description>Recent content in 通知 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Mon, 12 Jun 2017 19:01:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E9%80%9A%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>通知機能をリリースしました</title>
+        <link>https://blog.players1.st/p/%E9%80%9A%E7%9F%A5%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Mon, 12 Jun 2017 19:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%80%9A%E7%9F%A5%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110646.png" alt="Featured image of post 通知機能をリリースしました" /&gt;&lt;body&gt;
+&lt;p&gt;選手からの要望が多かった。通知機能をリリースしました🎉&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;294&#34; data-orig-width=&#34;730&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110646.png&#34; data-orig-height=&#34;294&#34; data-orig-width=&#34;730&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;スポンサー申し込み時などにお知らせしてくれる機能です。&lt;/p&gt;
+&lt;p&gt;これでスポンサーの申し込みやコ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;を受け取った時に気付くことができるようになります👍&lt;/p&gt;
+&lt;p&gt;さっそく、紹介していきましょう。&lt;/p&gt;
+&lt;h2&gt;お知らせタブができました🔔&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;にログインしてトップページ(Players1stロゴをクリック)するとベルのマークの付いた新しくお知らせタブが増えています。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;308&#34; data-orig-width=&#34;740&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110346.png&#34; data-orig-height=&#34;308&#34; data-orig-width=&#34;740&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;お知らせタブを押すと通知一覧が表示されます。
+通知内容にはリンクが貼ってありますので、そこから詳しくチェックすることもできます。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;856&#34; data-orig-width=&#34;718&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111220.png&#34; data-orig-height=&#34;856&#34; data-orig-width=&#34;718&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;新しい通知がある場合はベルのマークに未読数の数字がつきます。
+いくつ新しい情報があるか、ひと目でわかりますね😊&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;294&#34; data-orig-width=&#34;730&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110654.png&#34; data-orig-height=&#34;294&#34; data-orig-width=&#34;730&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;お知らせする内容&lt;/h2&gt;
+&lt;p&gt;通知される内容は以下のようになっています。&lt;/p&gt;
+&lt;p&gt;選手の場合&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;フォローされたとき&lt;/li&gt;
+&lt;li&gt;スターをつけられたとき&lt;/li&gt;
+&lt;li&gt;コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;されたとき&lt;/li&gt;
+&lt;li&gt;スポンサー申込みがあったとき&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;サポーターの場合&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;フォローされたとき&lt;/li&gt;
+&lt;li&gt;スターをつけられたとき&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;選手の場合はコ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;やスポンサーなどの課金サービスの申込み時のお知らせがあります。&lt;/p&gt;
+&lt;p&gt;誰からどんなもので申し込みがあったか通知でわかりますが、より具体的な金額などを確認したい時は「取引履歴」を見ると分かります。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;818&#34; data-orig-width=&#34;440&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110046.png&#34; data-orig-height=&#34;818&#34; data-orig-width=&#34;440&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;こんな使い方&lt;/h2&gt;
+&lt;p&gt;選手にとってはタ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%E0%A5%EA&#34;&gt;イムリ&lt;/a&gt;ーに支援金やスポンサーの申し込みが把握できるようになるので、お礼のポストを出したり今後の活動計画を立てやすくなりますね。&lt;/p&gt;
+&lt;p&gt;ぜひ通知機能を活用してみてください！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するため、選手とサポーターを継続的につなげる課金PRサイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートやスポーツファンの方は、ぜひ🔗こちらからご登録ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up?from=layout-drawer&amp;amp;token=U9uHncad?from=blog&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up?from=blog&#34;&gt;サポーター登録&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 選手への支援への支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

@@ -1,46 +1,183 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>マニュアル on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
-    <description>Recent content in マニュアル on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Thu, 27 Sep 2018 11:59:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう</title>
-      <link>https://blog.players1.st/2018/09/27/500sponsor/</link>
-      <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/09/27/500sponsor/</guid>
-      <description>こんにちは、Players1st運営チームです。
-継続的な月額スポンサーの募集、もう始めているでしょうか？
-Players1stに登録したけどまだ月額スポンサー募集を作ったことがない、という方もいらっしゃいます。</description>
-    </item>
-    
-    <item>
-      <title>スポンサー支払方法に年一括の銀行振込を追加しました</title>
-      <link>https://blog.players1.st/2017/02/28/180446/</link>
-      <pubDate>Tue, 28 Feb 2017 18:04:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/02/28/180446/</guid>
-      <description>Players1stはより良く使っていただくために、便利な機能をリリースし続けています。
-今回は、シンプルだけど嬉しいあの機能。
-スポンサー募集の支払い方法に銀行振込が増えました！！🏧</description>
-    </item>
-    
-    <item>
-      <title>サポーター向けマニュアル-引用ポスト</title>
-      <link>https://blog.players1.st/2017/02/01/113044/</link>
-      <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/02/01/113044/</guid>
-      <description>いつもPlayers1st で選手のポストを楽しみにしている、スポーツファンの皆さんへ。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>マニュアル on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+        <description>Recent content in マニュアル on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Thu, 27 Sep 2018 11:59:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう</title>
+        <link>https://blog.players1.st/p/%E3%83%AF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E5%8A%B9%E6%9E%9C%E3%81%8C%E9%AB%98%E3%81%84%EF%B8%8F%E6%9C%88%E9%A1%8D%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</link>
+        <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%AF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E5%8A%B9%E6%9E%9C%E3%81%8C%E9%AB%98%E3%81%84%EF%B8%8F%E6%9C%88%E9%A1%8D%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/20180926164347_featured.png" alt="Featured image of post ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう" /&gt;&lt;body&gt;
+&lt;p&gt;こんにちは、Players1st運営チームです。&lt;/p&gt;
+&lt;p&gt;継続的な月額スポンサーの募集、もう始めているでしょうか？&lt;/p&gt;
+&lt;p&gt;Players1stに登録したけどまだ月額スポンサー募集を作ったことがない、という方もいらっしゃいます。&lt;/p&gt;
+&lt;p&gt;まずは、&lt;br&gt;&lt;strong&gt;募集しないとサポーターがスポンサーになりたくてもなれません！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; Players1stでは、日々システムの改善🆙を行っています。&lt;/p&gt;
+&lt;p&gt;登録した時にはちょっと作成がめんどうに思えたかもしれませんが、&lt;br&gt;今はクリックするだけでスポンサー募集がすぐ⚡に始められるようになっています。&lt;/p&gt;
+&lt;p&gt; ぜひ、やってみましょう。&lt;/p&gt;
+&lt;h3&gt;スポンサー獲得の50%が月500円のプラン&lt;/h3&gt;
+&lt;p&gt;では、もっとも始めやすく、効果が高いスポンサー募集はどう作成したらいいのか？&lt;/p&gt;
+&lt;p&gt;実は直近のデータを見ると、&lt;br&gt;Players1stで月額スポンサーになっているサポーターの&lt;strong&gt;約50%が月500円のプランを利用しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;続いて月額1000円台が約26%、月額5000円台の方が約18%です。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180926164347p:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180926/20180926164347.png&#34; alt=&#34;f:id:urabetti:20180926164347p:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;caret-color: #242527; color: #242527; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, メイリオ, Meiryo, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: none; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;&#34;&gt;月額500円のプランでも、年間の支援額は6,000円になります。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;年間6,000円の支援をするサポーターが10人いたら年6万円です。&lt;/p&gt;
+&lt;p&gt;15%の手数料は差し引かせていただきますが、今の収入の他に年間5万円強の支援が受けられると、それだけ競技に集中したり、必要な道具を買うことができるのはないでしょうか。&lt;/p&gt;
+&lt;p&gt;まだスポンサー募集をしたことがない方、&lt;br&gt;月額料金設定が高めでなかなかスポンサーが得られない方、&lt;br&gt;ぜひ500円スポンサー募集を始めてみましょう。&lt;/p&gt;
+&lt;p&gt;そして、募集開始と前後して、スポンサーだけが読める🔐限定公開投稿も合わせて活用しましょう😉&lt;/p&gt;
+&lt;p&gt;&lt;iframe class=&#34;embed-card embed-blogcard&#34; style=&#34;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&#34; title=&#34;これはやらなきゃ！月額スポンサーだけが見られる🔐限定公開投稿を活用しましょう💪 - Players1st Blog&#34; src=&#34;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2F2018%2F09%2F17%2Flimited_posts&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;ワンクリックでできるスポンサー募集の作り方は続きをご覧ください👇&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;クリックだけでできる500円スポンサー募集&lt;/h3&gt;
+&lt;p&gt;「ちょっと特典を考えるのがめんどうで…💦」という方は、特典や内容を考えなくてもすぐに作れる&lt;strong&gt;500円スポンサー募集&lt;/strong&gt;をまず作ってみましょう❕&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ワンクリックで作りましょう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ログイン後、こちらのページにアクセスしてください。&lt;/p&gt;
+&lt;p&gt;&lt;iframe class=&#34;embed-card embed-webcard&#34; style=&#34;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&#34; title=&#34;ワンクリック スポンサー募集作成 | Players1st&#34; src=&#34;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fplayers1.st%2Fproposals%2Frecommend_pattern&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;cite class=&#34;hatena-citation&#34;&gt;&lt;a href=&#34;https://players1.st/proposals/recommend_pattern&#34;&gt;players1.st&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;このスポンサー募集作成画面では、３つのテンプレートをご用意しています。&lt;/p&gt;
+&lt;p&gt; 一番上の500円スポンサーを「&lt;strong&gt;作成する&lt;/strong&gt;」ボタンを押します。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180926162221p:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180926/20180926162221.png&#34; alt=&#34;f:id:urabetti:20180926162221p:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt; 500円スポンサーは月額500円で、Players1stが提供する以下の基本特典を提供できます。選手が特典を用意する必要はありません。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;スポンサー限定の選手投稿が読めます。&lt;/li&gt;
+&lt;li&gt;選手とメッセージ交換ができます。&lt;/li&gt;
+&lt;li&gt;Players1st内のスポンサー一覧に紹介させていただきます。&lt;br&gt;(非表示を希望の方は申込時に設定できます。)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180926162642j:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180926/20180926162642.jpg&#34; alt=&#34;f:id:urabetti:20180926162642j:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;すでに特典がセットされているので、ただ&lt;strong&gt;「登録する」&lt;/strong&gt;ボタンを押すだけでスポンサー募集が開始できます👌✨&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;こちらを登録したら、次はさらに特典を加えたプランも作ってみましょう。&lt;br&gt;それぞれテンプレートの数値や文章をお好みに変更するだけですぐにできます。&lt;/p&gt;
+&lt;p&gt;もし困ったことがあれば、右下の「お気軽にご相談ください」ボタンよりご相談ください。&lt;/p&gt;
+&lt;p&gt;あなたのスポンサー募集がファン・サポーターの皆さんに届きますように、Players1stではしっかりとサポートをさせていただきます！&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style=&#34;box-sizing: content-box; height: 0px; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;&lt;a href=&#34;https://players1.st/&#34; style=&#34;background: transparent; color: #789dae; overflow-wrap: break-word;&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34; style=&#34;background: transparent; color: inherit !important; overflow-wrap: break-word; text-decoration: none; border-bottom: 1px dotted #eceef1; font-size: 15px; font-weight: inherit !important; font-style: inherit !important; pointer-events: auto !important; cursor: pointer !important;&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34; style=&#34;background: transparent; color: #789dae; overflow-wrap: break-word;&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;登録料・会費などはありません。無料でご利用になれます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>スポンサー支払方法に年一括の銀行振込を追加しました</title>
+        <link>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E6%94%AF%E6%89%95%E6%96%B9%E6%B3%95%E3%81%AB%E5%B9%B4%E4%B8%80%E6%8B%AC%E3%81%AE%E9%8A%80%E8%A1%8C%E6%8C%AF%E8%BE%BC%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Tue, 28 Feb 2017 18:04:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E6%94%AF%E6%89%95%E6%96%B9%E6%B3%95%E3%81%AB%E5%B9%B4%E4%B8%80%E6%8B%AC%E3%81%AE%E9%8A%80%E8%A1%8C%E6%8C%AF%E8%BE%BC%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110305.png" alt="Featured image of post スポンサー支払方法に年一括の銀行振込を追加しました" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;はより良く使っていただくために、便利な機能をリリースし続けています。&lt;/p&gt;
+&lt;p&gt;今回は、シンプルだけど嬉しいあの機能。&lt;/p&gt;
+&lt;h2&gt;スポンサー募集の支払い方法に銀行振込が増えました！！🏧&lt;/h2&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;297&#34; data-orig-height=&#34;246&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110305.png&#34; data-orig-width=&#34;297&#34; data-orig-height=&#34;246&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;今まで選手の作るスポンサー募集への支払い方法は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/PayPal&#34;&gt;PayPal&lt;/a&gt;によるクレジット決済のみでした。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/PayPal&#34;&gt;PayPal&lt;/a&gt;アカウント持っていないし&lt;/li&gt;
+&lt;li&gt;クレジットカードは使いたくなんだけど&lt;/li&gt;
+&lt;li&gt;年一括分でもいいから銀行振込がいいんだけど&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;のような声🗣をいただいていました。そのような要望にしっかり答えるために開発しました💻&lt;/p&gt;
+&lt;p&gt;さっそく、紹介していきましょう。&lt;/p&gt;
+&lt;h2&gt;支払方法が毎月ならクレジット、年一括なら銀行振込&lt;/h2&gt;
+&lt;p&gt;今までのクレジット決済に加えて、銀行振込が選択できるようになっています。&lt;/p&gt;
+&lt;p&gt;ただし、支払える期間は年一括のみとなっています。&lt;/p&gt;
+&lt;p&gt;ですので、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;毎月支払いたい場合はクレジット決済💳&lt;/li&gt;
+&lt;li&gt;年一括なら銀行振込🏧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;と支払いたい期間によって選択することになります。&lt;/p&gt;
+&lt;h2&gt;年一括はシーズン更&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%BF%B7%B7%EE&#34;&gt;新月&lt;/a&gt;まで分を支払い&lt;/h2&gt;
+&lt;p&gt;年一括は選手のシーズンが終わるまでの残りの月数分までとなります。
+スポンサー募集の画面では更&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%BF%B7%B7%EE&#34;&gt;新月&lt;/a&gt;という表示で確認できます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;235&#34; data-orig-height=&#34;66&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110102.png&#34; data-orig-width=&#34;235&#34; data-orig-height=&#34;66&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;シーズン初めの月にスポンサー募集を応募した場合は12ヶ月分となりますが、
+シーズン途中、例えば、&lt;b&gt;毎年3月&lt;/b&gt;が更新確認のスポンサー募集に対して&lt;b&gt;12月に応募したら&lt;/b&gt;、12月,1月,2月,3月の&lt;b&gt;4ヶ月分の金額&lt;/b&gt;が年一括の銀行振込で支払う金額となります。&lt;/p&gt;
+&lt;p&gt;ちなみに、選手のスポンサー応募にはユーザー登録(無料)が必要です。まだアカウント登録したことがない方は &lt;a href=&#34;https://players1.st/users/sign_up&#34;&gt;こちら&lt;/a&gt; からお願いします。&lt;/p&gt;
+&lt;p&gt;では、年一括の支払い方法をご紹介しましょう。&lt;/p&gt;
+&lt;h2&gt;年一括の支払い方&lt;/h2&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/proposals&#34;&gt;スポンサー募集一覧&lt;/a&gt;から支払いたいスポンサー募集を選び、「詳細を見る」リンクをタップします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;242&#34; data-orig-height=&#34;169&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110641.png&#34; data-orig-width=&#34;242&#34; data-orig-height=&#34;169&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;個別スポンサー募集のページが開きますので、下の方の「応募する」リンクをタップします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;229&#34; data-orig-height=&#34;169&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111117.png&#34; data-orig-width=&#34;229&#34; data-orig-height=&#34;169&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;応募内容にて、毎月か年一括かを選択肢できます。銀行振込の場合は「年一括」を選択します。&lt;/p&gt;
+&lt;p&gt;口数に数字を入力し、スポンサー紹介に表示しない場合はチェックを付けて、「応募する」ボタンをタップします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;297&#34; data-orig-height=&#34;306&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110714.png&#34; data-orig-width=&#34;297&#34; data-orig-height=&#34;306&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;そうすると、受け付けられた旨のメッセージが表示され、登録メールアドレス宛にメールが送られます📩&lt;/p&gt;
+&lt;figure data-orig-width=&#34;373&#34; data-orig-height=&#34;125&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110416.png&#34; data-orig-width=&#34;373&#34; data-orig-height=&#34;125&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;あとは受け取ったメールにしたがって、振込金額や振込先の情報を見ながら振込処理をしていただくことになります👌&lt;/p&gt;
+&lt;p&gt;また、振込期限は応募日から1週間以内、振込手数料は支払い者の負担にてお願いします。&lt;/p&gt;
+&lt;h2&gt;やはり定番の銀行振込😊&lt;/h2&gt;
+&lt;p&gt;いかがだったでしょう。操作は非常にシンプル。「年一括」を選択するのみです。&lt;/p&gt;
+&lt;p&gt;クレジット決済でのインターネットでの支払いは増えましたが、まだまだ銀行振込は根強い支払い方法ですよね。&lt;/p&gt;
+&lt;p&gt;これを機に、クレジットカードをお持ちでなかった方は応援したい選手のスポンサー応募を検討してみてはいかがでしょう。お待ちしています！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;は、「&lt;b&gt;現役スポーツ選手を見つける、つながる、支える。&lt;/b&gt;」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;Players1stは基本的に無料で使えます。選手への支払いを申し込む時に課金します。
+支えるユーザーとしてまだ登録していないけど使ってみたい！と思われた方は &lt;a href=&#34;https://players1.st/users/sign_up&#34;&gt;こちら&lt;/a&gt; からユーザー登録(無料)できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>サポーター向けマニュアル-引用ポスト</title>
+        <link>https://blog.players1.st/p/%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E5%BC%95%E7%94%A8%E3%83%9D%E3%82%B9%E3%83%88/</link>
+        <pubDate>Wed, 01 Feb 2017 11:30:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E5%BC%95%E7%94%A8%E3%83%9D%E3%82%B9%E3%83%88/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111305.png" alt="Featured image of post サポーター向けマニュアル-引用ポスト" /&gt;&lt;body&gt;
+&lt;p&gt;
+&lt;p&gt;いつも&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; で選手のポストを楽しみにしている、スポーツファンの皆さんへ。&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;スポーツ選手が投稿したポストやイベント、また試合結果などにコメントが投稿できる“&lt;b&gt;引用ポスト”&lt;/b&gt;機能をリリースしました！&lt;/p&gt;
+&lt;p&gt;選手の投稿に感想や応援を書くことができます🙆 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ぜひ、皆さんの熱いエールをお書きください💪&lt;/p&gt;
+&lt;p&gt;では、その方法を一つ一つご紹介します。&lt;/p&gt;
+&lt;h2&gt;引用ポスト💬の作り方&lt;/h2&gt;
+&lt;p&gt;まず、例として選手のポストを一つ開きます。&lt;/p&gt;
+&lt;p&gt;（下の図は架空の選手のポストです）&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1054&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111305.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1054&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;一番下にある「&lt;b&gt;この内容を引用してポストする&lt;/b&gt;」のリンクを押すと、ポスト作成の画面に移ります。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;576&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110318.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;576&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のポストと同様に、&lt;b&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%B7%A5%E5%A5%BF%A5%B0&#34;&gt;ハッシュタグ&lt;/a&gt;をつけて、同じタグをつけたポストとつながることもできます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;画像📷か動画📹（どちらか１つ）を添付することもできます。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;683&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110239.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;683&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;に連携すると、引用ポストと同時に連携した&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;にも投稿されます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;801&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110358.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;801&#34;&gt;&lt;/figure&gt;&lt;p&gt;最後に&lt;b&gt;「登録する」&lt;/b&gt;ボタンを押すことをお忘れなく!!&lt;/p&gt;
+&lt;p&gt;引用ポストはこのように表示されます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1161&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110718.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1161&#34;&gt;&lt;/figure&gt;&lt;p&gt;この例では、スポーツ選手のポストへの引用ですが、&lt;a href=&#34;https://players1.st/events/&#34;&gt;イベント&lt;/a&gt;や&lt;a href=&#34;https://players1.st/games&#34;&gt;試合&lt;/a&gt;（現在は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;のみ提供中）に対しての引用ポストもできます🙆&lt;/p&gt;
+&lt;h2&gt;誰に見られるの？&lt;/h2&gt;
+&lt;p&gt;この引用ポストは、Players1st上で自分のことをフォローしている人のタイムラインに流れます。&lt;/p&gt;
+&lt;p&gt;また、サポーターの詳細ページにも引用ポストの一覧が掲載されます。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%B7%A5%E5%A5%BF%A5%B0&#34;&gt;ハッシュタグ&lt;/a&gt;をつけた場合は、そのタグをたどった人にも見られます。&lt;br&gt;例えば、同じスポーツ名・チーム名のタグを経由してサポーターの同士を発見することもできます。&lt;/p&gt;
+&lt;p&gt;もちろん、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;との連携・シェアをした場合は、その&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;上のフォロワー・友達にも流れます。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;に連携・シェアした場合は、自動的に&lt;a href=&#34;https://twitter.com/pys1st&#34;&gt;Players1st公式アカウント&lt;/a&gt;が&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EA%A5%C4%A5%A4%A1%BC%A5%C8&#34;&gt;リツイート&lt;/a&gt;（RT）もします。&lt;/p&gt;
+&lt;h2&gt;どんなことを書けばいい？&lt;/h2&gt;
+&lt;p&gt;基本的に引用ポストに制限はありません。&lt;/p&gt;
+&lt;p&gt;選手・チームへの応援、観戦記、紹介など、その引用元に関わるポストを歓迎します。&lt;/p&gt;
+&lt;p&gt;お互いに&lt;b&gt;スポーツ選手、スポーツファンがチームやスポーツのジャンルを超えて行き来ができることがPlayers1stの特長&lt;/b&gt;です。&lt;/p&gt;
+&lt;p&gt;対戦相手がいる競技の場合、そのチーム、選手に対してのネガティブなポストをされると、応援しているチーム・競技に悪いイメージを持たれてしまうことにつながってしまいます。&lt;/p&gt;
+&lt;p&gt;弊社代表の深海が、この引用ポストの機能を最初に使って投稿していますので、下のリンクよりご覧ください。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;https://players1.st/posts/76&#34;&gt;Players1st を始めた理由 - Players1st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;https://players1.st/posts/77&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;試合観戦記 Fリーグ すみだx湘南 - Players1st &lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;https://players1.st/posts/78&#34;&gt;試合観戦記 Fリーグ 町田x浦安 - Players1st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;あなたの応援📣が、スポーツ選手の力💪になり、&lt;br&gt;現場からのレポート📄が、他のファンの喜び😄になります。&lt;/p&gt;
+&lt;p&gt;ぜひ、応援している選手のポストへ、応援の引用ポストをしてみましょう!!&lt;/p&gt;
+&lt;p&gt;🔗
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st - 「現役スポーツ選手を見つける、つながる、支える。」&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は、「&lt;b&gt; 現役スポーツ選手を見つける、つながる、支える。&lt;/b&gt;」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたスポーツファンの方は、ぜひ &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2Fusers%2Fsign_up&amp;amp;t=ZWI5MThjZTUzZmY2NjA4YjIzNGUwOTZmMTNlZTA1OGRhZTJkZjFhNyxPdm1QVGF4Sw%3D%3D&amp;amp;b=t%3A-7pvJN5T_razjN_5MnfSsw&amp;amp;p=http%3A%2F%2Fblog.players1.st%2Fpost%2F151037606255%2F%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%81%AE%E3%81%8A%E3%81%8F%E3%82%8A%E6%96%B9&amp;amp;m=1&#34;&gt;こちら&lt;/a&gt; からご登録ください。&lt;/p&gt;
+&lt;p&gt;登録料・会費などはありません。&lt;br&gt;選手への支援、選手が作成した課金アイテム・イベントへの支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

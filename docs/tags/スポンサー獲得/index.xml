@@ -1,69 +1,289 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>スポンサー獲得 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/</link>
-    <description>Recent content in スポンサー獲得 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Sat, 26 Sep 2020 10:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>アスリートエールからの移行キャンペーンを開始しました 「アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン」</title>
-      <link>https://blog.players1.st/2020/09/26/campaign_change_from_ay/</link>
-      <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2020/09/26/campaign_change_from_ay/</guid>
-      <description>アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン
-「アスリートエール」サービス終了にあたって 2012年よりアスリート専用の資金調達支援サービスを継続されていた「アスリートエール」が、年内にサービス終了と解散されることとなりました。
-登録していたアスリートの方々、オンライン後援会などでスポンサーをされていたサポーターの方々は、今後の支援方法について模索をされていることと存じます。</description>
-    </item>
-    
-    <item>
-      <title>ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう</title>
-      <link>https://blog.players1.st/2018/09/27/500sponsor/</link>
-      <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/09/27/500sponsor/</guid>
-      <description>こんにちは、Players1st運営チームです。
-継続的な月額スポンサーの募集、もう始めているでしょうか？
-Players1stに登録したけどまだ月額スポンサー募集を作ったことがない、という方もいらっしゃいます。</description>
-    </item>
-    
-    <item>
-      <title>これはやらなきゃ！月額スポンサーだけが見られる🔐限定公開投稿を活用しましょう💪</title>
-      <link>https://blog.players1.st/2018/09/17/limited_posts/</link>
-      <pubDate>Mon, 17 Sep 2018 10:05:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/09/17/limited_posts/</guid>
-      <description>こんにちは、Players1st運営チームです。
-前回に続いて月額スポンサーを獲得している選手が活用している機能をご紹介します。
-blog.players1.st</description>
-    </item>
-    
-    <item>
-      <title>スポンサーを得ている選手はもうやっている！ 「ゴール」を設定して目標を宣言しましょう！</title>
-      <link>https://blog.players1.st/2018/09/15/goal/</link>
-      <pubDate>Sat, 15 Sep 2018 00:54:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/09/15/goal/</guid>
-      <description>こんにちは、Players1st運営チームです。
-先日、Players1stを活用していただいている選手の方々にうかがったところ、
-「月額スポンサーを得ている選手がしていること」</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入</title>
-      <link>https://blog.players1.st/2017/09/15/172039/</link>
-      <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/09/15/172039/</guid>
-      <description>2017年9月15日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>スポンサー獲得 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/</link>
+        <description>Recent content in スポンサー獲得 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Sat, 26 Sep 2020 10:00:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E7%8D%B2%E5%BE%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>アスリートエールからの移行キャンペーンを開始しました 「アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン」</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%82%A8%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E3%81%AE%E7%A7%BB%E8%A1%8C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%B8%E3%81%AE%E6%94%AF%E6%8F%B4%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%A7%BB%E8%A1%8C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3/</link>
+        <pubDate>Sat, 26 Sep 2020 10:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%82%A8%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E3%81%AE%E7%A7%BB%E8%A1%8C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%B8%E3%81%AE%E6%94%AF%E6%8F%B4%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%A7%BB%E8%A1%8C%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/20200926_campaign.jpg" alt="Featured image of post アスリートエールからの移行キャンペーンを開始しました 「アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン」" /&gt;&lt;p&gt;アスリートへの支援をつなぐスポンサー募集サービス移行キャンペーン&lt;/p&gt;
+&lt;h2 id=&#34;アスリートエールサービス終了にあたって&#34;&gt;「アスリートエール」サービス終了にあたって&lt;/h2&gt;
+&lt;p&gt;2012年よりアスリート専用の資金調達支援サービスを継続されていた「&lt;a class=&#34;link&#34; href=&#34;http://www.athleteyell.jp/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;アスリートエール&lt;/a&gt;」が、年内にサービス終了と解散されることとなりました。&lt;/p&gt;
+&lt;p&gt;登録していたアスリートの方々、オンライン後援会などでスポンサーをされていたサポーターの方々は、今後の支援方法について模索をされていることと存じます。&lt;/p&gt;
+&lt;p&gt;Players1st(プレイヤーズファースト)は2016年より現役アスリート専用のクラウドスポンサー募集サイトとしてサービスを開始しました。
+サッカー、野球などのメジャースポーツから、アルティメット、スケルトンなどのマイナースポーツ、ダーツやビリヤードなどの競技まで、多種多様なスポーツのアスリートに登録いただき、個人スポンサーからの支援を受けています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;登録にあたっての初期費用、月額利用料金などは無く、オンラインで登録したその日からすぐにスポンサーを募集&lt;/strong&gt; できます。&lt;/p&gt;
+&lt;p&gt;今後も継続的な支援を得て、より競技生活を充実させられるよう、ぜひPlayers1stへご登録ください。ご参加をお待ちしております。&lt;/p&gt;
+&lt;h2 id=&#34;players1stの6つのメリット&#34;&gt;Players1stの6つのメリット&lt;/h2&gt;
+&lt;h3 id=&#34;1-高い売上獲得率&#34;&gt;1. 高い売上獲得率&lt;/h3&gt;
+&lt;p&gt;Players1stにはスポンサーを獲得するための様々な機能を提供しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;選手の負担を少なく継続的にスポンサーを増やす&lt;/strong&gt; ことを目指した機能は、高い売上獲得率を示しています。
+Players1stでは機能ごとの売上獲得率をトップページで公表しています。&lt;/p&gt;
+&lt;p&gt;本日(2020年9月26日時点)での機能ごとの売上獲得率は、以下のようになっています。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;機能&lt;/th&gt;
+&lt;th&gt;売上獲得率&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;スポンサー限定ポスト&lt;/td&gt;
+&lt;td&gt;90.91 %&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GOAL設定&lt;/td&gt;
+&lt;td&gt;83.33 %&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;月額スポンサー募集&lt;/td&gt;
+&lt;td&gt;76.32 %&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;売上獲得率の高い機能を活用してスポンサー獲得を実現しましょう。&lt;/p&gt;
+&lt;h3 id=&#34;2-登録はオンラインで完結即日スポンサー募集開始&#34;&gt;2. 登録はオンラインで完結、即日スポンサー募集開始&lt;/h3&gt;
+&lt;p&gt;選手登録にあたっては、特定の競技カテゴリーや年齢・国籍・所在地などの具体的条件はありません。&lt;/p&gt;
+&lt;p&gt;Players1stは &lt;strong&gt;「スポーツの力で世の中をより良くする。」&lt;/strong&gt; というコンセプトのもと、アスリートの経済的支援を行うためのサービスです。このコンセプトに共感し、 &lt;strong&gt;「スポーツ選手としての活動を主な生活の軸としている方」&lt;/strong&gt; が条件となります。&lt;/p&gt;
+&lt;p&gt;オンラインからの登録はご利用のメールアドレスと、ご自身で決めたパスワード、またはSNS認証ですぐに完了します。
+アスリートの登録は &lt;a class=&#34;link&#34; href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;こちら&lt;/a&gt; から&lt;/p&gt;
+&lt;h3 id=&#34;3-費用は支援があった時の手数料のみ&#34;&gt;3. 費用は支援があった時の手数料のみ&lt;/h3&gt;
+&lt;p&gt;初期費用や月額の利用料はありません。&lt;/p&gt;
+&lt;p&gt;スポンサーから選手に支払われた金額の10%〜30%を弊社が手数料としていただきます。
+手数料の内訳は、システム運営費、サーバー・ネットワーク費用、クレジット決済手数料などになります。&lt;/p&gt;
+&lt;p&gt;手数料の算出方法については以下のようになります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;月額スポンサー(月額課金) 一律 15%&lt;/li&gt;
+&lt;li&gt;コインパス(スポット課金)
+&lt;ul&gt;
+&lt;li&gt;¥10,000まで30%&lt;/li&gt;
+&lt;li&gt;¥50,000まで20%&lt;/li&gt;
+&lt;li&gt;¥100,000まで15%&lt;/li&gt;
+&lt;li&gt;それ以降は10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-銀行振り込みクレジットカードpaypalapplepayでの支払いが可能&#34;&gt;4. 銀行振り込み、クレジットカード、PayPal、ApplePayでの支払いが可能&lt;/h3&gt;
+&lt;p&gt;キャッシュレス決済に対応し、スポンサーになりたい方の負担を減らします。&lt;/p&gt;
+&lt;p&gt;継続的な月額スポンサーの支払い方法はクレジットカード決済、PayPal、Apple Pay、銀行振込（年一括払い）がご利用できます。&lt;/p&gt;
+&lt;p&gt;スポット課金の支払方法はクレジットカード決済、PayPal、Apple Payとなります。&lt;/p&gt;
+&lt;h3 id=&#34;5-スピーディーな入金システム&#34;&gt;5. スピーディーな入金システム&lt;/h3&gt;
+&lt;p&gt;選手の売上金額が1万円を超えた場合に、登録いただいた銀行口座への振り込み申請が可能となります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;申請日が1から19日場合は当月末日、20から末日の場合は、翌月末に振込予定&lt;/strong&gt; となります。&lt;/p&gt;
+&lt;p&gt;最短では10月19日までに1万円以上の支援金が集められた場合は、10月31日に振込予定となります。&lt;/p&gt;
+&lt;h3 id=&#34;6-多数の機能がすぐに使えます&#34;&gt;6. 多数の機能がすぐに使えます&lt;/h3&gt;
+&lt;p&gt;スポンサー募集は月額料金とその特典を無制限に作成することができます。お手軽なプランから、しっかり支援を受けられるプランまで複数用意して、サポーターに選んでいただけます。&lt;/p&gt;
+&lt;p&gt;月額スポンサーだけが読める限定公開投稿は、オープンなSNSよりも気軽に深い話題を届けることができます。60秒以内の動画を添付することもできます。&lt;/p&gt;
+&lt;p&gt;他にもスポンサーとのメッセージ機能、TwitterやInstagramの自動まとめ投稿、メディア出演情報の自動まとめ投稿など多数の機能を登録したその日からご利用いただけます。&lt;/p&gt;
+&lt;h2 id=&#34;ご不明な点はお気軽にご相談ください&#34;&gt;ご不明な点はお気軽にご相談ください&lt;/h2&gt;
+&lt;p&gt;新しい環境に移行することは、どんな時でも不安な点があるかと思います。&lt;/p&gt;
+&lt;p&gt;「こういうことはできる？」
+「登録の方法は？」
+など、ご不安な点がありましたら、お気軽にお問い合わせください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;サポート窓口 : &lt;a class=&#34;link&#34; href=&#34;mailto:support@players1.st&#34; &gt; support@players1.st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;サービスサイト : &lt;a class=&#34;link&#34; href=&#34;https://players1.st/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Players1st | 現役アスリートのための月額スポンサー募集サービス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://tayori.com/faq/bc6447112a09320fcfa0b17f4975bd547ae2a0c0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;よくある質問 | Players1st&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう</title>
+        <link>https://blog.players1.st/p/%E3%83%AF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E5%8A%B9%E6%9E%9C%E3%81%8C%E9%AB%98%E3%81%84%EF%B8%8F%E6%9C%88%E9%A1%8D%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</link>
+        <pubDate>Thu, 27 Sep 2018 11:59:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%AF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E5%8A%B9%E6%9E%9C%E3%81%8C%E9%AB%98%E3%81%84%EF%B8%8F%E6%9C%88%E9%A1%8D%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/20180926164347_featured.png" alt="Featured image of post ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう" /&gt;&lt;body&gt;
+&lt;p&gt;こんにちは、Players1st運営チームです。&lt;/p&gt;
+&lt;p&gt;継続的な月額スポンサーの募集、もう始めているでしょうか？&lt;/p&gt;
+&lt;p&gt;Players1stに登録したけどまだ月額スポンサー募集を作ったことがない、という方もいらっしゃいます。&lt;/p&gt;
+&lt;p&gt;まずは、&lt;br&gt;&lt;strong&gt;募集しないとサポーターがスポンサーになりたくてもなれません！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; Players1stでは、日々システムの改善🆙を行っています。&lt;/p&gt;
+&lt;p&gt;登録した時にはちょっと作成がめんどうに思えたかもしれませんが、&lt;br&gt;今はクリックするだけでスポンサー募集がすぐ⚡に始められるようになっています。&lt;/p&gt;
+&lt;p&gt; ぜひ、やってみましょう。&lt;/p&gt;
+&lt;h3&gt;スポンサー獲得の50%が月500円のプラン&lt;/h3&gt;
+&lt;p&gt;では、もっとも始めやすく、効果が高いスポンサー募集はどう作成したらいいのか？&lt;/p&gt;
+&lt;p&gt;実は直近のデータを見ると、&lt;br&gt;Players1stで月額スポンサーになっているサポーターの&lt;strong&gt;約50%が月500円のプランを利用しています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;続いて月額1000円台が約26%、月額5000円台の方が約18%です。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180926164347p:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180926/20180926164347.png&#34; alt=&#34;f:id:urabetti:20180926164347p:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;caret-color: #242527; color: #242527; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, &#39;ヒラギノ角ゴ Pro W3&#39;, &#39;Hiragino Kaku Gothic Pro&#39;, メイリオ, Meiryo, &#39;ＭＳ Ｐゴシック&#39;, &#39;MS PGothic&#39;, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: none; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration: none; display: inline !important; float: none;&#34;&gt;月額500円のプランでも、年間の支援額は6,000円になります。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;年間6,000円の支援をするサポーターが10人いたら年6万円です。&lt;/p&gt;
+&lt;p&gt;15%の手数料は差し引かせていただきますが、今の収入の他に年間5万円強の支援が受けられると、それだけ競技に集中したり、必要な道具を買うことができるのはないでしょうか。&lt;/p&gt;
+&lt;p&gt;まだスポンサー募集をしたことがない方、&lt;br&gt;月額料金設定が高めでなかなかスポンサーが得られない方、&lt;br&gt;ぜひ500円スポンサー募集を始めてみましょう。&lt;/p&gt;
+&lt;p&gt;そして、募集開始と前後して、スポンサーだけが読める🔐限定公開投稿も合わせて活用しましょう😉&lt;/p&gt;
+&lt;p&gt;&lt;iframe class=&#34;embed-card embed-blogcard&#34; style=&#34;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&#34; title=&#34;これはやらなきゃ！月額スポンサーだけが見られる🔐限定公開投稿を活用しましょう💪 - Players1st Blog&#34; src=&#34;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2F2018%2F09%2F17%2Flimited_posts&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;ワンクリックでできるスポンサー募集の作り方は続きをご覧ください👇&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;クリックだけでできる500円スポンサー募集&lt;/h3&gt;
+&lt;p&gt;「ちょっと特典を考えるのがめんどうで…💦」という方は、特典や内容を考えなくてもすぐに作れる&lt;strong&gt;500円スポンサー募集&lt;/strong&gt;をまず作ってみましょう❕&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ワンクリックで作りましょう&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ログイン後、こちらのページにアクセスしてください。&lt;/p&gt;
+&lt;p&gt;&lt;iframe class=&#34;embed-card embed-webcard&#34; style=&#34;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&#34; title=&#34;ワンクリック スポンサー募集作成 | Players1st&#34; src=&#34;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fplayers1.st%2Fproposals%2Frecommend_pattern&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;cite class=&#34;hatena-citation&#34;&gt;&lt;a href=&#34;https://players1.st/proposals/recommend_pattern&#34;&gt;players1.st&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;このスポンサー募集作成画面では、３つのテンプレートをご用意しています。&lt;/p&gt;
+&lt;p&gt; 一番上の500円スポンサーを「&lt;strong&gt;作成する&lt;/strong&gt;」ボタンを押します。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180926162221p:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180926/20180926162221.png&#34; alt=&#34;f:id:urabetti:20180926162221p:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt; 500円スポンサーは月額500円で、Players1stが提供する以下の基本特典を提供できます。選手が特典を用意する必要はありません。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;スポンサー限定の選手投稿が読めます。&lt;/li&gt;
+&lt;li&gt;選手とメッセージ交換ができます。&lt;/li&gt;
+&lt;li&gt;Players1st内のスポンサー一覧に紹介させていただきます。&lt;br&gt;(非表示を希望の方は申込時に設定できます。)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180926162642j:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180926/20180926162642.jpg&#34; alt=&#34;f:id:urabetti:20180926162642j:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;すでに特典がセットされているので、ただ&lt;strong&gt;「登録する」&lt;/strong&gt;ボタンを押すだけでスポンサー募集が開始できます👌✨&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;こちらを登録したら、次はさらに特典を加えたプランも作ってみましょう。&lt;br&gt;それぞれテンプレートの数値や文章をお好みに変更するだけですぐにできます。&lt;/p&gt;
+&lt;p&gt;もし困ったことがあれば、右下の「お気軽にご相談ください」ボタンよりご相談ください。&lt;/p&gt;
+&lt;p&gt;あなたのスポンサー募集がファン・サポーターの皆さんに届きますように、Players1stではしっかりとサポートをさせていただきます！&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style=&#34;box-sizing: content-box; height: 0px; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;&lt;a href=&#34;https://players1.st/&#34; style=&#34;background: transparent; color: #789dae; overflow-wrap: break-word;&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34; style=&#34;background: transparent; color: inherit !important; overflow-wrap: break-word; text-decoration: none; border-bottom: 1px dotted #eceef1; font-size: 15px; font-weight: inherit !important; font-style: inherit !important; pointer-events: auto !important; cursor: pointer !important;&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34; style=&#34;background: transparent; color: #789dae; overflow-wrap: break-word;&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;登録料・会費などはありません。無料でご利用になれます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>これはやらなきゃ！月額スポンサーだけが見られる🔐限定公開投稿を活用しましょう💪</title>
+        <link>https://blog.players1.st/p/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%84%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%E6%9C%88%E9%A1%8D%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A0%E3%81%91%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E9%99%90%E5%AE%9A%E5%85%AC%E9%96%8B%E6%8A%95%E7%A8%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</link>
+        <pubDate>Mon, 17 Sep 2018 10:05:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%84%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%E6%9C%88%E9%A1%8D%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%A0%E3%81%91%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E9%99%90%E5%AE%9A%E5%85%AC%E9%96%8B%E6%8A%95%E7%A8%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/20180916215742_featured.png" alt="Featured image of post これはやらなきゃ！月額スポンサーだけが見られる🔐限定公開投稿を活用しましょう💪" /&gt;&lt;body&gt;
+&lt;p&gt;こんにちは、Players1st運営チームです。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.players1.st/2018/09/15/goal&#34;&gt;前回&lt;/a&gt;に続いて月額スポンサーを獲得している選手が活用している機能をご紹介します。&lt;/p&gt;
+&lt;p&gt;&lt;iframe class=&#34;embed-card embed-blogcard&#34; style=&#34;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&#34; title=&#34;スポンサーを得ている選手はもうやっている！ 「ゴール」を設定して目標を宣言しましょう！ - Players1st Blog&#34; src=&#34;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.players1.st%2Fentry%2F2018%2F09%2F15%2Fgoal&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;cite class=&#34;hatena-citation&#34;&gt;&lt;a href=&#34;https://blog.players1.st/2018/09/15/goal&#34;&gt;blog.players1.st&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;今回は、&lt;span style=&#34;font-size: 150%;&#34;&gt;&lt;strong&gt;「🔐スポンサー限定公開投稿」&lt;/strong&gt;&lt;/span&gt;です。&lt;/p&gt;
+&lt;p&gt;月額スポンサーの登録をしている方だけが内容を見ることができる投稿です。&lt;/p&gt;
+&lt;p&gt;スポンサーではない方、Players1stに登録していない方には、このように見えます。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180916215742p:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180916/20180916215742.png&#34; alt=&#34;f:id:urabetti:20180916215742p:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;応援している選手がどんなことを書いているのか、気になりますね？&lt;/p&gt;
+&lt;p&gt;そのすぐ下に&lt;strong&gt;「$スポンサーになる」&lt;/strong&gt;ボタンがあるので、ポチっとしたくなりますね。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font-size: 150%;&#34;&gt;&lt;strong&gt;このスポンサー限定公開をしている選手の&lt;br&gt;75%が月額スポンサーを獲得しています。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;限定公開投稿のやり方は簡単です。&lt;/p&gt;
+&lt;p&gt;普段の公開ポストと同じ作成画面で&lt;strong&gt;「スポンサー限定」を選ぶだけです。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180916215759p:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180916/20180916215759.png&#34; alt=&#34;f:id:urabetti:20180916215759p:plain&#34;&gt;&lt;/p&gt;
+&lt;h4&gt;どんなことを書いたらいい？&lt;/h4&gt;
+&lt;p&gt;「そうは言っても、スポンサー向けにどんなことを書いたらいいのか…？」&lt;br&gt;と、悩まれる方もいるでしょう。&lt;/p&gt;
+&lt;p&gt;月々の支援をしているスポンサーにとって有益な情報とは？と考えてしまって、なかなか限定公開投稿ができないということもありますね。&lt;/p&gt;
+&lt;p&gt;そこでスポンサー限定公開にオススメの内容をご紹介します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;今後の詳細な予定&lt;/li&gt;
+&lt;li&gt;ややプライベートな内容&lt;/li&gt;
+&lt;li&gt;オフィシャル公開前の先どり情報&lt;/li&gt;
+&lt;li&gt;ちょっと弱い部分の本音&lt;/li&gt;
+&lt;li&gt;練習や試合についての感想&lt;/li&gt;
+&lt;li&gt;短い動画（遠征先、練習中、オフなど）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;今はツイッターやブログのように誰でも見られる場所に出したことが、&lt;br&gt;想定した読者以外、たとえば他の選手（チーム）やそのサポーターに思わぬ影響が広がることがありますよね。&lt;/p&gt;
+&lt;p&gt;不用意に炎上🔥することは誰も望んでいないはずです。&lt;/p&gt;
+&lt;p&gt;でも、スポンサー限定公開であれば、あなたを継続的に支援したいというコアなサポーターにだけ届きます。&lt;/p&gt;
+&lt;p&gt;ちょっとした悩み、試合後の反省など、ちょっと弱い部分もここでなら見せられる、という投稿は限定公開にしましょう。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180916215752j:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180916/20180916215752.jpg&#34; alt=&#34;f:id:urabetti:20180916215752j:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;そして、応援しているサポーターにとっては、そのような&lt;strong&gt;「サポーターだけに見せてくれる普段の顔」&lt;/strong&gt;の為に、支援をしたくなります。&lt;/p&gt;
+&lt;p&gt; ただ、他の選手やチームを中傷するような投稿は控えましょう。&lt;/p&gt;
+&lt;p&gt;あまりに衝撃的な内容があると、スクリーンショットを回覧されるかもしれません。&lt;/p&gt;
+&lt;p&gt;短い動画やオフショットも効果大ですね🆙&lt;/p&gt;
+&lt;p&gt; 月額スポンサーがいないから、限定公開投稿をしない、という方は、ぜひ月額スポンサーになりたくなるように🔐限定公開投稿を活用してください💪&lt;/p&gt;
+&lt;p&gt;月に５つ投稿するうちの１つを限定公開にしてみることも効果がありますよ！&lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;https://players1.st/posts/new&#34;&gt;Players1stでポストをつくる&lt;/a&gt;&lt;a href=&#34;https://players1.st/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style=&#34;box-sizing: content-box; height: 0px; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;&lt;a href=&#34;https://players1.st/&#34; style=&#34;background: transparent; color: #789dae; word-wrap: break-word;&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34; style=&#34;background: transparent; color: inherit !important; word-wrap: break-word; text-decoration: none; border-bottom: 1px dotted #eceef1; font-size: 15px; font-weight: inherit !important; font-style: inherit !important; pointer-events: auto !important; cursor: pointer !important;&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34; style=&#34;background: transparent; color: #789dae; word-wrap: break-word;&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p style=&#34;margin: 0px 0px 1em; color: #3f3f3f; font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;游ゴシック Medium&#39;, meiryo, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;&#34;&gt;登録料・会費などはありません。無料でご利用になれます。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>スポンサーを得ている選手はもうやっている！ 「ゴール」を設定して目標を宣言しましょう！</title>
+        <link>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%BE%97%E3%81%A6%E3%81%84%E3%82%8B%E9%81%B8%E6%89%8B%E3%81%AF%E3%82%82%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-%E3%82%B4%E3%83%BC%E3%83%AB%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%A6%E7%9B%AE%E6%A8%99%E3%82%92%E5%AE%A3%E8%A8%80%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</link>
+        <pubDate>Sat, 15 Sep 2018 00:54:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E5%BE%97%E3%81%A6%E3%81%84%E3%82%8B%E9%81%B8%E6%89%8B%E3%81%AF%E3%82%82%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-%E3%82%B4%E3%83%BC%E3%83%AB%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%A6%E7%9B%AE%E6%A8%99%E3%82%92%E5%AE%A3%E8%A8%80%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/20180914175109_featured.png" alt="Featured image of post スポンサーを得ている選手はもうやっている！ 「ゴール」を設定して目標を宣言しましょう！" /&gt;&lt;body&gt;
+&lt;p&gt;こんにちは、Players1st運営チームです。&lt;/p&gt;
+&lt;p&gt;先日、Players1stを活用していただいている選手の方々にうかがったところ、&lt;br&gt;&lt;strong&gt;&lt;span style=&#34;font-size: 150%;&#34;&gt;「月額スポンサーを得ている選手がしていること」&lt;/span&gt;&lt;br&gt;&lt;/strong&gt;への関心が高いことがわかりました。&lt;/p&gt;
+&lt;p&gt; そこで月額スポンサーを獲得している選手のデータを分析したところ、&lt;br&gt;&lt;strong&gt;&lt;span style=&#34;font-size: 150%;&#34;&gt;これをしている選手はスポンサーを得ている&lt;/span&gt;&lt;br&gt;&lt;/strong&gt;という２つのポイントがわかりました。&lt;/p&gt;
+&lt;p&gt;その1つ目は&lt;strong&gt;「🏁GOAL（ゴール）」&lt;/strong&gt;です✨&lt;/p&gt;
+&lt;p&gt;Players1stのマイページには、自分がいま最も重要と考えている目標をGOALとして設定することができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GOALを設定している選手の&lt;span style=&#34;font-size: 150%;&#34;&gt;約62.5%&lt;/span&gt;が月額スポンサーを獲得して、サポーターから継続的な支援を受けています。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; GOALは常にプロフィールや投稿に表示されます。&lt;/p&gt;
+&lt;p&gt;（例⇩）&lt;br&gt;&lt;img class=&#34;hatena-fotolife&#34; title=&#34;f:id:urabetti:20180914175109j:plain&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/u/urabetti/20180914/20180914175109.jpg&#34; alt=&#34;f:id:urabetti:20180914175109j:plain&#34;&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;そのため、普段のポストを見たサポーターや、応援したくなる選手を探しているスポーツファンにも、&lt;strong&gt;あなたが何を目標としているのか&lt;/strong&gt;が一目でわかるようになります。&lt;/p&gt;
+&lt;p&gt;たとえばアスリートではなくても、&lt;br&gt;禁煙やダイエットなどに挑戦する時、&lt;br&gt;「いつかタバコをやめたい」&lt;br&gt;「スマートになりたい」&lt;br&gt;とふんわり思っているだけでしたら誰も応援できませんが、&lt;br&gt;「10月31日までに完全禁煙したい」&lt;br&gt;「12月24日までにXkg減量したい」&lt;br&gt;と宣言していたら、周りの人にも本気度が伝わり応援してくれるでしょう。&lt;/p&gt;
+&lt;p&gt;期限を決めた目標＝GOALを公開することで、そこに共感するサポーターからの応援を受けやすくなります。&lt;/p&gt;
+&lt;p&gt;スマートフォンからもすぐに設定できます👌&lt;/p&gt;
+&lt;p&gt;まだ設定していない方は、ぜひご自分の目標を明らかに宣言しましょう✨&lt;/p&gt;
+&lt;p&gt;🔗&lt;a href=&#34;https://players1.st/&#34;&gt;Players1stへ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; 設定方法を詳しく知りたい方は続きをご覧ください。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C1%E9%80%B1%E9%96%93%E3%81%A7133%E5%8F%A3%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E7%8D%B2%E5%BE%97%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%8C%E8%B3%87%E9%87%91%E3%82%92%E5%85%83%E3%81%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5/</link>
+        <pubDate>Fri, 15 Sep 2017 17:20:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C1%E9%80%B1%E9%96%93%E3%81%A7133%E5%8F%A3%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E7%8D%B2%E5%BE%97%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%A7%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB%E7%8D%B2%E5%BE%97%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%8C%E8%B3%87%E9%87%91%E3%82%92%E5%85%83%E3%81%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%92%E8%B3%BC%E5%85%A5/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が1週間で133口のスポンサーを獲得。東京オリンピックで金メダル獲得を目指す選手が資金を元にトレーニングシューズを購入" /&gt;&lt;body&gt;
+&lt;p&gt;2017年9月15日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; : 深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、リオオリンピック出場ボート競技の中野紘志選手のスポンサーを1週間で133口獲得したことを発表いたします。&lt;/p&gt;
+&lt;h2&gt;1週間で133口スポンサー獲得&lt;/h2&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;758&#34; data-orig-width=&#34;539&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/da20ae93e3e24dbfffc4056e9e612e0a/tumblr_inline_owbb6eYsN11qzhrk3_540.png&#34; class=&#34;&#34; data-orig-height=&#34;758&#34; data-orig-width=&#34;539&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110038.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;中野選手がスポンサー募集を開始後、Players1stが&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;と&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;にてプロモーションを行い1万人以上が閲覧しました。&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;経由でスポンサー申込がされ短期間でのスポンサー獲得につながりました。スポンサーの特徴として、複数口や年間一括の銀行振込の割合が多かったことがあげられます。一口月額500円と少額に設定したことで、払いやすく広まりやすかったと考えています。&lt;/p&gt;
+&lt;p&gt;「少額スポンサー x インターネットで広く多く」の組み合わせは、インターネットの力でスポーツを支えることができる好例となりました。&lt;/p&gt;
+&lt;h2&gt;選手がトレーニングシューズを購入&lt;/h2&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;679&#34; data-orig-width=&#34;477&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111121.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/f703ecd039c13765a919deffa2f7ef78/tumblr_inline_owbb6fFL7b1qzhrk3_540.png&#34; class=&#34;&#34; data-orig-height=&#34;679&#34; data-orig-width=&#34;477&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111121.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;中野選手は資金を元にトレーニングシューズを購入したことをPlayers1st内で報告しています。選手へ直接支援金を渡せる課金窓口を提供することで、素早く日々のトレーニングの質を向上させることができるようになりました。&lt;/p&gt;
+&lt;h2&gt;今後について&lt;/h2&gt;
+&lt;p&gt;今回の事例より、さらなるスポンサー募集に向けた効果的なプロモーションやシステム改善に努めていきます。また、オリンピック・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;、ワールド&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AB%A5%C3%A5%D7&#34;&gt;カップ&lt;/a&gt;など世界で戦うアスリートを支えるスポーツインターネットサービスとして、アスリートの新規登録を進めていく予定です。&lt;/p&gt;
+&lt;h2&gt;中野紘志選手について&lt;/h2&gt;
+&lt;p&gt;2016年リオオリンピックにて、ボート競技で男子日本代表として出場。2017年5月に開催された第39回全日本軽量級選手権の軽量級男子&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B7%A5%F3%A5%B0%A5%EB%A5%B9%A5%AB%A5%EB&#34;&gt;シングルスカル&lt;/a&gt;にて優勝し国内を代表するボート競技のトップアスリートです。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;中野選手は&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;で金メダルを目指しています。金メダル獲得に向けてより多くの人の期待を力にしたいとの思いがあり、Players1stではスポンサー募集、PR・ファン獲得などを行い中野選手をサポートしています。&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。&lt;/p&gt;
+&lt;p&gt;アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;国内第一人者の選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。&lt;/p&gt;
+&lt;h2&gt;会社概要&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト&lt;br&gt;
+所在地         東京都世田谷区北烏山1-9-18
+&lt;br&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信&lt;br&gt;
+設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st
+&lt;/a&gt;&lt;br&gt;サービスURL &lt;a href=&#34;https://players1.st/&#34;&gt;https://players1.st/
+&lt;/a&gt;&lt;br&gt;事業内容      アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;h2&gt;プレスキット&lt;/h2&gt;
+&lt;p&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/0B_VrJS-a3nLpb2dBZUNBWmcxUVU?usp=sharing&#34;&gt;https://drive.google.com/drive/folders/0B_VrJS-a3nLpb2dBZUNBWmcxUVU?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+担当 : 押田&lt;br&gt;
+Mail : press@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

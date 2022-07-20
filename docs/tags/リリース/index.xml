@@ -1,95 +1,382 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>リリース on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
-    <description>Recent content in リリース on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Mon, 18 Jun 2018 11:46:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>スポンサー限定ポストにアイコンが付いてわかりやすくなりました🔒</title>
-      <link>https://blog.players1.st/2018/06/18/114610/</link>
-      <pubDate>Mon, 18 Jun 2018 11:46:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/06/18/114610/</guid>
-      <description>スポンサー限定ポスト スポンサー限定ポストはリリース直後から活用いただき、選手のみなさんがスポンサー限定ポストをして実際にスポンサーが増えた事例が生まれました。 選手のみなさんにとってスポンサーを増やすための大きなメリットになったと思っています。</description>
-    </item>
-    
-    <item>
-      <title>スポンサー限定ポストができるようになりました</title>
-      <link>https://blog.players1.st/2018/05/17/093047/</link>
-      <pubDate>Thu, 17 May 2018 09:30:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/05/17/093047/</guid>
-      <description>アスリートを支える機能をまた1つリリースしました！スポンサー限定ポスト機能です。
-
-使い方は簡単 作り方</description>
-    </item>
-    
-    <item>
-      <title>Amazonギフト券で支援金が受け取れるようになりました</title>
-      <link>https://blog.players1.st/2018/02/15/170038/</link>
-      <pubDate>Thu, 15 Feb 2018 17:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/15/170038/</guid>
-      <description>アスリートのみなさんにお知らせです📰
-
- Amazonギフト券で受け取れます Players1stに入金された支援金の受取方法を現金振込に加え、Amazonギフト券を増やしました🎁</description>
-    </item>
-    
-    <item>
-      <title> 選手プロフィールがWebサイトやブログに貼り付けられるようになりました</title>
-      <link>https://blog.players1.st/2018/02/14/150028/</link>
-      <pubDate>Wed, 14 Feb 2018 15:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/14/150028/</guid>
-      <description>新機能 HTML貼り付け 新機能をリリースしました！選手プロフィールのHTML貼り付け機能です。</description>
-    </item>
-    
-    <item>
-      <title> アスリートとスポンサーがコミュニケーションできるメッセージ機能をリリースしました</title>
-      <link>https://blog.players1.st/2017/09/07/180022/</link>
-      <pubDate>Thu, 07 Sep 2017 18:00:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/09/07/180022/</guid>
-      <description>また一つアスリートの要望を実現しました！メッセージ機能です！ これでアスリートとスポンサーユーザーとのコミュニケーションが取れるようになりました。
-具体的な使い方は、[マニュアル]メッセージの送り方をご覧ください。</description>
-    </item>
-    
-    <item>
-      <title>Facebookアカウントで登録・ログインできるようになりました</title>
-      <link>https://blog.players1.st/2017/07/19/111248/</link>
-      <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/07/19/111248/</guid>
-      <description>アカウント作成でメールアドレス、パスワード、プロフィール文などを入力するのは手間ですよね。
-Players1stでは、プロフィールに様々な入力項目がありますが、なかなか全てを埋めていただけるのは難しいようです😅</description>
-    </item>
-    
-    <item>
-      <title>プレスリリース - 「Players1st」においてスポンサー募集機能をリリース 〜2週間で数万円獲得した選手も〜</title>
-      <link>https://blog.players1.st/2017/02/06/120141/</link>
-      <pubDate>Mon, 06 Feb 2017 12:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/02/06/120141/</guid>
-      <description>2017年2月6日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-    <item>
-      <title>現役スポーツ選手のためのPR課金サイト「Players1st (プレイヤーズファースト) オープン</title>
-      <link>https://blog.players1.st/2016/08/09/100145/</link>
-      <pubDate>Tue, 09 Aug 2016 10:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/08/09/100145/</guid>
-      <description>【PRESS　RELEASE】
-2016年8月9日</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>リリース on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
+        <description>Recent content in リリース on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Mon, 18 Jun 2018 11:46:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>スポンサー限定ポストにアイコンが付いてわかりやすくなりました🔒</title>
+        <link>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%99%90%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%81%AB%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%8C%E4%BB%98%E3%81%84%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Mon, 18 Jun 2018 11:46:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%99%90%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%81%AB%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%8C%E4%BB%98%E3%81%84%E3%81%A6%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110710.png" alt="Featured image of post スポンサー限定ポストにアイコンが付いてわかりやすくなりました🔒" /&gt;&lt;body&gt;
+&lt;h2&gt;スポンサー限定ポスト&lt;/h2&gt;
+&lt;p&gt;スポンサー限定ポストはリリース直後から活用いただき、選手のみなさんがスポンサー限定ポストをして実際にスポンサーが増えた事例が生まれました。 &lt;/p&gt;
+&lt;p&gt;選手のみなさんにとってスポンサーを増やすための大きなメリットになったと思っています。&lt;/p&gt;
+&lt;p&gt;こんなユーザーの方に喜ばれる機能を開発リリースできた時は本当に嬉しいものです😊&lt;/p&gt;
+&lt;h2&gt;もっとわかりやすく改善&lt;/h2&gt;
+&lt;p&gt;さて、このスポンサー限定ポストは、投稿した選手やスポンサーの皆さんには表示されているポストがスポンサー限定なのか分かりづらかったかと思います。&lt;/p&gt;
+&lt;p&gt;そこで改善リリースしました。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;302&#34; data-orig-width=&#34;581&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110710.png&#34; data-orig-height=&#34;302&#34; data-orig-width=&#34;581&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;タイトルの先頭に鍵アイコンが表示されるようになっています。&lt;/p&gt;
+&lt;p&gt;アイコンをタップすると、、「スポンサー限定ポスト」と表示されます。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;542&#34; data-orig-width=&#34;779&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111059.png&#34; data-orig-height=&#34;542&#34; data-orig-width=&#34;779&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;この鍵アイコンが付いているポストはスポンサー限定ポストとなりますので、だいぶわかりやすくなったかと思います。&lt;/p&gt;
+&lt;h2&gt;フィードバック募集中&lt;/h2&gt;
+&lt;p&gt;この改善は登録選手の方からの要望を反映しました。&lt;/p&gt;
+&lt;p&gt;みなさんも、ちょっと気になる点でもよいので、&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;お問い合わせ・ご要望フォーム&lt;/a&gt;にお寄せいただければです。&lt;/p&gt;
+&lt;p&gt;みなさんとより良いサービスを作っていければと思っています😄&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;小さなことですが、日々改善とアスリートとファンとをつなぐ支援プラットフォームになれるよう、日々開発を続けています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;登録料・会費などはありません。無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>スポンサー限定ポストができるようになりました</title>
+        <link>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%99%90%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Thu, 17 May 2018 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E9%99%90%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110535.png" alt="Featured image of post スポンサー限定ポストができるようになりました" /&gt;&lt;body&gt;
+&lt;p&gt;アスリートを支える機能をまた1つリリースしました！スポンサー限定ポスト機能です。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;192&#34; data-orig-height=&#34;192&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110535.png&#34; data-orig-width=&#34;192&#34; data-orig-height=&#34;192&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;使い方は簡単&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;作り方&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;ポスト作成画面に公開範囲を選択する項目が追加されています。
+「全員」もしくは「スポンサー限定」が選べます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;375&#34; data-orig-height=&#34;100&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110544.png&#34; data-orig-width=&#34;375&#34; data-orig-height=&#34;100&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;スポンサー限定ポストにしたい時は「スポンサー限定」を選択してください。&lt;/p&gt;
+&lt;p&gt;操作はこれだけです。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;見え方&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;スポンサーになっていない方からはこんなふうに見えます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;517&#34; data-orig-height=&#34;329&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110157.png&#34; data-orig-width=&#34;517&#34; data-orig-height=&#34;329&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;タイトルのみ表示され、内容は隠されています。&lt;/p&gt;
+&lt;p&gt;スポンサーになっている方は内容が表示され読めるようになります。&lt;/p&gt;
+&lt;p&gt;アスリートがスポンサー募集を複数作成している場合、どれか1つでも申し込みをされていれば、スポンサー限定ポストは見れます。&lt;/p&gt;
+&lt;h2&gt;こんな使い方ができます&lt;/h2&gt;
+&lt;p&gt;スポンサー限定ポストは、スポンサー特典を増やしてスポンサーの方々との継続性を高めるだけでなく、「限定ポスト見てみたい！」と思う新たなスポンサーを増やすための機能になります。&lt;/p&gt;
+&lt;p&gt;スポンサーにだけに特別な情報を届けることができます🔏&lt;/p&gt;
+&lt;p&gt;ポストは画像や動画もアップできますので、ちょっとプライベートなものや少しマニアックな内容もファンには喜ばれるのではないでしょうか。&lt;/p&gt;
+&lt;p&gt;例えば、オフショットの写真、普段見せないトレーニング方法、短い動画メッセージ、試合のレビュー・分析などなど。&lt;/p&gt;
+&lt;p&gt;限定コンテンツを用意するのが難しいというアスリートは、普段行っていて公開していないものを出すだけでもファンにとっては貴重なコンテンツになりますので、まずは1つスポンサー限定ポストを作成してみましょう！&lt;/p&gt;
+&lt;p&gt;スポンサー募集の特典の1つとして是非活用ください！&lt;/p&gt;
+&lt;h2&gt;フィードバック募集中&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;Players1st&lt;/a&gt;はこれからもよりアスリートが支援を受けやすくなるような機能を提供していきます。&lt;/p&gt;
+&lt;p&gt;「こんな機能欲しい」「こんな使い方できないの？」などありましたら是非、&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;お問い合せ・ご要望フォーム&lt;/a&gt;にお寄せください。&lt;/p&gt;
+&lt;p&gt;ユーザーの皆さんと一緒にサービスを良くして成長していければと思っています😊&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;登録料・会費などはありません。無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>Amazonギフト券で支援金が受け取れるようになりました</title>
+        <link>https://blog.players1.st/p/amazon%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8%E3%81%A7%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%8C%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Thu, 15 Feb 2018 17:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/amazon%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8%E3%81%A7%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%8C%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110436.png" alt="Featured image of post Amazonギフト券で支援金が受け取れるようになりました" /&gt;&lt;body&gt;
+&lt;p&gt;アスリートのみなさんにお知らせです📰&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;506&#34; data-orig-height=&#34;280&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110436.png&#34; alt=&#34;image&#34; data-orig-width=&#34;506&#34; data-orig-height=&#34;280&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Amazon%A5%AE%A5%D5%A5%C8%B7%F4&#34;&gt;Amazonギフト券&lt;/a&gt;で受け取れます&lt;/h2&gt;
+&lt;p&gt;Players1stに入金された支援金の受取方法を現金振込に加え、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Amazon%A5%AE%A5%D5%A5%C8%B7%F4&#34;&gt;Amazonギフト券&lt;/a&gt;を増やしました🎁&lt;/p&gt;
+&lt;p&gt;チームや企業に所属しているアスリートによっては、現金を直接受け取ることが難しい状況がありました。
+そこで、受け取りやすいように&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Amazon%A5%AE%A5%D5%A5%C8%B7%F4&#34;&gt;Amazonギフト券&lt;/a&gt;を設けました。&lt;/p&gt;
+&lt;p&gt;申請方法は簡単です。&lt;/p&gt;
+&lt;p&gt;取引履歴のページにて、今までの「現金振込で受け取る」に加え「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Amazon%A5%AE%A5%D5%A5%C8%B7%F4&#34;&gt;Amazonギフト券&lt;/a&gt;で受け取る」ボタンが追加されています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;280&#34; data-orig-height=&#34;122&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110424.png&#34; alt=&#34;image&#34; data-orig-width=&#34;280&#34; data-orig-height=&#34;122&#34;&gt;&lt;/figure&gt;&lt;p&gt;こちらを押せば&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Amazon%A5%AE%A5%D5%A5%C8%B7%F4&#34;&gt;Amazonギフト券&lt;/a&gt;を実施予定日に登録メールアドレス宛にお贈りします。&lt;/p&gt;
+&lt;h2&gt;どんな立場のアスリートにも広く集め届ける&lt;/h2&gt;
+&lt;p&gt;Players1stは、インターネットの力でスポーツを支えることを目的としています。&lt;/p&gt;
+&lt;p&gt;世界と戦うアスリートをもっと強くしたい。アスリートの現状は厳しく縛りも多い環境です。
+もっと柔軟に広く募った支援・応援のカタチをすべてのアスリートに届けたい。&lt;/p&gt;
+&lt;p&gt;そんな気持ちから今回の追加機能に結びついています。
+今回の追加機能はそんな気持ちをカタチにした1つです。&lt;/p&gt;
+&lt;h2&gt;より良くするために開発中
+&lt;/h2&gt;
+&lt;p&gt;Players1stでは、このようにアスリートにとってより支援・応援を集めるための機能を日々開発しています。 もしこうしてほしいなどの要望があれば是非教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/R/ti/p/%40fuq1261v&#34;&gt;Players1stのLINEアカウント&lt;/a&gt;もしくは&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;問い合わせフォーム&lt;/a&gt;どちらでも受付けています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ🔗こちらからご登録ください。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> 選手プロフィールがWebサイトやブログに貼り付けられるようになりました</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%8Cweb%E3%82%B5%E3%82%A4%E3%83%88%E3%82%84%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Wed, 14 Feb 2018 15:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%8Cweb%E3%82%B5%E3%82%A4%E3%83%88%E3%82%84%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E8%B2%BC%E3%82%8A%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110855.png" alt="Featured image of post  選手プロフィールがWebサイトやブログに貼り付けられるようになりました" /&gt;&lt;body&gt;
+&lt;h2&gt;新機能 HTML貼り付け&lt;/h2&gt;
+&lt;p&gt;新機能をリリースしました！選手プロフィールのHTML貼り付け機能です。&lt;/p&gt;
+&lt;iframe
+src=&#39;https://players1.st/owakuakihiko/widget&#39;
+width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;このような&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A6%A5%A3%A5%B8%A5%A7%A5%C3%A5%C8&#34;&gt;ウィジェット&lt;/a&gt;があなたのブログやWebサイトで表示できます。&lt;/p&gt;
+&lt;p&gt;このウェジットには選手プロフィールページやコ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;・スポンサー募集ページへのリンクがありますので、ブログやWebサイトからPlayers1stの課金メニューに誘導しやすくなります。&lt;/p&gt;
+&lt;p&gt;あなたのブログやWebサイトはもちろん、支援いただいているファンや企業のブログ・Webサイトにも表示可能です。&lt;/p&gt;
+&lt;p&gt;今まで選手の課金メニューはURLを直接お知らせする必要がありましたが、これであらゆる場所からPlayers1stの課金メニューに繋げられることができます。&lt;/p&gt;
+&lt;p&gt;是非、あなたやファンのブログやWebサイトに貼り付けてみてください！&lt;/p&gt;
+&lt;h2&gt;やり方&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EA%A5%AA%B8%DE%CE%D8&#34;&gt;リオ五輪&lt;/a&gt;出場、ボートの&lt;a href=&#34;https://players1.st/pirotirorin&#34;&gt;中野紘志選手&lt;/a&gt;を例に手順を見ていきましょう。&lt;/p&gt;
+&lt;h2&gt;1. プロフィールページにアクセス&lt;/h2&gt;
+&lt;p&gt;選手プロフィールページを開きます。
+中野選手の場合 &lt;a href=&#34;https://players1.st/pirotirorin&#34;&gt;https://players1.st/pirotirorin&lt;/a&gt; になります。&lt;/p&gt;
+&lt;h2&gt;2. 埋め込みボタンを押す&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;ボタンが並んでいる端に新しく「埋め込み」ボタンが追加されています。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;163&#34; data-orig-height=&#34;51&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110403.png&#34; alt=&#34;image&#34; data-orig-width=&#34;163&#34; data-orig-height=&#34;51&#34;&gt;&lt;/figure&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;これを押します。&lt;/p&gt;
+&lt;h2&gt;3. HTMLコードをコピー&lt;/h2&gt;
+&lt;p&gt;すると、埋め込みコード用の画面が表示されます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;593&#34; data-orig-height=&#34;569&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110855.png&#34; alt=&#34;image&#34; data-orig-width=&#34;593&#34; data-orig-height=&#34;569&#34;&gt;&lt;/figure&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;pre&gt; &amp;lt;iframe
+src=&#39;https://players1.st/pirotirorin/widget&#39;
+width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;widget&#34;&amp;gt;
+&amp;lt;/iframe&amp;gt;
+&lt;p&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;このようなコードが表示されています。&lt;/p&gt;
+&lt;p&gt;HTMLコードをクリックするとコード全体が選択されますのでコピーします。&lt;/p&gt;
+&lt;h2&gt;4. ブログなどに貼り付ける&lt;/h2&gt;
+&lt;p&gt;表示させたいブログやWebサイトの編集画面にてコピーしたHTMLを貼り付けましょう。&lt;/p&gt;
+&lt;p&gt;ブログでよく使われている&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/WordPress&#34;&gt;WordPress&lt;/a&gt;では、「投稿の新規追加」もしくは「固定ページの新規追加」にて、HTMLエディタの入力画面にて貼り付けます。&lt;/p&gt;
+&lt;p&gt;参考URL : &lt;a href=&#34;http://wpdocs.osdn.jp/%E8%A8%98%E4%BA%8B%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B#Visual_Versus_HTML_Editor&#34;&gt;WordPress Codex日本語版 ビジュアルエディタ vs HTML エディタ&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;5. 確認してみる&lt;/h2&gt;
+&lt;p&gt;貼り付けをした後、保存したらブログ・Webサイトにアクセスして表示されているか確認してみましょう。&lt;/p&gt;
+&lt;iframe src=&#34;https://players1.st/pirotirorin/widget&#34; width=&#34;245&#34; height=&#34;365&#34; frameborder=&#34;0&#34;&gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+&lt;/iframe&gt;
+&lt;p&gt;このような表示がされてればOKです👍&lt;/p&gt;
+&lt;p&gt;これであなたのブログ・WebサイトからPlayers1stの課金メニューに誘導しやすくなります。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;より便利な機能を開発中&lt;/h2&gt;
+&lt;p&gt;Players1stでは、このようにアスリートにとってより支援・応援を集めるための機能を日々開発しています。 &lt;/p&gt;
+&lt;p&gt;もしこうしてほしいなどの要望があれば是非教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/R/ti/p/%40fuq1261v&#34;&gt;Players1stのLINEアカウント&lt;/a&gt;もしくは&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;問い合わせフォーム&lt;/a&gt;どちらでも受付けています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ🔗こちらからご登録ください。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートとスポンサーがコミュニケーションできるメッセージ機能をリリースしました</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%A8%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%8C%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Thu, 07 Sep 2017 18:00:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%A8%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%8C%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110851.png" alt="Featured image of post  アスリートとスポンサーがコミュニケーションできるメッセージ機能をリリースしました" /&gt;&lt;body&gt;
+&lt;p&gt;また一つアスリートの要望を実現しました！メッセージ機能です！
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110851.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;これでアスリートとスポンサーユーザーとのコミュニケーションが取れるようになりました。&lt;/p&gt;
+&lt;p&gt;具体的な使い方は、&lt;a href=&#34;http://blog.players1.st/post/165061351125/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E9%80%81%E3%82%8A%E6%96%B9&#34;&gt;[マニュアル]メッセージの送り方&lt;/a&gt;をご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.players1.st/post/165061351125/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E9%80%81%E3%82%8A%E6%96%B9&#34;&gt;[マニュアル]メッセージの送り方&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;アスリートとスポンサーをつなぐ&lt;/h2&gt;
+&lt;p&gt;メッセージ機能が使えるのは、アスリートとスポンサーユーザー(アスリートの作ったスポンサー募集に申込、支払された方)の間のみになります。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/SNS&#34;&gt;SNS&lt;/a&gt;のような誰とでもやり取りできる環境とは異なり、アスリートの活動を支えてくれるスポンサーユーザーに対しては特別なコミュニケーションになります。&lt;/p&gt;
+&lt;p&gt;そのコミュニケーションを&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;上でできます。&lt;/p&gt;
+&lt;p&gt;受け取るスポンサーユーザーにとっては嬉しいでしょう。アスリートもなかなか普段会うことが難しいスポンサーに対してお礼や感謝を伝えやすくなります。&lt;/p&gt;
+&lt;p&gt;もちろんこのやり取りは外部からは見えません。&lt;/p&gt;
+&lt;h2&gt;こんな使い方ができます&lt;/h2&gt;
+&lt;p&gt;例えば、大会で獲得したメダルを伺ってお見せしたい！と思った時に、直接スポンサーユーザーへ連絡が取れる様になります。&lt;/p&gt;
+&lt;p&gt;これで、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DA%A5%B7%A5%E3&#34;&gt;スペシャ&lt;/a&gt;ルなグッズを郵送するようなスポンサー特典を設けることができたり、シーズン開始の決意表明・支援依頼や終了時の報告・お礼を送ることができるようになります。&lt;/p&gt;
+&lt;h2&gt;今後も便利な機能を開発中&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;では、このようにアスリートやサポーターにとって使いやすい機能を日々開発しています。 もし、わからないことがあったり、もっとこうしてほしいなどの要望があれば是非教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/R/ti/p/%40fuq1261v&#34;&gt;Players1stのLINEアカウント&lt;/a&gt;もしくは&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;問い合わせフォーム&lt;/a&gt;どちらでも受付けています。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>Facebookアカウントで登録・ログインできるようになりました</title>
+        <link>https://blog.players1.st/p/facebook%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E7%99%BB%E9%8C%B2%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/facebook%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E7%99%BB%E9%8C%B2%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111108.png" alt="Featured image of post Facebookアカウントで登録・ログインできるようになりました" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;144&#34; data-orig-height=&#34;144&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111108.png&#34; data-orig-width=&#34;144&#34; data-orig-height=&#34;144&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;アカウント作成でメールアドレス、パスワード、プロフィール文などを入力するのは手間ですよね。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;では、プロフィールに様々な入力項目がありますが、なかなか全てを埋めていただけるのは難しいようです😅&lt;/p&gt;
+&lt;p&gt;選手にとってはサポーターから見つけやすくしてくれるための大事な項目でもあるので、是非とも入力していただきたいところ。&lt;/p&gt;
+&lt;p&gt;そこで、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントから簡単にアカウント登録できるようにしました‼️
+自動的に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;に登録されているプロフィール情報から&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;で利用する情報を取得し保存します。&lt;/p&gt;
+&lt;p&gt;数クリックで終わるので本当に簡単です。さっそく&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントでの登録方法を見てみましょう。&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで選手登録する方法&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;代表の&lt;a href=&#34;https://www.facebook.com/fukami&#34;&gt;深海のFacebookアカウント&lt;/a&gt;を使って行ってみます。&lt;/p&gt;
+&lt;p&gt;選手が登録する方法を書いていますが、選手を支えるサポーターの立場の方も&lt;a href=&#34;https://players1.st/users/sign_up_confirm?from=blog&#34;&gt;サポーター登録&lt;/a&gt;画面から同じように&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで登録が行えます。&lt;/p&gt;
+&lt;p&gt;登録を考えてる方も一緒に手順通り進めば必ずできますので、これを機に是非登録してみましょう。&lt;/p&gt;
+&lt;h2&gt;Players1stトップページからスタート&lt;/h2&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/&#34;&gt;トップページ&lt;/a&gt;から&lt;a href=&#34;https://players1.st/users/sign_up_confirm?from=blog&amp;amp;token=U9uHncad&#34;&gt;選手登録ボタン&lt;/a&gt;を押します。&lt;/p&gt;
+&lt;p&gt;すると、「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで登録する」というボタンがあります。これをクリックします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;326&#34; data-orig-height=&#34;128&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110758.png&#34; data-orig-width=&#34;326&#34; data-orig-height=&#34;128&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;に移動&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;のWebページが表示され、&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;が各データを受け取っていいかどうか同意を求めれますので、ログインボタンを押します。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;616&#34; data-orig-height=&#34;551&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110900.png&#34; data-orig-width=&#34;616&#34; data-orig-height=&#34;551&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;次に、&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;が&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;のタイムラインに書き込む際の公開範囲を設定します。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;541&#34; data-orig-height=&#34;461&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110428.png&#34; data-orig-width=&#34;541&#34; data-orig-height=&#34;461&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;デフォルトでは「友達」が選択されている状態かと思います。
+実際に&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;が勝手に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;のタイムラインに書き込むことはありませんのでご安心ください。&lt;/p&gt;
+&lt;p&gt;不安な方は「自分のみ」を選択されることをおすすめします。&lt;/p&gt;
+&lt;p&gt;選択したらOKを押します。&lt;/p&gt;
+&lt;h2&gt;Players1stで追加情報を入力して完了&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;の画面に戻り情報変更画面が表示されます。そこにはすでに、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%D5%A5%A3%A1%BC%A5%EB%B2%E8%C1%FC&#34;&gt;プロフィール画像&lt;/a&gt;、プロフィール、活動拠点、出身地、出身校などの情報が入力されています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;904&#34; data-orig-height=&#34;1101&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110244.png&#34; data-orig-width=&#34;904&#34; data-orig-height=&#34;1101&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;918&#34; data-orig-height=&#34;870&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110749.png&#34; data-orig-width=&#34;918&#34; data-orig-height=&#34;870&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のみなさんは、「競技カテゴリー」「所属チーム」など大事な情報を入力しましょう。
+「身長」「体重」「血液型」も入力できるといいですね👍&lt;/p&gt;
+&lt;p&gt;最後に一番下の「Update」ボタンを押せば登録完了です🎊&lt;/p&gt;
+&lt;figure data-orig-width=&#34;118&#34; data-orig-height=&#34;67&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110326.png&#34; data-orig-width=&#34;118&#34; data-orig-height=&#34;67&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;いかがでしょう？&lt;/p&gt;
+&lt;p&gt;入力の手間がなくせてとても簡単でしたね😁&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントでログインする方法&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで作成した場合は、ログインも&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで行います。&lt;/p&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/users/sign_in&#34;&gt;ログイン画面&lt;/a&gt;にアクセスすると、「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントでログイン」というボタンがあります。これをクリックします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;384&#34; data-orig-height=&#34;167&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111313.png&#34; data-orig-width=&#34;384&#34; data-orig-height=&#34;167&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;すると、「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントによる認証に成功しました。」というメッセージが表示されて、ログインできます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;386&#34; data-orig-height=&#34;286&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110218.png&#34; data-orig-width=&#34;386&#34; data-orig-height=&#34;286&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;ワンクリックでログイン。本当に簡単です😆&lt;/p&gt;
+&lt;h2&gt;今後も便利な機能を開発中&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;では、このように選手やサポーターにとって使いやすい機能を日々開発しています。
+もし、わからないことがあったり、もっとこうしてほしいなどの要望があれば是非教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/R/ti/p/%40fuq1261v&#34;&gt;Players1stのLINEアカウント&lt;/a&gt;もしくは&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;問い合わせフォーム&lt;/a&gt;どちらからでも受付けています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するため、選手とサポーターを継続的につなげる課金PRサイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートやスポーツファンの方は、ぜひ🔗こちらからご登録ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up?from=layout-drawer&amp;amp;amp;amp;token=U9uHncad?from=blog&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up?from=blog&#34;&gt;サポーター登録&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 選手への支援への支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>プレスリリース - 「Players1st」においてスポンサー募集機能をリリース 〜2週間で数万円獲得した選手も〜</title>
+        <link>https://blog.players1.st/p/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-players1st%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-2%E9%80%B1%E9%96%93%E3%81%A7%E6%95%B0%E4%B8%87%E5%86%86%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%9F%E9%81%B8%E6%89%8B%E3%82%82/</link>
+        <pubDate>Mon, 06 Feb 2017 12:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-players1st%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-2%E9%80%B1%E9%96%93%E3%81%A7%E6%95%B0%E4%B8%87%E5%86%86%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%9F%E9%81%B8%E6%89%8B%E3%82%82/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110923.jpg" alt="Featured image of post プレスリリース - 「Players1st」においてスポンサー募集機能をリリース 〜2週間で数万円獲得した選手も〜" /&gt;&lt;body&gt;
+&lt;p&gt;2017年2月6日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;a href=&#34;https://players1.st&#34;&gt;&lt;br&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;「Players1st」においてスポンサー募集機能をリリース&lt;/h2&gt;
+&lt;p&gt;〜 2週間で数万円獲得した選手も 〜&lt;/p&gt;
+&lt;p&gt;「 現役スポーツ選手を見つける、つながる、支える。 」をミッションに掲げる株式会社プレイヤーズファースト (本社: 東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 : 深海 寛信、以下プレイヤーズファースト) は、「Players1st (プレイヤーズファースト)」(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)においてスポンサー募集機能をリリースしました。&lt;/p&gt;
+&lt;h2&gt;スポンサー募集機能について&lt;/h2&gt;
+&lt;p&gt;Players1stのスポンサー募集機能は、選手がインターネット上で広くスポンサーを募り、継続的にスポンサードを受けられる仕組みです。&lt;/p&gt;
+&lt;p&gt;クレジットカード決済による月額課金、口数制・1シーズン制となっており、選手活動を継続的に支えるためのスポンサー制度にしています。&lt;/p&gt;
+&lt;p&gt;選手はPlayers1stにログイン後、スポンサー募集作成画面からタイトル・金額・特典内容を入力するだけですぐに募集を開始することができます。スポンサー応募は、クレジットカード決済にていつでもどこからでもスポンサーになることができます。今後、銀行振込による支払方法を追加予定です。なお、選手のスポンサー募集作成、スポンサー応募にはPlayers1stの無料のユーザー登録が必要です。&lt;/p&gt;
+&lt;p&gt;スポンサーの支払金額は、Players1stにて15%の手数料を差し引いた残りの85％の金額を選手へ支払います。手数料にはクレジットカード決済手数料、システム運用費、選手の口座への振込手数料などを含みます。&lt;/p&gt;
+&lt;h2&gt;実績&lt;/h2&gt;
+&lt;p&gt;スポンサー募集機能リリース後、選手が作成したスポンサー募集ページをPlayers1stの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;ページにて紹介したところ、3日間で6,600名ほどリーチしました。また、この注目されたスポンサー募集は、2週間で数万円を獲得しました。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;Players1stの登録選手からスポンサー募集ができるようにしてほしいとの要望をいただきました。選手からすると、スポンサー候補への呼びかけ、決済方法の確立、支払管理などをひとりで行うことは困難で、スポンサー募集をしたいけれどもできない、という課題があることが分かりました。&lt;/p&gt;
+&lt;p&gt;一方、支えるスポンサー候補からは特定の選手に支援金を払いたいが、課金の窓口がない。などの課題がありました。&lt;/p&gt;
+&lt;p&gt;双方の課題を解決するためにPlayers1stでスポンサー募集機能を開発し、課金窓口として利用いただけるようにしました。&lt;/p&gt;
+&lt;h2&gt;参考情報&lt;/h2&gt;
+&lt;p&gt;Players1stスポンサー募集一覧 : &lt;a href=&#34;https://players1.st/proposals&#34;&gt;https://players1.st/proposals&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;具体的なスポンサー募集作成方法はPlayers1stブログにて紹介しています。&lt;/p&gt;
+&lt;p&gt;選手向けマニュアル-スポンサー募集 : &lt;a href=&#34;http://blog.players1.st/post/154663602429/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86&#34;&gt;http://blog.players1.st/post/154663602429/選手マニュアル-スポンサー募集&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;現在、国内フットサル最高峰リーグ &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;のトップチーム選手や国内最多優勝回数の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;クラブの選手、国内海外の試合に参戦している選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手が利用しています。&lt;/p&gt;
+&lt;p&gt;なりすまし防止のための本人確認、活動実績、参戦している試合・リーグのレベルなどをチェックした後、選手として登録しています。&lt;/p&gt;
+&lt;p&gt;Players1st選手一覧ページ : &lt;a href=&#34;https://players1.st/players&#34;&gt;https://players1.st/players&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Players1st について&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、経済的課題を抱える現役スポーツ選手のための課金できるPRサイトです。(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;スポーツ選手は課金可能なPR・活動報告サイトを持てます。サポーターとの結び付きが強く保てるので、継続的な支援を得やすく、選手活動に集中しやすくなります。サポーターはお気に入りの選手を見つけ、支援することができます。&lt;/p&gt;
+&lt;p&gt;選手・サポーターともに登録は無料。選手の作成する課金アイテムへの支払い以外は全て無料で利用できます。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110923.jpg&#34; data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;株式会社プレイヤーズファースト 会社概要&lt;/h2&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;512&#34; data-orig-height=&#34;392&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111130.png&#34; data-orig-width=&#34;512&#34; data-orig-height=&#34;392&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;商号 : 株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;代表者 : &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 深海 寛信&lt;/li&gt;
+&lt;li&gt;所在地 : 〒157-0061 東京都世田谷区北烏山1-9-18&lt;/li&gt;
+&lt;li&gt;設立年月日 : 2016年3月23日&lt;/li&gt;
+&lt;li&gt;主な事業内容 : 「Players1st」の開発・運営&lt;/li&gt;
+&lt;li&gt;URL : &lt;a href=&#34;http://company.players1.st/&#34;&gt;http://company.players1.st/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;担当 : 押田&lt;/li&gt;
+&lt;li&gt;Mail : contact@players1.st&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>現役スポーツ選手のためのPR課金サイト「Players1st (プレイヤーズファースト) オープン</title>
+        <link>https://blog.players1.st/p/%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEpr%E8%AA%B2%E9%87%91%E3%82%B5%E3%82%A4%E3%83%88players1st-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/</link>
+        <pubDate>Tue, 09 Aug 2016 10:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEpr%E8%AA%B2%E9%87%91%E3%82%B5%E3%82%A4%E3%83%88players1st-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110050.png" alt="Featured image of post 現役スポーツ選手のためのPR課金サイト「Players1st (プレイヤーズファースト) オープン" /&gt;&lt;body&gt;
+&lt;p&gt;【PRESS　RELEASE】&lt;/p&gt;
+&lt;p&gt;2016年8月9日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;スポーツの力で世の中をより良くする&lt;/h2&gt;
+&lt;h2&gt;『現役スポーツ選手のためのPR課金サイト Players1st (プレイヤーズファースト)』 オープン&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト (本社: 東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 : 深海寛信) は、2016年8月9日、「スポーツの力で世の中を良くする」をミッションに掲げ、現役スポーツ選手を支援する課金サイト「Players1st (プレイヤーズファースト) 」をオープンしました。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;900&#34; data-orig-height=&#34;900&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110050.png&#34; data-orig-width=&#34;900&#34; data-orig-height=&#34;900&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;サービスサイトURL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;課金サイト Players1st (プレイヤーズファースト) とは&lt;/h2&gt;
+&lt;p&gt;選手とサポーター・企業の思いをつなげるスポーツ選手のためのインターネットプラットフォームです。スポーツ選手は活動費を得るための、課金可能なPR・活動報告サイトが持てます。&lt;/p&gt;
+&lt;h2&gt;「選手が近くなる！！サポーターと近くなる！！」&lt;/h2&gt;
+&lt;p&gt;選手はサポーターとの結び付きが強く保てるので、継続的な支援を得られ、選手活動に集中できるようになります。サポーターはお気に入りの選手を見つけ、活動状況を見たりイベントやファンクラブに参加して支え続けることができます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110226.png&#34; data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;「Players1st」が解決する課題&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EA%A5%AA%A5%C7%A5%B8%A5%E3%A5%CD%A5%A4%A5%ED%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;リオデジャネイロオリンピック&lt;/a&gt;・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;の開催し日本中の意識はもはやその先2020年東京&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%EA%A5%AA%A5%C7%A5%B8%A5%E3%A5%CD%A5%A4%A5%ED%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;リオデジャネイロオリンピック&lt;/a&gt;・&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;パラリンピック&lt;/a&gt;に向いています。誰もが自国開催を喜び、日本中のアスリートﾄ達が夢と希望をもちスポーツに力を注いでいます。
+しかしその一方で、その選手達の生活状況・経済状況はとても満足いくものではありません。競技に１００％集中出来ている選手が果たしてどれくらいいるのか・・・？
+国を代表して世界で活躍するトッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルの選手達でさえ満足いく環境ではなく、生活費を確保するために練習の合間にアルバイトなどで最低限の生活費を確保しているのが現状です。「Players1st」は、トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルの現役スポーツ選手の経済的課題を解決します。&lt;/p&gt;
+&lt;h2&gt;「Players1st」は「スポーツを支える」力になる&lt;/h2&gt;
+&lt;p&gt;私たち「Players1st」が選手の環境を改善し、スポーツ選手・国民全員で世界の手本となるような2020年にするために、そしてさらにその先の未来へ向けて！！！スポーツの力で世の中をより良くするために、今こそ一緒に動き始めましょう。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;利用表明選手・団体&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;国内最高峰フットサルリーグ &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt; トップチーム選手&lt;/li&gt;
+&lt;li&gt;世界戦参戦中の全日本チャンピオン・アジアチャンピオン レーシングライダー&lt;/li&gt;
+&lt;li&gt;国内外参戦中のトレイルラン日本第一人者選手&lt;/li&gt;
+&lt;li&gt;国内リーグ優勝&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;チーム 選手一同&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;東京オリンピック&lt;/a&gt;出場を目指すウェイトリフティング選手&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;今までにないスポーツとの係わり方を私達は常に提供して行きます。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;株式会社プレイヤーズファースト 会社概要&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;商号 : 株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;代表者 : &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長  深海 寛信&lt;/li&gt;
+&lt;li&gt;所在地 : 〒157-0061 東京都世田谷区北烏山1-9-18&lt;/li&gt;
+&lt;li&gt;設立年月日 : 2016年3月23日&lt;/li&gt;
+&lt;li&gt;主な事業内容 : 「Players1st」の開発・運営&lt;/li&gt;
+&lt;li&gt;URL : &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;本件に関するお問い合わせ先&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;担当 : 山根&lt;/li&gt;
+&lt;li&gt;TEL : 090-2237-2256&lt;/li&gt;
+&lt;li&gt;Mail : &lt;a href=&#34;mailto:contact@players1.st&#34;&gt;contact@players1.st&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

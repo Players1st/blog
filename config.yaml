@@ -1,4 +1,5 @@
 baseurl: https://blog.players1.st/
+publishDir: docs
 title: Players1st プレイヤーズファースト Blog
 theme: hugo-theme-stack
 languageCode: ja-jp

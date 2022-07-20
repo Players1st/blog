@@ -1,58 +1,187 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>スポーツ on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
-    <description>Recent content in スポーツ on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Tue, 07 Mar 2017 10:01:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>プレスリリース 現役スポーツ選手を支援するインターネットサービス「Players1st」にて、選手のキャリアサポート事業を開始</title>
-      <link>https://blog.players1.st/2017/03/07/100136/</link>
-      <pubDate>Tue, 07 Mar 2017 10:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/03/07/100136/</guid>
-      <description>2017年3月7日
-報道関係者各位
-プレスリリース</description>
-    </item>
-    
-    <item>
-      <title>現役スポーツ選手を支援するインターネットサービス「Players1st」のサービススポンサー募集を開始</title>
-      <link>https://blog.players1.st/2017/02/15/114705/</link>
-      <pubDate>Wed, 15 Feb 2017 11:47:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/02/15/114705/</guid>
-      <description>2017年2月15日
-報道関係者各位
-プレスリリース</description>
-    </item>
-    
-    <item>
-      <title>現役スポーツ選手への支援金を一括で受け付け分配する「コインパスオール」の提供を開始</title>
-      <link>https://blog.players1.st/2017/02/10/110101/</link>
-      <pubDate>Fri, 10 Feb 2017 11:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/02/10/110101/</guid>
-      <description>2017年2月10日
-報道関係者各位
-プレスリリース</description>
-    </item>
-    
-    <item>
-      <title>プレスリリース - 「Players1st」においてスポンサー募集機能をリリース 〜2週間で数万円獲得した選手も〜</title>
-      <link>https://blog.players1.st/2017/02/06/120141/</link>
-      <pubDate>Mon, 06 Feb 2017 12:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/02/06/120141/</guid>
-      <description>2017年2月6日
-報道関係者各位 プレスリリース</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>スポーツ on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+        <description>Recent content in スポーツ on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Tue, 07 Mar 2017 10:01:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>プレスリリース 現役スポーツ選手を支援するインターネットサービス「Players1st」にて、選手のキャリアサポート事業を開始</title>
+        <link>https://blog.players1.st/p/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%AB%E3%81%A6%E9%81%B8%E6%89%8B%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E4%BA%8B%E6%A5%AD%E3%82%92%E9%96%8B%E5%A7%8B/</link>
+        <pubDate>Tue, 07 Mar 2017 10:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%AB%E3%81%A6%E9%81%B8%E6%89%8B%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E4%BA%8B%E6%A5%AD%E3%82%92%E9%96%8B%E5%A7%8B/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post プレスリリース 現役スポーツ選手を支援するインターネットサービス「Players1st」にて、選手のキャリアサポート事業を開始" /&gt;&lt;body&gt;
+&lt;p&gt;2017年3月7日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;現役スポーツ選手を支援するインターネットサービス「Players1st」にて、選手のキャリアサポート事業を開始&lt;/h2&gt;
+&lt;p&gt;「 現役スポーツ選手を見つける、つながる、支える。 」をミッションに掲げる株式会社プレイヤーズファースト(本社: 東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 : 深海 寛信) は、現役スポーツ選手を支援するインターネットサービス「Players1st (プレイヤーズファースト)」にて、現役スポーツ選手のキャリア支援事業を開始しました。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;174&#34; data-orig-width=&#34;512&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111145.png&#34;&gt;&lt;img src=&#34;https://78.media.tumblr.com/d583fea74152ed063e7e58433b5d29fd/tumblr_inline_omfcmuhhIa1qzhrk3_540.png&#34; data-orig-height=&#34;174&#34; data-orig-width=&#34;512&#34; data-orig-src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111145.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;近年、スポーツ選手が現役時代から&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AD%A5%E3%A5%EA%A5%A2%A5%D7%A5%E9%A5%F3&#34;&gt;キャリアプラン&lt;/a&gt;を立てることが重要視されていますが、選手の現状はキャリアについて検討するきっかけや相談する相手がおらず、今後のキャリアや引退後のセカンドキャリアについて考えにくい課題がありました。&lt;/p&gt;
+&lt;p&gt;Players1stでは、現役スポーツ選手へのPR・スポンサー応募事業に加え、新たに選手のキャリア検討や引退後のセカンドキャリアについて相談を受け付ける、選手のキャリアをサポートする事業を開始しました。&lt;/p&gt;
+&lt;p&gt;具体的には、選手からのキャリア相談窓口を設置します。
+選手の希望とあれば、スポーツ選手のキャリア支援を行っている&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%B5%A5%EB%A5%BF%A5%F3%A5%C8&#34;&gt;コンサルタント&lt;/a&gt;との相談の場の設定や、引退選手の就職先紹介の実績を持つ人材紹介会社への紹介も行います。&lt;/p&gt;
+&lt;p&gt;これらのやり取りは選手のプライバシーに配慮し、外部に公開されることなく選手とPlayers1stの間だけで行います。
+Players1stに登録している選手、登録していない選手を問わずキャリア相談窓口は受け付けます。&lt;/p&gt;
+&lt;p&gt;キャリア相談窓口では、選手からのキャリアに関する様々な相談内容に対応できるよう、以下の内容を想定しています。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;漠然とだが今後のキャリアについて考え始めたい&lt;/li&gt;
+&lt;li&gt;セカンドキャリアとしてどんな選択肢があるのか知りたい&lt;/li&gt;
+&lt;li&gt;セカンドキャリアを見据えて、今からやれることが何かを知りたい&lt;/li&gt;
+&lt;li&gt;セカンドキャリアとして具体的に就職先を紹介して欲しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;キャリア相談窓口は問い合わせフォーム(URL : &lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;https://players1.st/feedbacks/new&lt;/a&gt;)から受け付けています。&lt;/p&gt;
+&lt;h2&gt;Players1stについて&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、経済的課題を抱える現役スポーツ選手のためのインターネットサービスです。(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザーは選手の作成する課金アイテムへの支払い以外は全て無料で利用できます。&lt;/p&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;現在、国内フットサル最高峰リーグ &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;のトップチーム選手や国内最多優勝回数の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;クラブの選手、国内海外の試合に参戦している選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手が利用しています。&lt;/p&gt;
+&lt;p&gt;なりすまし防止のための本人確認、活動実績、参戦している試合・リーグのレベルなどをチェックした後、選手として登録しています。&lt;/p&gt;
+&lt;p&gt;Players1st選手一覧ページ : &lt;a href=&#34;https://players1.st/players&#34;&gt;https://players1.st/players&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;株式会社プレイヤーズファースト 会社概要&lt;/h2&gt;
+&lt;p&gt;商号 : 株式会社プレイヤーズファースト&lt;br&gt;代表者 : &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 深海 寛信&lt;br&gt;所在地 : 〒157-0061 東京都世田谷区北烏山1-9-18&lt;br&gt;設立年月日 : 2016年3月23日&lt;br&gt;主な事業内容 : 「Players1st」の開発・運営&lt;br&gt;URL : &lt;a href=&#34;http://company.players1.st/&#34;&gt;http://company.players1.st/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;担当 : 押田&lt;br&gt;Mail : contact@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>現役スポーツ選手を支援するインターネットサービス「Players1st」のサービススポンサー募集を開始</title>
+        <link>https://blog.players1.st/p/%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B/</link>
+        <pubDate>Wed, 15 Feb 2017 11:47:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post 現役スポーツ選手を支援するインターネットサービス「Players1st」のサービススポンサー募集を開始" /&gt;&lt;body&gt;
+&lt;p&gt;2017年2月15日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;現役スポーツ選手を支援するインターネットサービス 「Players1st」のサービススポンサー募集を開始&lt;/h2&gt;
+&lt;p&gt;「 現役スポーツ選手を見つける、つながる、支える。 」をミッションに掲げる株式会社プレイヤーズファースト(本社: 東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 : 深海 寛信) は、現役スポーツ選手を支援するインターネットサービス「Players1st (プレイヤーズファースト)」のサービススポンサー募集を開始しました。&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;174&#34; data-orig-width=&#34;512&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111141.png&#34; data-orig-height=&#34;174&#34; data-orig-width=&#34;512&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;「Players1st」は、経済的課題を抱える現役スポーツ選手のためのインターネットサービスです。(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザーは選手の作成する課金アイテムへの支払い以外は全て無料で利用できます。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;417&#34; data-orig-width=&#34;1024&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111015.jpg&#34; data-orig-height=&#34;417&#34; data-orig-width=&#34;1024&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;サービススポンサーは、「スポーツの力で世の中をより良くする」というコンセプトに共感した個人や企業からの支援金を受け付ける仕組みです。支援金はPlayers1stの開発運営費に利用します。&lt;/p&gt;
+&lt;p&gt;サービススポンサーの上位8社には、Players1stの全ページ下部にサービススポンサー指定のロゴを表示し、任意のリンク先を指定できます。コンセプトを支援している対外的なアピールが行なえます。また、スポーツへの関心度の高いPlayers1stのユーザーや閲覧者へ御社商品のPRが行なえます。&lt;/p&gt;
+&lt;p&gt;お問い合せ・サービススポンサーの受付は、Players1stお問い合わせフォーム(URL : &lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;https://players1.st/feedbacks/new&lt;/a&gt;)またはメール contact@players1.st にて受け付けています。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;近年の企業の社会貢献活動や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/CSR&#34;&gt;CSR&lt;/a&gt;活動はは活発となっており、企業の社会的活動への参加が求められています。しかしながら、その活動がスポーツ分野へ向きづらい、とりわけ選手支援につながるような企画が立案しにくいなどの課題がありました。&lt;/p&gt;
+&lt;p&gt;選手自身への支援以外にも、選手を支えるプラットフォームに対して継続的に支援したいとの意見があました。&lt;/p&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;現在、国内フットサル最高峰リーグ &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;のトップチーム選手や国内最多優勝回数の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;クラブの選手、国内海外の試合に参戦している選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手が利用しています。&lt;/p&gt;
+&lt;p&gt;なりすまし防止のための本人確認、活動実績、参戦している試合・リーグのレベルなどをチェックした後、選手として登録しています。&lt;/p&gt;
+&lt;p&gt;Players1st選手一覧ページ : &lt;a href=&#34;https://players1.st/players/&#34;&gt;https://players1.st/players/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;株式会社プレイヤーズファースト 会社概要&lt;/h2&gt;
+&lt;p&gt;商号 : 株式会社プレイヤーズファースト&lt;br&gt;代表者 : &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 深海 寛信&lt;br&gt;所在地 : 〒157-0061 東京都世田谷区北烏山1-9-18&lt;br&gt;設立年月日 : 2016年3月23日&lt;br&gt;主な事業内容 : 「Players1st」の開発・運営&lt;br&gt;URL : &lt;a href=&#34;http://company.players1.st/&#34;&gt;http://company.players1.st/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;担当 : 押田&lt;br&gt;Mail : contact@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>現役スポーツ選手への支援金を一括で受け付け分配する「コインパスオール」の提供を開始</title>
+        <link>https://blog.players1.st/p/%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E6%94%AF%E6%8F%B4%E9%87%91%E3%82%92%E4%B8%80%E6%8B%AC%E3%81%A7%E5%8F%97%E3%81%91%E4%BB%98%E3%81%91%E5%88%86%E9%85%8D%E3%81%99%E3%82%8B%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%AB%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B%E5%A7%8B/</link>
+        <pubDate>Fri, 10 Feb 2017 11:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E7%8F%BE%E5%BD%B9%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E6%94%AF%E6%8F%B4%E9%87%91%E3%82%92%E4%B8%80%E6%8B%AC%E3%81%A7%E5%8F%97%E3%81%91%E4%BB%98%E3%81%91%E5%88%86%E9%85%8D%E3%81%99%E3%82%8B%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%AB%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B%E5%A7%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110204.png" alt="Featured image of post 現役スポーツ選手への支援金を一括で受け付け分配する「コインパスオール」の提供を開始" /&gt;&lt;body&gt;
+&lt;p&gt;2017年2月10日&lt;/p&gt;
+&lt;p&gt;報道関係者各位&lt;br&gt;プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;現役スポーツ選手への支援金を一括で受け付け分配する「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;オール」の提供を開始&lt;/h2&gt;
+&lt;p&gt;「 現役スポーツ選手を見つける、つながる、支える。 」をミッションに掲げる株式会社プレイヤーズファースト (本社: 東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 : 深海 寛信、以下プレイヤーズファースト) は、「Players1st (プレイヤーズファースト) (URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)」において、支援金を一括で受け付け、現役スポーツ選手に分配する「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;オール」を2017年2月14日に開始します。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;534&#34; data-orig-height=&#34;534&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110204.png&#34; data-orig-width=&#34;534&#34; data-orig-height=&#34;534&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;現役トップのスポーツ選手に広く届ける&lt;/h2&gt;
+&lt;p&gt;プレイヤーズファーストでは、現役トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手の支援サービスとして、2016年8月にオープン、同年9月にはインターネット上から特定の選手へ支援金を届ける「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;」の提供を開始し、選手へ支援金を届けてきました。&lt;/p&gt;
+&lt;p&gt;「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;オール」は、Players1stに登録する現役トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手全員に支援金を届けることのできる、支援金一括受付サービスです。支援金を渡す選手の範囲が広がり、広く支援することができます。&lt;/p&gt;
+&lt;p&gt;「コ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%B9&#34;&gt;インパス&lt;/a&gt;オール」は企業の社会貢献活動や企業の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/CSR&#34;&gt;CSR&lt;/a&gt;活動に利用いただけることを想定しています。選手・競技種目に偏らないため、全ての競技種目のスポーツ選手を支援できることになります。Players1stをかえすことで支援範囲の拡大、現役トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ル選手の支援を実現できます。&lt;/p&gt;
+&lt;p&gt;支払い方法として、従来のクレジット決済に加え、請求書による銀行振込にも対応、企業からの支援を受け付けやすくしました。受付金額は20万円からを想定しています。&lt;/p&gt;
+&lt;p&gt;Players1stにて支援金を受付、手数料を差し引いた金額をPlayers1st全登録選手へ分配します。手数料は現在15%、残りの85%を全選手に分配します。手数料にはシステム運用費、選手の口座への振込手数料などを含みます。&lt;/p&gt;
+&lt;p&gt;お問い合せ・支援の受付は、Players1stお問い合わせフォーム(URL : &lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;https://players1.st/feedbacks/new&lt;/a&gt;)またはメール contact@players1.st にて受け付けています。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;近年の企業の社会貢献活動や&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/CSR&#34;&gt;CSR&lt;/a&gt;活動はは活発となっており、企業の社会的活動への参加が求められています。しかしながら、その活動がスポーツの分野の支援が行き渡らない、とりわけ選手自身への支援として届かないなどの課題がありました。また、選手自身も支援金を受け付ける課金窓口を設け、自ら運営することが難しいという課題もありました。&lt;/p&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;現在、国内フットサル最高峰リーグ &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;のトップチーム選手や国内最多優勝回数の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;クラブの選手、国内海外の試合に参戦している選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手が利用しています。
+なりすまし防止のための本人確認、活動実績、参戦している試合・リーグのレベルなどをチェックした後、選手として登録しています。&lt;/p&gt;
+&lt;p&gt;Players1st選手一覧ページ : &lt;a href=&#34;https://players1.st/players&#34;&gt;https://players1.st/players&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Players1st について&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、経済的課題を抱える現役スポーツ選手のための課金できるPRサイトです。(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;スポーツ選手は課金可能なPR・活動報告サイトを持てます。サポーターとの結び付きを強く保ち、継続的な支援を得やすく、選手活動に集中しやすくなります。サポーターはお気に入りの選手を見つけ、支援することができます。選手・サポーターともに登録は無料。選手の作成する課金アイテムへの支払い以外は全て無料で利用できます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111012.jpg&#34; data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;h2&gt;株式会社プレイヤーズファースト 会社概要&lt;/h2&gt;
+&lt;figure data-orig-width=&#34;512&#34; data-orig-height=&#34;174&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111138.png&#34; data-orig-width=&#34;512&#34; data-orig-height=&#34;174&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;ul&gt;
+&lt;li&gt;商号 : 株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;代表者 : &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 深海 寛信&lt;/li&gt;
+&lt;li&gt;所在地 : 〒157-0061 東京都世田谷区北烏山1-9-18&lt;/li&gt;
+&lt;li&gt;設立年月日 : 2016年3月23日&lt;/li&gt;
+&lt;li&gt;主な事業内容 : 「Players1st」の開発・運営&lt;/li&gt;
+&lt;li&gt;URL : &lt;a href=&#34;http://company.players1.st/&#34;&gt;http://company.players1.st/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;担当 : 押田&lt;br&gt;
+Mail : contact@players1.st&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>プレスリリース - 「Players1st」においてスポンサー募集機能をリリース 〜2週間で数万円獲得した選手も〜</title>
+        <link>https://blog.players1.st/p/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-players1st%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-2%E9%80%B1%E9%96%93%E3%81%A7%E6%95%B0%E4%B8%87%E5%86%86%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%9F%E9%81%B8%E6%89%8B%E3%82%82/</link>
+        <pubDate>Mon, 06 Feb 2017 12:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-players1st%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-2%E9%80%B1%E9%96%93%E3%81%A7%E6%95%B0%E4%B8%87%E5%86%86%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%9F%E9%81%B8%E6%89%8B%E3%82%82/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110923.jpg" alt="Featured image of post プレスリリース - 「Players1st」においてスポンサー募集機能をリリース 〜2週間で数万円獲得した選手も〜" /&gt;&lt;body&gt;
+&lt;p&gt;2017年2月6日&lt;/p&gt;
+&lt;p&gt;報道関係者各位
+プレスリリース&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;a href=&#34;https://players1.st&#34;&gt;&lt;br&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;「Players1st」においてスポンサー募集機能をリリース&lt;/h2&gt;
+&lt;p&gt;〜 2週間で数万円獲得した選手も 〜&lt;/p&gt;
+&lt;p&gt;「 現役スポーツ選手を見つける、つながる、支える。 」をミッションに掲げる株式会社プレイヤーズファースト (本社: 東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 : 深海 寛信、以下プレイヤーズファースト) は、「Players1st (プレイヤーズファースト)」(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)においてスポンサー募集機能をリリースしました。&lt;/p&gt;
+&lt;h2&gt;スポンサー募集機能について&lt;/h2&gt;
+&lt;p&gt;Players1stのスポンサー募集機能は、選手がインターネット上で広くスポンサーを募り、継続的にスポンサードを受けられる仕組みです。&lt;/p&gt;
+&lt;p&gt;クレジットカード決済による月額課金、口数制・1シーズン制となっており、選手活動を継続的に支えるためのスポンサー制度にしています。&lt;/p&gt;
+&lt;p&gt;選手はPlayers1stにログイン後、スポンサー募集作成画面からタイトル・金額・特典内容を入力するだけですぐに募集を開始することができます。スポンサー応募は、クレジットカード決済にていつでもどこからでもスポンサーになることができます。今後、銀行振込による支払方法を追加予定です。なお、選手のスポンサー募集作成、スポンサー応募にはPlayers1stの無料のユーザー登録が必要です。&lt;/p&gt;
+&lt;p&gt;スポンサーの支払金額は、Players1stにて15%の手数料を差し引いた残りの85％の金額を選手へ支払います。手数料にはクレジットカード決済手数料、システム運用費、選手の口座への振込手数料などを含みます。&lt;/p&gt;
+&lt;h2&gt;実績&lt;/h2&gt;
+&lt;p&gt;スポンサー募集機能リリース後、選手が作成したスポンサー募集ページをPlayers1stの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;ページにて紹介したところ、3日間で6,600名ほどリーチしました。また、この注目されたスポンサー募集は、2週間で数万円を獲得しました。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;Players1stの登録選手からスポンサー募集ができるようにしてほしいとの要望をいただきました。選手からすると、スポンサー候補への呼びかけ、決済方法の確立、支払管理などをひとりで行うことは困難で、スポンサー募集をしたいけれどもできない、という課題があることが分かりました。&lt;/p&gt;
+&lt;p&gt;一方、支えるスポンサー候補からは特定の選手に支援金を払いたいが、課金の窓口がない。などの課題がありました。&lt;/p&gt;
+&lt;p&gt;双方の課題を解決するためにPlayers1stでスポンサー募集機能を開発し、課金窓口として利用いただけるようにしました。&lt;/p&gt;
+&lt;h2&gt;参考情報&lt;/h2&gt;
+&lt;p&gt;Players1stスポンサー募集一覧 : &lt;a href=&#34;https://players1.st/proposals&#34;&gt;https://players1.st/proposals&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;具体的なスポンサー募集作成方法はPlayers1stブログにて紹介しています。&lt;/p&gt;
+&lt;p&gt;選手向けマニュアル-スポンサー募集 : &lt;a href=&#34;http://blog.players1.st/post/154663602429/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86&#34;&gt;http://blog.players1.st/post/154663602429/選手マニュアル-スポンサー募集&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;現在、国内フットサル最高峰リーグ &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;のトップチーム選手や国内最多優勝回数の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;クラブの選手、国内海外の試合に参戦している選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/2020%C7%AF%C5%EC%B5%FE%A5%AA%A5%EA%A5%F3%A5%D4%A5%C3%A5%AF&#34;&gt;2020年東京オリンピック&lt;/a&gt;日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手が利用しています。&lt;/p&gt;
+&lt;p&gt;なりすまし防止のための本人確認、活動実績、参戦している試合・リーグのレベルなどをチェックした後、選手として登録しています。&lt;/p&gt;
+&lt;p&gt;Players1st選手一覧ページ : &lt;a href=&#34;https://players1.st/players&#34;&gt;https://players1.st/players&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Players1st について&lt;/h2&gt;
+&lt;p&gt;「Players1st」は、経済的課題を抱える現役スポーツ選手のための課金できるPRサイトです。(URL : &lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;スポーツ選手は課金可能なPR・活動報告サイトを持てます。サポーターとの結び付きが強く保てるので、継続的な支援を得やすく、選手活動に集中しやすくなります。サポーターはお気に入りの選手を見つけ、支援することができます。&lt;/p&gt;
+&lt;p&gt;選手・サポーターともに登録は無料。選手の作成する課金アイテムへの支払い以外は全て無料で利用できます。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110923.jpg&#34; data-orig-width=&#34;1024&#34; data-orig-height=&#34;417&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;株式会社プレイヤーズファースト 会社概要&lt;/h2&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;512&#34; data-orig-height=&#34;392&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111130.png&#34; data-orig-width=&#34;512&#34; data-orig-height=&#34;392&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;商号 : 株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;代表者 : &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;社長 深海 寛信&lt;/li&gt;
+&lt;li&gt;所在地 : 〒157-0061 東京都世田谷区北烏山1-9-18&lt;/li&gt;
+&lt;li&gt;設立年月日 : 2016年3月23日&lt;/li&gt;
+&lt;li&gt;主な事業内容 : 「Players1st」の開発・運営&lt;/li&gt;
+&lt;li&gt;URL : &lt;a href=&#34;http://company.players1.st/&#34;&gt;http://company.players1.st/&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;本件に関するお問い合わせ先&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;株式会社プレイヤーズファースト&lt;/li&gt;
+&lt;li&gt;担当 : 押田&lt;/li&gt;
+&lt;li&gt;Mail : contact@players1.st&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

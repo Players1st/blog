@@ -1,43 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>選手使い方説明会 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E9%81%B8%E6%89%8B%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A/</link>
-    <description>Recent content in 選手使い方説明会 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 21 Sep 2016 11:01:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E9%81%B8%E6%89%8B%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>選手への使い方説明会-ビーチサッカー 東京レキオス</title>
-      <link>https://blog.players1.st/2016/09/21/110106/</link>
-      <pubDate>Wed, 21 Sep 2016 11:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/09/21/110106/</guid>
-      <description>行ってきました！湘南ベルマーレひらつかビーチパークまで🏖 先日チームの練習場にお邪魔して練習後にレクチャーさせていただきました。
-今回のレクチャーは、ビーチサッカーの東京レキオスの選手の方々になります。</description>
-    </item>
-    
-    <item>
-      <title>選手への使い方説明会-ウェイトリフティング 大塩選手</title>
-      <link>https://blog.players1.st/2016/09/13/100108/</link>
-      <pubDate>Tue, 13 Sep 2016 10:01:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/09/13/100108/</guid>
-      <description>Players1st に登録いただいた選手に使い方レクチャーとフィードバックをもらうために会いに行ってきました。</description>
-    </item>
-    
-    <item>
-      <title>選手への使い方説明会-府中アスレ 宮田選手、柴田選手</title>
-      <link>https://blog.players1.st/2016/08/16/131921/</link>
-      <pubDate>Tue, 16 Aug 2016 13:19:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/08/16/131921/</guid>
-      <description>先日、府中アスレティックFCの選手に Players1st の使い方説明に行ってきました。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>選手使い方説明会 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E9%81%B8%E6%89%8B%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A/</link>
+        <description>Recent content in 選手使い方説明会 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Wed, 21 Sep 2016 11:01:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E9%81%B8%E6%89%8B%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>選手への使い方説明会-ビーチサッカー 東京レキオス</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A-%E3%83%93%E3%83%BC%E3%83%81%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC-%E6%9D%B1%E4%BA%AC%E3%83%AC%E3%82%AD%E3%82%AA%E3%82%B9/</link>
+        <pubDate>Wed, 21 Sep 2016 11:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A-%E3%83%93%E3%83%BC%E3%83%81%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC-%E6%9D%B1%E4%BA%AC%E3%83%AC%E3%82%AD%E3%82%AA%E3%82%B9/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110908.png" alt="Featured image of post 選手への使い方説明会-ビーチサッカー 東京レキオス" /&gt;&lt;body&gt;
+&lt;p&gt;行ってきました！湘南ベルマーレひらつかビーチパークまで🏖 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;先日チームの練習場にお邪魔して練習後にレクチャーさせていただきました。&lt;/p&gt;
+&lt;p&gt;今回のレクチャーは、ビーチサッカーの東京レキオスの選手の方々になります。&lt;/p&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;720&#34; class=&#34;tmblr-full&#34;&gt;&lt;img data-orig-width=&#34;720&#34; data-orig-height=&#34;720&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110908.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;東京レキオスは全国ビーチサッカーで最多優勝回数を誇る強豪ビーチサッカークラブです。&lt;/p&gt;
+&lt;p&gt;先日、日本で開催された&lt;a href=&#34;http://www.jfa.jp/national_team/beach_2016/20160918/&#34;&gt;ビーチサッカー日本代表 国際親善試合&lt;/a&gt;にも&lt;a href=&#34;http://www.jfa.jp/national_team/beach_2016/20160918/member.html&#34;&gt;東京レキオスから2名の選手が選出&lt;/a&gt;されています。&lt;/p&gt;
+&lt;p&gt;国内でのビーチサッカー親善試合の開催は珍しく、日本サッカー協会も力を入れていることがわかります。これからビーチサッカーがサッカーのJリーグ、フットサルのFリーグに続く第3のフットボールとして注目されることは間違いないでしょう👍&lt;/p&gt;
+&lt;p&gt;練習後の選手の方々に集まっていただき、練習場の横に腰掛けてその場でスマホを操作してもらいながら説明しました📱&lt;/p&gt;
+&lt;p&gt;アカウントをまだ登録してない選手たちにはその場でアカウント作成をしてもらいました。その中になんと今回日本代表に招集された &lt;a href=&#34;https://players1.st/teruki-tabata_7&#34;&gt;田畑選手&lt;/a&gt; も登録いただきました！ついに &lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; を日本代表選手が使っていただける日が来ました🎉&lt;/p&gt;
+&lt;p&gt;選手プロフィール編集で項目を上から順番に説明しながら埋めていただき、出身地・出身校は知らないサポーターが見つけやすくなりますよなどと話しました。
+チーム登録もしていただき皆さん&lt;a href=&#34;https://players1.st/teams/1&#34;&gt;東京レキオスのチームページにメンバーとして表示&lt;/a&gt;されるようになりました。&lt;/p&gt;
+&lt;p&gt;選手のみなさんは自分のスマホを操作してすぐに反映できていました。&lt;/p&gt;
+&lt;p&gt;今後、イベントやポストの仕方などをBlogの案内を通じてフォローしていく予定です。&lt;/p&gt;
+&lt;p&gt;最後に今回のレクチャーの場をセッティングいただいた&lt;a href=&#34;https://players1.st/shota-matsuoka&#34;&gt;松岡選手&lt;/a&gt;と記念にパチリ。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;1280&#34; data-orig-height=&#34;960&#34; class=&#34;tmblr-full&#34;&gt;&lt;img data-orig-width=&#34;1280&#34; data-orig-height=&#34;960&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111233.jpg&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;松岡選手は選手活動をしながら &lt;a href=&#34;http://evole.net/&#34;&gt;EVOLE&lt;/a&gt; というスポーツアパレルブランドを手がける社長さんでもあります。東京レキオスのウェアは EVOLE ですね。チームの愛を感じます❤️&lt;/p&gt;
+&lt;p&gt;日本代表選手もいる東京レキオスの選手たちをフォローしてチェックしまししょう！📢&lt;/p&gt;
+&lt;p&gt;宜野座選手のページ : &lt;a href=&#34;https://players1.st/ginoza&#34;&gt;https://players1.st/ginoza&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;柳川選手のページ : &lt;a href=&#34;https://players1.st/yanagawa&#34;&gt;https://players1.st/yanagawa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;田畑選手のページ : &lt;a href=&#34;https://players1.st/teruki-tabata_7&#34;&gt;https://players1.st/teruki-tabata_7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中村睦選手のページ : &lt;a href=&#34;https://players1.st/NAKAMURA&#34;&gt;https://players1.st/NAKAMURA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;小牧選手のページ : &lt;a href=&#34;https://players1.st/masayuki_komaki&#34;&gt;https://players1.st/masayuki_komaki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;鈴木将人選手のページ : &lt;a href=&#34;https://players1.st/masato_suzuki&#34;&gt;https://players1.st/masato_suzuki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;松岡選手のページ : &lt;a href=&#34;https://players1.st/shota-matsuoka&#34;&gt;https://players1.st/shota-matsuoka&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;フォローするには &lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; でサポーター登録(無料)が必要です。メールアドレスとパスワードを設定するだけですぐに始められます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; では現在トップレベルで活躍している選手やオリンピックを目指す選手の方々からの登録申請も受け付けています。
+リンク先のフォームから申請できます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/#form&#34;&gt;https://players1.st/#form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手への使い方説明会-ウェイトリフティング 大塩選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A-%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E5%A4%A7%E5%A1%A9%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Tue, 13 Sep 2016 10:01:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A-%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AA%E3%83%95%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E5%A4%A7%E5%A1%A9%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110609.png" alt="Featured image of post 選手への使い方説明会-ウェイトリフティング 大塩選手" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; に登録いただいた選手に使い方レクチャーとフィードバックをもらうために会いに行ってきました。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;ウェイトリフティング選手の大塩直一郎選手です👏&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110609.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;大塩選手 はウェイトリフティング選手でありながら、&lt;a href=&#34;http://www.stoicfamily.com/&#34;&gt;STOIC FAMILY&lt;/a&gt; というフィットネスの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D1%A1%BC%A5%BD%A5%CA%A5%EB%A5%C8%A5%EC%A1%BC%A5%CB%A5%F3%A5%B0&#34;&gt;パーソナルトレーニング&lt;/a&gt;を行う会社の&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;でもあります。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&#34;&gt;スマホ&lt;/a&gt;を操作してもらいながら、その場で設定してもらいました。
+プロフィールの出身地・出身校はサポーターから見つけやすくなるなりますよ。とかイベントやサポーターズクラブの作り方はこれだけの項目でできるんですよ。などお話しました。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;一通り一緒にやってみた後に大塩さんから「&lt;strong&gt;思っていたよりも簡単に作れるな。&lt;/strong&gt;」とのお言葉。
+そうなんです！なるべくシンプルに選手のみなさんが負担にならないようにと &lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は考えて開発しています💻&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title>選手への使い方説明会-府中アスレ 宮田選手、柴田選手</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A-%E5%BA%9C%E4%B8%AD%E3%82%A2%E3%82%B9%E3%83%AC-%E5%AE%AE%E7%94%B0%E9%81%B8%E6%89%8B%E6%9F%B4%E7%94%B0%E9%81%B8%E6%89%8B/</link>
+        <pubDate>Tue, 16 Aug 2016 13:19:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E8%AA%AC%E6%98%8E%E4%BC%9A-%E5%BA%9C%E4%B8%AD%E3%82%A2%E3%82%B9%E3%83%AC-%E5%AE%AE%E7%94%B0%E9%81%B8%E6%89%8B%E6%9F%B4%E7%94%B0%E9%81%B8%E6%89%8B/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110745.jpg" alt="Featured image of post 選手への使い方説明会-府中アスレ 宮田選手、柴田選手" /&gt;&lt;body&gt;
+&lt;p&gt;先日、&lt;a href=&#34;http://www.fuchu-athletic.com/&#34; target=&#34;_blank&#34;&gt;府中アスレティックFC&lt;/a&gt;の選手に &lt;a href=&#34;https://players1.st/&#34; target=&#34;_blank&#34;&gt;Players1st&lt;/a&gt; の使い方説明に行ってきました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fuchu-athletic.com/&#34; target=&#34;_blank&#34;&gt;府中アスレティックFC&lt;/a&gt; は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%C5%D4%C9%DC%C3%E6%BB%D4&#34;&gt;東京都府中市&lt;/a&gt;をホームタウンとする&lt;a href=&#34;http://www.fleague.jp/&#34; target=&#34;_blank&#34;&gt;Fリーグ&lt;/a&gt;に参戦する&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%DC%A1%BC%A5%EB&#34;&gt;フットボール&lt;/a&gt;クラブです。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fleague.jp/&#34; target=&#34;_blank&#34;&gt;Fリーグ&lt;/a&gt;とは国内フットサルの最高峰リーグになります。
+全国にある地域に根ざした12チームがリーグ戦を行っています。&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/J%A5%EA%A1%BC%A5%B0&#34;&gt;Jリーグ&lt;/a&gt;のフットサル版と言えばわかりやすいでしょうか。&lt;/p&gt;
+&lt;h2&gt;選手紹介: 宮田選手、柴田選手&lt;/h2&gt;
+&lt;p&gt;その &lt;a href=&#34;http://www.fuchu-athletic.com/&#34; target=&#34;_blank&#34;&gt;府中アスレティックFC&lt;/a&gt; のトップチームで活躍する現役選手2名が &lt;a href=&#34;https://players1.st/&#34; target=&#34;_blank&#34;&gt;Players1st&lt;/a&gt; に登録してもらいましたので、使い方説明に行ってきました。&lt;/p&gt;
+&lt;p&gt;宮田選手と柴田選手です👏
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110745.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;選手プロフィールで設定する項目がこんな風にサポーターから見えますよ。とか、タグを使うとキーワードから選手のことを知らないサポーターから見つけてもらえるようになりますよ。など画面を追いながら説明しました。&lt;/p&gt;
+&lt;p&gt;お二人はその場で&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&#34;&gt;スマホ&lt;/a&gt;を使いながらどんどん操作。自身のプロフィールを充実させて、さらに翌日ちょうど開催予定のイベントも作成してもらいました。&lt;/p&gt;
+&lt;p&gt;イベントがいくつかの項目を入力するだけで簡単に作成できることに感動していました😊&lt;/p&gt;
+&lt;p&gt;作成したイベントをお二人で &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt; にシェアしたところ、すぐにいいねやシェアが集まりました👍&lt;/p&gt;
+&lt;p&gt;選手自体は時々イベントを開催していますが、その情報が十分届いていないケースは多いと思います。&lt;a href=&#34;https://players1.st/&#34; target=&#34;_blank&#34;&gt;Players1st&lt;/a&gt; が選手にとっての情報発信を強烈にサポートするツールになれればと思います。&lt;/p&gt;
+&lt;p&gt;今後も &lt;a href=&#34;https://players1.st/&#34; target=&#34;_blank&#34;&gt;Players1st&lt;/a&gt; は選手への説明会を実施していく予定です。&lt;/p&gt;
+&lt;p&gt;登録してみたけど説明しに来て欲しい。まだ登録していないけど何ができるの？など選手の方々からの要望・お問い合せは&lt;a href=&#34;mailto:contact@players1.st&#34; target=&#34;_blank&#34;&gt;こちら&lt;/a&gt;まで。&lt;/p&gt;
+&lt;h2&gt;応援しよう📣&lt;/h2&gt;
+&lt;p&gt;宮田選手と柴田選手をフォローして応援しよう！&lt;/p&gt;
+&lt;p&gt;フォローには &lt;a href=&#34;https://players1.st/&#34; target=&#34;_blank&#34;&gt;Players1st&lt;/a&gt; でサポーター登録(無料)が必要です。メールアドレスとパスワードを設定するだけですぐに始められます。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;宮田選手のページ&lt;/b&gt;&lt;/p&gt;
+&lt;a href=&#34;https://players1.st/yoshihitomiyata&#34; target=&#34;_blank&#34;&gt;&lt;img alt=&#34;宮田選手&#34; src=&#34;https://s3-ap-northeast-1.amazonaws.com/players1st/uploads/image/name/2/20160728165211.jpg&#34;&gt;&lt;/a&gt;&lt;p&gt;&lt;a href=&#34;https://players1.st/yoshihitomiyata&#34; target=&#34;_blank&#34;&gt;https://players1.st/yoshihitomiyata&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;柴田選手のページ&lt;/b&gt;&lt;/p&gt;
+&lt;a href=&#34;https://players1.st/Yusuke21shiba&#34; target=&#34;_blank&#34;&gt;&lt;img alt=&#34;柴田選手&#34; src=&#34;https://s3-ap-northeast-1.amazonaws.com/players1st/uploads/image/name/3/20160806103340.jpg&#34;&gt;&lt;/a&gt;&lt;p&gt;&lt;a href=&#34;https://players1.st/Yusuke21shiba&#34; target=&#34;_blank&#34;&gt;https://players1.st/Yusuke21shiba&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

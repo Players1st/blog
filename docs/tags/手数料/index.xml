@@ -1,24 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>手数料 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E6%89%8B%E6%95%B0%E6%96%99/</link>
-    <description>Recent content in 手数料 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 25 Apr 2018 09:44:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E6%89%8B%E6%95%B0%E6%96%99/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>コインパスの手数料を金額に応じて変わるようになりました</title>
-      <link>https://blog.players1.st/2018/04/25/094440/</link>
-      <pubDate>Wed, 25 Apr 2018 09:44:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/04/25/094440/</guid>
-      <description>コインパス  コインパスはメッセージ付きスポット課金として、アスリートとサポーターとの日常にちょっとしたコミュニケーションを提供してきました。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>手数料 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E6%89%8B%E6%95%B0%E6%96%99/</link>
+        <description>Recent content in 手数料 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Wed, 25 Apr 2018 09:44:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E6%89%8B%E6%95%B0%E6%96%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>コインパスの手数料を金額に応じて変わるようになりました</title>
+        <link>https://blog.players1.st/p/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%81%AE%E6%89%8B%E6%95%B0%E6%96%99%E3%82%92%E9%87%91%E9%A1%8D%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E5%A4%89%E3%82%8F%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Wed, 25 Apr 2018 09:44:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%91%E3%82%B9%E3%81%AE%E6%89%8B%E6%95%B0%E6%96%99%E3%82%92%E9%87%91%E9%A1%8D%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E5%A4%89%E3%82%8F%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post コインパスの手数料を金額に応じて変わるようになりました" /&gt;&lt;body&gt;
+&lt;h1&gt;コインパス&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;コインパス&lt;/a&gt;はメッセージ付きスポット課金として、アスリートとサポーターとの日常にちょっとしたコミュニケーションを提供してきました。&lt;/p&gt;
+&lt;p&gt;アスリートが試合に勝った時、誕生日のお祝いに、シーズンの終わりにお疲れ様を伝えながら、様々な場面でアスリートを励ましてきました。&lt;/p&gt;
+&lt;h1&gt;コインパス&lt;/a&gt;の手数料変更&lt;/h1&gt;
+&lt;p&gt;今までコインパス&lt;/a&gt;の手数料は一律15％でしたが、この度、金額が大きくなるほど手数料の率が下がる、階段式の手数料の率を適用するように変更しました。&lt;/p&gt;
+&lt;p&gt;以下のような手数料の率が適用されます。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;金額&lt;/th&gt;
+  &lt;th&gt;手数料(率)&lt;/th&gt;
+&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;300円〜1万円未満&lt;/td&gt;
+  &lt;td&gt;30%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1万円〜5万円未満&lt;/td&gt;
+  &lt;td&gt;20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5万円〜10万円未満&lt;/td&gt;
+  &lt;td&gt;15%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10万円以上&lt;/td&gt;
+  &lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;従来に比べより大きな金額にはアスリートのメリットが大きくなります。
+逆に小さな金額の場合、手数料が大きくなります。&lt;/p&gt;
+&lt;p&gt;大変心苦しいのですが、サービス運営継続のため必要な方法としてご理解いただければと思います。&lt;/p&gt;
+&lt;h1&gt;月額スポンサー募集の手数料は変わらず&lt;/h1&gt;
+&lt;p&gt;月額のスポンサー募集は変わらず一律15%です。&lt;/p&gt;
+&lt;h1&gt;Players1st の課金メニューの手数料&lt;/h1&gt;
+&lt;p&gt;Players1stの課金メニューの手数料はまとめると以下のようになります。&lt;/p&gt;
+&lt;h2&gt;月額スポンサー募集&lt;/h2&gt;
+&lt;p&gt;月額スポンサー募集 手数料 : 一律 15%&lt;/p&gt;
+&lt;h2&gt;コインパス&lt;/a&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;金額&lt;/th&gt;
+  &lt;th&gt;手数料(率)&lt;/th&gt;
+&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;300円〜1万円未満&lt;/td&gt;
+  &lt;td&gt;30%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1万円〜5万円未満&lt;/td&gt;
+  &lt;td&gt;20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5万円〜10万円未満&lt;/td&gt;
+  &lt;td&gt;15%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10万円以上&lt;/td&gt;
+  &lt;td&gt;10%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「月額スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ🔗&lt;a href=&#34;https://players1.st&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
+&lt;p&gt;登録料・会費などはありません。 無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

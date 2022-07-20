@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>registration on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/registration/</link>
-    <description>Recent content in registration on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Thu, 11 Aug 2016 12:30:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/registration/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>選手登録申請をWebフォームから受付開始</title>
-      <link>https://blog.players1.st/2016/08/11/123027/</link>
-      <pubDate>Thu, 11 Aug 2016 12:30:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/08/11/123027/</guid>
-      <description>Players1st ではサポーターの登録は ユーザー登録 からどなたでも行なえますが、 選手の登録はなりすまし防止の為、招待制と認証制をとっています。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>registration on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/registration/</link>
+        <description>Recent content in registration on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Thu, 11 Aug 2016 12:30:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/registration/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>選手登録申請をWebフォームから受付開始</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%99%BB%E9%8C%B2%E7%94%B3%E8%AB%8B%E3%82%92web%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E5%8F%97%E4%BB%98%E9%96%8B%E5%A7%8B/</link>
+        <pubDate>Thu, 11 Aug 2016 12:30:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E7%99%BB%E9%8C%B2%E7%94%B3%E8%AB%8B%E3%82%92web%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E5%8F%97%E4%BB%98%E9%96%8B%E5%A7%8B/</guid>
+        <description>&lt;img src="https://78.media.tumblr.com/2fcfb562c4f4efc42f26f5a96ae1d349/tumblr_inline_obq4wuktCG1qzhrk3_540.png" alt="Featured image of post 選手登録申請をWebフォームから受付開始" /&gt;&lt;body&gt;
+&lt;p&gt;Players1st ではサポーターの登録は &lt;a href=&#34;https://players1.st/users/sign_up&#34; target=&#34;_blank&#34;&gt;ユーザー登録&lt;/a&gt; からどなたでも行なえますが、
+選手の登録はなりすまし防止の為、招待制と認証制をとっています。&lt;/p&gt;
+&lt;p&gt;認証制では、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Twitter&#34;&gt;Twitter&lt;/a&gt;の認証済みアカウントを使った方法のみでしたが、このたび、Webフォーム申請の受付を開始しました！&lt;/p&gt;
+&lt;h2&gt;選手登録申請フォーム&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/#form&#34; target=&#34;_blank&#34;&gt;https://players1.st/#form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-src=&#34;https://78.media.tumblr.com/2fcfb562c4f4efc42f26f5a96ae1d349/tumblr_inline_obq4wuktCG1qzhrk3_540.png&#34; data-orig-height=&#34;236&#34; data-orig-width=&#34;540&#34;&gt;&lt;img data-orig-src=&#34;https://78.media.tumblr.com/2fcfb562c4f4efc42f26f5a96ae1d349/tumblr_inline_obq4wuktCG1qzhrk3_540.png&#34; data-orig-height=&#34;236&#34; data-orig-width=&#34;540&#34; src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110253.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34; target=&#34;_blank&#34;&gt;トップページ&lt;/a&gt; にWebフォームがあります。&lt;/p&gt;
+&lt;p&gt;これでどなたでも簡単に選手登録の申請が行えます。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&#34;&gt;スマホ&lt;/a&gt;からだとカメラから写真をとってアップロードしてくれるので楽ですね👍&lt;/p&gt;
+&lt;h2&gt;申請結果&lt;/h2&gt;
+&lt;p&gt;申請結果は数営業日中にお知らせし、承認された選手は登録用URLの情報をお送りいたします。&lt;/p&gt;
+&lt;h2&gt;続々登録中&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;現在トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのスポーツ選手たちが続々登録し始めています。&lt;/p&gt;
+&lt;p&gt;Players1st は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

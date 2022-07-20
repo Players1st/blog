@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>資金不足解消 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E8%B3%87%E9%87%91%E4%B8%8D%E8%B6%B3%E8%A7%A3%E6%B6%88/</link>
-    <description>Recent content in 資金不足解消 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Mon, 15 Jul 2019 09:34:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E8%B3%87%E9%87%91%E4%B8%8D%E8%B6%B3%E8%A7%A3%E6%B6%88/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>まとめて応援を開始しました‼️</title>
-      <link>https://blog.players1.st/2019/07/15/matomete-proposal/</link>
-      <pubDate>Mon, 15 Jul 2019 09:34:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2019/07/15/matomete-proposal/</guid>
-      <description>様々なアスリートがPlayers1stに登録してきます。
-海外🌐で活動している選手や「こんな競技あったんだ😮」と思うような珍しい競技の選手。
-環境や競技は様々ですが共通しているのは「資金不足」。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>資金不足解消 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E8%B3%87%E9%87%91%E4%B8%8D%E8%B6%B3%E8%A7%A3%E6%B6%88/</link>
+        <description>Recent content in 資金不足解消 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Mon, 15 Jul 2019 09:34:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E8%B3%87%E9%87%91%E4%B8%8D%E8%B6%B3%E8%A7%A3%E6%B6%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>まとめて応援を開始しました‼️</title>
+        <link>https://blog.players1.st/p/%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%BF%9C%E6%8F%B4%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F/</link>
+        <pubDate>Mon, 15 Jul 2019 09:34:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%BF%9C%E6%8F%B4%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F/</guid>
+        <description>&lt;img src="https://s3-ap-northeast-1.amazonaws.com/players1st/uploads/image/name/593/20190714110821.jpg" alt="Featured image of post まとめて応援を開始しました‼️" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;img src=&#34;https://s3-ap-northeast-1.amazonaws.com/players1st/uploads/image/name/593/20190714110821.jpg&#34; alt=&#34;まとめて応援&#34;&gt;&lt;/p&gt;
+&lt;p&gt;様々なアスリートがPlayers1stに登録してきます。&lt;/p&gt;
+&lt;p&gt;海外🌐で活動している選手や「こんな競技あったんだ😮」と思うような珍しい競技の選手。&lt;/p&gt;
+&lt;p&gt;環境や競技は様々ですが共通しているのは「資金不足」。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🤔「もっとアスリートの支援金を集めることはできないだろうか？」&lt;/li&gt;
+&lt;li&gt;🤔「Players1stにできることはなんだろう？」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;そう考えて「まとめて応援」を始めました‼️&lt;/p&gt;
+&lt;p&gt;Players1stが課金窓口になり、複数の選手へまとめて支援金を送ることができます。
+Players1stが受け取った資金から手数料を引いた上で該当選手に均等分散します。&lt;/p&gt;
+&lt;p&gt;現在のところ、「マイナー競技日本代表」「23歳以下の若手」「海外で活動」の3つの窓口を作りました。
+こちらのページ確認できます👉 &lt;a href=&#34;https://players1.st/players1st/proposals&#34;&gt;https://players1.st/players1st/proposals&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「こんな窓口は作れないの？」などありましたら是非リクエストください🙏
+例えば、競技ごと、チームごと、地域ごとなども可能です。
+要望が多いものは窓口を設けたいと思います。&lt;/p&gt;
+&lt;p&gt;「人を感動させることのできるアスリートたちをもっと輝かせたい。」&lt;/p&gt;
+&lt;p&gt;そんな思いを持ちながらPlayers1stはこれからも新しいチャレンジを続けていきます😊&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

@@ -1,25 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>簡単 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E7%B0%A1%E5%8D%98/</link>
-    <description>Recent content in 簡単 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 19 Jul 2017 11:12:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E7%B0%A1%E5%8D%98/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Facebookアカウントで登録・ログインできるようになりました</title>
-      <link>https://blog.players1.st/2017/07/19/111248/</link>
-      <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/07/19/111248/</guid>
-      <description>アカウント作成でメールアドレス、パスワード、プロフィール文などを入力するのは手間ですよね。
-Players1stでは、プロフィールに様々な入力項目がありますが、なかなか全てを埋めていただけるのは難しいようです😅</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>簡単 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E7%B0%A1%E5%8D%98/</link>
+        <description>Recent content in 簡単 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Wed, 19 Jul 2017 11:12:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E7%B0%A1%E5%8D%98/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Facebookアカウントで登録・ログインできるようになりました</title>
+        <link>https://blog.players1.st/p/facebook%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E7%99%BB%E9%8C%B2%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+        <pubDate>Wed, 19 Jul 2017 11:12:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/facebook%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A7%E7%99%BB%E9%8C%B2%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111108.png" alt="Featured image of post Facebookアカウントで登録・ログインできるようになりました" /&gt;&lt;body&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;144&#34; data-orig-height=&#34;144&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111108.png&#34; data-orig-width=&#34;144&#34; data-orig-height=&#34;144&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;アカウント作成でメールアドレス、パスワード、プロフィール文などを入力するのは手間ですよね。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;では、プロフィールに様々な入力項目がありますが、なかなか全てを埋めていただけるのは難しいようです😅&lt;/p&gt;
+&lt;p&gt;選手にとってはサポーターから見つけやすくしてくれるための大事な項目でもあるので、是非とも入力していただきたいところ。&lt;/p&gt;
+&lt;p&gt;そこで、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントから簡単にアカウント登録できるようにしました‼️
+自動的に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;に登録されているプロフィール情報から&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;で利用する情報を取得し保存します。&lt;/p&gt;
+&lt;p&gt;数クリックで終わるので本当に簡単です。さっそく&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントでの登録方法を見てみましょう。&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで選手登録する方法&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;代表の&lt;a href=&#34;https://www.facebook.com/fukami&#34;&gt;深海のFacebookアカウント&lt;/a&gt;を使って行ってみます。&lt;/p&gt;
+&lt;p&gt;選手が登録する方法を書いていますが、選手を支えるサポーターの立場の方も&lt;a href=&#34;https://players1.st/users/sign_up_confirm?from=blog&#34;&gt;サポーター登録&lt;/a&gt;画面から同じように&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで登録が行えます。&lt;/p&gt;
+&lt;p&gt;登録を考えてる方も一緒に手順通り進めば必ずできますので、これを機に是非登録してみましょう。&lt;/p&gt;
+&lt;h2&gt;Players1stトップページからスタート&lt;/h2&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/&#34;&gt;トップページ&lt;/a&gt;から&lt;a href=&#34;https://players1.st/users/sign_up_confirm?from=blog&amp;amp;token=U9uHncad&#34;&gt;選手登録ボタン&lt;/a&gt;を押します。&lt;/p&gt;
+&lt;p&gt;すると、「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで登録する」というボタンがあります。これをクリックします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;326&#34; data-orig-height=&#34;128&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110758.png&#34; data-orig-width=&#34;326&#34; data-orig-height=&#34;128&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;に移動&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;のWebページが表示され、&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;が各データを受け取っていいかどうか同意を求めれますので、ログインボタンを押します。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;616&#34; data-orig-height=&#34;551&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110900.png&#34; data-orig-width=&#34;616&#34; data-orig-height=&#34;551&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;次に、&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;が&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;のタイムラインに書き込む際の公開範囲を設定します。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;541&#34; data-orig-height=&#34;461&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110428.png&#34; data-orig-width=&#34;541&#34; data-orig-height=&#34;461&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;デフォルトでは「友達」が選択されている状態かと思います。
+実際に&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;が勝手に&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;のタイムラインに書き込むことはありませんのでご安心ください。&lt;/p&gt;
+&lt;p&gt;不安な方は「自分のみ」を選択されることをおすすめします。&lt;/p&gt;
+&lt;p&gt;選択したらOKを押します。&lt;/p&gt;
+&lt;h2&gt;Players1stで追加情報を入力して完了&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;の画面に戻り情報変更画面が表示されます。そこにはすでに、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%D5%A5%A3%A1%BC%A5%EB%B2%E8%C1%FC&#34;&gt;プロフィール画像&lt;/a&gt;、プロフィール、活動拠点、出身地、出身校などの情報が入力されています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;904&#34; data-orig-height=&#34;1101&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110244.png&#34; data-orig-width=&#34;904&#34; data-orig-height=&#34;1101&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;918&#34; data-orig-height=&#34;870&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110749.png&#34; data-orig-width=&#34;918&#34; data-orig-height=&#34;870&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のみなさんは、「競技カテゴリー」「所属チーム」など大事な情報を入力しましょう。
+「身長」「体重」「血液型」も入力できるといいですね👍&lt;/p&gt;
+&lt;p&gt;最後に一番下の「Update」ボタンを押せば登録完了です🎊&lt;/p&gt;
+&lt;figure data-orig-width=&#34;118&#34; data-orig-height=&#34;67&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110326.png&#34; data-orig-width=&#34;118&#34; data-orig-height=&#34;67&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;いかがでしょう？&lt;/p&gt;
+&lt;p&gt;入力の手間がなくせてとても簡単でしたね😁&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントでログインする方法&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで作成した場合は、ログインも&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントで行います。&lt;/p&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/users/sign_in&#34;&gt;ログイン画面&lt;/a&gt;にアクセスすると、「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントでログイン」というボタンがあります。これをクリックします。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;384&#34; data-orig-height=&#34;167&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111313.png&#34; data-orig-width=&#34;384&#34; data-orig-height=&#34;167&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;すると、「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/Facebook&#34;&gt;Facebook&lt;/a&gt;アカウントによる認証に成功しました。」というメッセージが表示されて、ログインできます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;386&#34; data-orig-height=&#34;286&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110218.png&#34; data-orig-width=&#34;386&#34; data-orig-height=&#34;286&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;ワンクリックでログイン。本当に簡単です😆&lt;/p&gt;
+&lt;h2&gt;今後も便利な機能を開発中&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;では、このように選手やサポーターにとって使いやすい機能を日々開発しています。
+もし、わからないことがあったり、もっとこうしてほしいなどの要望があれば是非教えてください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://line.me/R/ti/p/%40fuq1261v&#34;&gt;Players1stのLINEアカウント&lt;/a&gt;もしくは&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;問い合わせフォーム&lt;/a&gt;どちらからでも受付けています。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するため、選手とサポーターを継続的につなげる課金PRサイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートやスポーツファンの方は、ぜひ🔗こちらからご登録ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up?from=layout-drawer&amp;amp;amp;amp;token=U9uHncad?from=blog&#34;&gt;選手登録&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/users/sign_up?from=blog&#34;&gt;サポーター登録&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;登録料・会費などはありません。 選手への支援への支払以外は無料でご利用できます。&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

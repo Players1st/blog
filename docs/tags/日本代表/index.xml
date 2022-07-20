@@ -1,34 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>日本代表 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8/</link>
-    <description>Recent content in 日本代表 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 14 Feb 2018 08:29:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト</title>
-      <link>https://blog.players1.st/2018/02/14/082904/</link>
-      <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2018/02/14/082904/</guid>
-      <description>Link: 「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト</description>
-    </item>
-    
-    <item>
-      <title> アスリートのクラウドスポンサー募集サービス「Players1st」が日本最高峰フットサルリーグ参戦クラブのペスカドーラ町田から選手個人スポンサー制度を委託。アスリートのさらなる環境改善に向けクラブと協力連携</title>
-      <link>https://blog.players1.st/2017/08/24/115942/</link>
-      <pubDate>Thu, 24 Aug 2017 11:59:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2017/08/24/115942/</guid>
-      <description>2017年8月24日
- 報道関係者各位 プレスリリース 株式会社プレイヤーズファースト</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>日本代表 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8/</link>
+        <description>Recent content in 日本代表 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Wed, 14 Feb 2018 08:29:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト</title>
+        <link>https://blog.players1.st/p/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89-%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E9%81%B8%E6%89%8B%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8-%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AB0-4%E3%81%A7%E6%95%97%E9%80%80-%E6%BA%96%E5%84%AA%E5%8B%9D%E3%81%A7%E5%A4%A7%E4%BC%9A%E3%82%92%E7%B5%82%E3%81%88%E3%82%8B-afc%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B%E6%A8%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%9A%E3%82%A42018-#jfa-%23daihyo%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB-players1st-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</link>
+        <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89-%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E9%81%B8%E6%89%8B%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8-%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AB0-4%E3%81%A7%E6%95%97%E9%80%80-%E6%BA%96%E5%84%AA%E5%8B%9D%E3%81%A7%E5%A4%A7%E4%BC%9A%E3%82%92%E7%B5%82%E3%81%88%E3%82%8B-afc%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B%E6%A8%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A4%E3%83%9A%E3%82%A42018-#jfa-%23daihyo%E5%AE%A4%E7%94%B0%E7%A5%90%E5%B8%8C-%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB-players1st-%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88/</guid>
+        <description>&lt;img src="https://blog.players1.st/images/logo-blog-image.png" alt="Featured image of post 「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト" /&gt;&lt;body&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://players1.st/posts/192&#34;&gt;「[メディア掲載] 室田祐希 選手「フットサル日本代表 イランに0-4で敗退 準優勝で大会を終える ～AFCフットサル選手権チャイニーズ・タイペイ2018～ #jfa #daihyo」」室田祐希 - フットサル | Players1st プレイヤーズファースト&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt; &amp;lt;p&amp;gt;メディア掲載情報&amp;lt;/p&amp;gt;
+ &lt;/pre&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        <item>
+        <title> アスリートのクラウドスポンサー募集サービス「Players1st」が日本最高峰フットサルリーグ参戦クラブのペスカドーラ町田から選手個人スポンサー制度を委託。アスリートのさらなる環境改善に向けクラブと協力連携</title>
+        <link>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E6%97%A5%E6%9C%AC%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%8F%82%E6%88%A6%E3%82%AF%E3%83%A9%E3%83%96%E3%81%AE%E3%83%9A%E3%82%B9%E3%82%AB%E3%83%89%E3%83%BC%E3%83%A9%E7%94%BA%E7%94%B0%E3%81%8B%E3%82%89%E9%81%B8%E6%89%8B%E5%80%8B%E4%BA%BA%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%88%B6%E5%BA%A6%E3%82%92%E5%A7%94%E8%A8%97%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%81%95%E3%82%89%E3%81%AA%E3%82%8B%E7%92%B0%E5%A2%83%E6%94%B9%E5%96%84%E3%81%AB%E5%90%91%E3%81%91%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A8%E5%8D%94%E5%8A%9B%E9%80%A3%E6%90%BA/</link>
+        <pubDate>Thu, 24 Aug 2017 11:59:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9players1st%E3%81%8C%E6%97%A5%E6%9C%AC%E6%9C%80%E9%AB%98%E5%B3%B0%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0%E5%8F%82%E6%88%A6%E3%82%AF%E3%83%A9%E3%83%96%E3%81%AE%E3%83%9A%E3%82%B9%E3%82%AB%E3%83%89%E3%83%BC%E3%83%A9%E7%94%BA%E7%94%B0%E3%81%8B%E3%82%89%E9%81%B8%E6%89%8B%E5%80%8B%E4%BA%BA%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%88%B6%E5%BA%A6%E3%82%92%E5%A7%94%E8%A8%97%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E3%81%95%E3%82%89%E3%81%AA%E3%82%8B%E7%92%B0%E5%A2%83%E6%94%B9%E5%96%84%E3%81%AB%E5%90%91%E3%81%91%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A8%E5%8D%94%E5%8A%9B%E9%80%A3%E6%90%BA/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110420.jpg" alt="Featured image of post  アスリートのクラウドスポンサー募集サービス「Players1st」が日本最高峰フットサルリーグ参戦クラブのペスカドーラ町田から選手個人スポンサー制度を委託。アスリートのさらなる環境改善に向けクラブと協力連携" /&gt;&lt;body&gt;
+&lt;p&gt;2017年8月24日&lt;/p&gt;
+&lt;p&gt;
+報道関係者各位
+&lt;br&gt;プレスリリース &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;株式会社プレイヤーズファースト&lt;br&gt;
+&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;&#34;&gt;株式会社プレイヤーズファースト（東京都世田谷区、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt; :
+深海寛信）が提供する、アスリートの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス「Players1st（プレイヤーズファースト）」が、日本最高峰フットサルリーグ「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;」の参戦クラブである&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;から選手個人スポンサー制度を外部委託されましたことを発表いたします。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;350&#34; data-orig-width=&#34;731&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110420.jpg&#34; data-orig-height=&#34;350&#34; data-orig-width=&#34;731&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;について &lt;br&gt;
+&lt;/h2&gt;
+&lt;figure data-orig-height=&#34;270&#34; data-orig-width=&#34;236&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111030.png&#34; data-orig-height=&#34;270&#34; data-orig-width=&#34;236&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;日本最高峰フットサルリーグの&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;に参戦するクラブであり、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C6%FC%CB%DC%C2%E5%C9%BD&#34;&gt;フットサル日本代表&lt;/a&gt;選手を数多く抱える強豪クラブです。昨シーズンの成績は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;2016/2017 3位、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/F%A5%EA%A1%BC%A5%B0&#34;&gt;Fリーグ&lt;/a&gt;2016/2017&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A1%BC%A5%AA%A5%D5&#34;&gt;プレーオフ&lt;/a&gt; 準優勝、第22回 &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C1%B4%C6%FC%CB%DC%A5%D5%A5%C3%A5%C8%A5%B5%A5%EB%C1%AA%BC%EA%B8%A2&#34;&gt;全日本フットサル選手権&lt;/a&gt; ベスト8です。 &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;選手個人スポンサー制度について&lt;/h2&gt;
+&lt;p&gt;
+通常のクラブに対するスポンサーと異なり、選手個人に対してスポンサーする制度になります。スポンサーへの特典内容は、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲームご招待などクラブと協力連携のもとに提供されます。Players1stのサイトから各選手のページもしくはスポンサー募集一覧からオンラインで申し込めます。支払い方法は、月額クレジットカードもしくはシーズン終了までの年間一括銀行振込に対応しています。具体的なスポンサーメニューと特典内容は以下となっています。&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;法人向け 21,600円/月 (1口)&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+御社ホームページにて「○○会社は○○選手を応援しています」等の告知が可能です。&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;オフィシャルウェブサイトに御社名をリンクにて記載させて頂きます。&lt;/li&gt;
+&lt;li&gt; &lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲームにご招待します。（１口につき年間招待席１枚）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;ご提案に応じて、選手と御社のつながりをアピールして頂くことができます。また、選手を応援するための様々なイベント、 企画をして頂くことが可能です。&lt;/li&gt;
+&lt;li&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;個人向け 5,400円/月 (1口) &lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;オフィシャルウェブサイトにお名前を記載させて頂きます。（ご希望の場合のみ） &lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲームにご招待します。（１口につき年間チケット「スタンド席」１枚）&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%DA%A5%B9%A5%AB%A5%C9%A1%BC%A5%E9%C4%AE%C5%C4&#34;&gt;ペスカドーラ町田&lt;/a&gt;のホームゲーム終了時に１F ロビーにて、契約選手との写真撮影が可能です。 &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;登録選手について&lt;/h2&gt;
+&lt;p&gt;
+現在の登録選手と選手ページは以下となります。&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;682&#34; data-orig-width=&#34;672&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110134.png&#34; data-orig-height=&#34;682&#34; data-orig-width=&#34;672&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;室田祐希 &lt;a href=&#34;https://players1.st/yuki-murota11&#34;&gt;https://players1.st/yuki-murota11&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;658&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110504.png&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;658&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt; 原辰介 &lt;a href=&#34;https://players1.st/Harashinsuke&#34;&gt;https://players1.st/Harashinsuke&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;730&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110539.png&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;730&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;中井健介 &lt;a href=&#34;https://players1.st/nakaikensuke&#34;&gt;https://players1.st/nakaikensuke&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;680&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111112.png&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;680&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;横江怜 &lt;a href=&#34;https://players1.st/leoyokoe&#34;&gt;https://players1.st/leoyokoe&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;684&#34; data-orig-width=&#34;694&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111024.png&#34; data-orig-height=&#34;684&#34; data-orig-width=&#34;694&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C6%FC%BA%AC%CC%EE&#34;&gt;日根野&lt;/a&gt;谷建 &lt;a href=&#34;https://players1.st/hinenoyaken&#34;&gt;https://players1.st/hinenoyaken&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;678&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110904.png&#34; data-orig-height=&#34;690&#34; data-orig-width=&#34;678&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;篠崎隆樹 &lt;a href=&#34;https://players1.st/ryukishinozaki&#34;&gt;https://players1.st/ryukishinozaki&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;686&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110628.png&#34; data-orig-height=&#34;678&#34; data-orig-width=&#34;686&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;伊藤圭汰 &lt;a href=&#34;https://players1.st/keita_ito&#34;&gt;https://players1.st/keita_ito&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;678&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110120.png&#34; data-orig-height=&#34;676&#34; data-orig-width=&#34;678&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;瀬戸真司 &lt;a href=&#34;https://players1.st/setoshinji&#34;&gt;https://players1.st/setoshinji&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p style=&#34;&#34;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;Players1stとは&lt;/h2&gt;
+&lt;p&gt;
+「Players1st」は、現役アスリートのためのスポンサー募集サービスです。PR・認知向上・ファン獲得・スポンサー獲得・セカンドキャリア支援など選手に必要な活動を総合的にサポートし、インターネット上で支援したい個人や企業を繋げます。ユーザー登録は無料です。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;アスリートのスポンサー募集サービス「Players1st」&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;https://players1.st&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;登録アスリートについて&lt;/h2&gt;
+&lt;p&gt;
+現在、日本代表フットサル選手、日本代表&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D3%A1%BC%A5%C1%A5%B5%A5%C3%A5%AB%A1%BC&#34;&gt;ビーチサッカー&lt;/a&gt;選手、&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A5%A4%A5%EB%A5%E9%A5%F3%A5%CB%A5%F3%A5%B0&#34;&gt;トレイルランニング&lt;/a&gt;国内第一人者の選手、オリンピック日本代表を目指す選手など国内トッ&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%D7%A5%EC%A5%D9&#34;&gt;プレベ&lt;/a&gt;ルのアスリートが利用しています。アスリートの登録はPlayers1stのサイトからいつでも行なえます。 &lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;会社概要 &lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;社名             株式会社プレイヤーズファースト&lt;br&gt;所在地         東京都世田谷区北烏山1-9-18&lt;br&gt;
+&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%C2%E5%C9%BD%BC%E8%C4%F9%CC%F2&#34;&gt;代表取締役&lt;/a&gt;  深海 寛信
+&lt;br&gt;設立             2016年3月23日
+&lt;br&gt;企業URL      &lt;a href=&#34;http://company.players1.st&#34;&gt;http://company.players1.st&lt;/a&gt;&lt;br&gt;
+事業内容      アスリートのスポンサー募集サービス「Players1st」の開発・運営&lt;/p&gt;
+&lt;b&gt;プレスキット&lt;/b&gt;&lt;br&gt;掲載画像よりも高解像度の写真・画像をお求めの場合、こちらよりダウンロードしてご活用ください。&lt;br&gt;&lt;a href=&#34;https://drive.google.com/open?id=0B_VrJS-a3nLpbUhzVmpJNDhyR0U&#34;&gt;https://drive.google.com/open?id=0B_VrJS-a3nLpbUhzVmpJNDhyR0U&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;本件に関するお問い合わせ先&lt;br&gt;&lt;/b&gt;株式会社プレイヤーズファースト担当 : 押田Mail : press@players1.st
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

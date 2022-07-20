@@ -1,24 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>投稿 on Players1st(プレイヤーズファースト) Blog</title>
-    <link>https://blog.players1.st/tags/%E6%8A%95%E7%A8%BF/</link>
-    <description>Recent content in 投稿 on Players1st(プレイヤーズファースト) Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Fri, 23 Sep 2016 17:45:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://blog.players1.st/tags/%E6%8A%95%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>選手マニュアル-ポストしよう</title>
-      <link>https://blog.players1.st/2016/09/23/174520/</link>
-      <pubDate>Fri, 23 Sep 2016 17:45:00 +0900</pubDate>
-      
-      <guid>https://blog.players1.st/2016/09/23/174520/</guid>
-      <description>Players1stの選手向けマニュアル、４回目は一番簡単でよく使う機能「ポスト」についてです。</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>投稿 on Players1st プレイヤーズファースト Blog</title>
+        <link>https://blog.players1.st/tags/%E6%8A%95%E7%A8%BF/</link>
+        <description>Recent content in 投稿 on Players1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Fri, 23 Sep 2016 17:45:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/%E6%8A%95%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>選手マニュアル-ポストしよう</title>
+        <link>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%9D%E3%82%B9%E3%83%88%E3%81%97%E3%82%88%E3%81%86/</link>
+        <pubDate>Fri, 23 Sep 2016 17:45:00 +0900</pubDate>
+        
+        <guid>https://blog.players1.st/p/%E9%81%B8%E6%89%8B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%9D%E3%82%B9%E3%83%88%E3%81%97%E3%82%88%E3%81%86/</guid>
+        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111038.png" alt="Featured image of post 選手マニュアル-ポストしよう" /&gt;&lt;body&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;の選手向けマニュアル、４回目は一番簡単でよく使う機能「&lt;b&gt;ポスト&lt;/b&gt;」についてです。&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;まず、&lt;a href=&#34;https://players1.st/&#34;&gt;Players1st&lt;/a&gt;にログインします。&lt;/p&gt;
+&lt;h2&gt;まずは新規ポスト画面へ&lt;/h2&gt;
+&lt;p&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1119&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111038.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1119&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;今回も仮のフィギュアスケート選手アカウントでご説明します。&lt;/p&gt;
+&lt;p&gt;このマイページを下に降りていくと、ポストのエリアがあります。&lt;br&gt;（もし、ログインしてマイページではなく、『最新情報』のページになっていたら、右上の三本線メニューから『マイページ』へ移動してください）&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;「＋新規追加」&lt;/b&gt;を押して、ポストを作りましょう☺&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1116&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110556.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1116&#34;&gt;&lt;/figure&gt;&lt;h2&gt;ポスト作成画面&lt;/h2&gt;
+&lt;p&gt;次の画面でポストの内容を作っていきます。&lt;br&gt;内容はこれだけです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;タイトル&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;内容&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;タグ&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;画像&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SNSの投稿と同じような感覚で入力できます👌&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111211.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1114&#34;&gt;&lt;/figure&gt;&lt;p&gt;タグは、スマートフォンからの場合は単語を入力して確定すれば自動的に区切りが入ります。&lt;br&gt;PCからは、&lt;b&gt;,（カンマ）&lt;/b&gt;で区切ってください。&lt;/p&gt;
+&lt;p&gt;同じタグをつけた記事とつながることができます。&lt;/p&gt;
+&lt;p&gt;たとえば、&lt;b&gt;「トレーニング」&lt;/b&gt;というタグを他のスポーツ選手が使っていた場合、そのタグを経由すると他ジャンルの選手のトレーニングに関わる記事が見られます。&lt;/p&gt;
+&lt;p&gt;その下のSNS連携がONになっていると、投稿と同時にSNSにもリンクがポストされます。&lt;/p&gt;
+&lt;p&gt;最後の&lt;b&gt;「登録」&lt;/b&gt;ボタンを押し忘れないようにしましょう！&lt;/p&gt;
+&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;649&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111020.png&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;649&#34;&gt;&lt;/figure&gt;&lt;p&gt;ポストすると、その結果を確認できます。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;500&#34; data-orig-height=&#34;1122&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111216.png&#34; alt=&#34;image&#34; data-orig-width=&#34;500&#34; data-orig-height=&#34;1122&#34;&gt;&lt;/figure&gt;&lt;p&gt;訂正があれば、下の&lt;b&gt;「変更する」&lt;/b&gt;から編集できます。&lt;/p&gt;
+&lt;p&gt;ポストの仕方はこれだけです！&lt;/p&gt;
+&lt;h2&gt;SNSにはこのように流れます&lt;/h2&gt;
+&lt;p&gt;上の仮選手はSNSにつながっていませんので、Players1stエバンジェリストの宮田義人選手の画面から引用させていただきます。&lt;/p&gt;
+&lt;p&gt;まず、投稿時のTwitter連携からはこのように流れています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;596&#34; data-orig-height=&#34;264&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110813.png&#34; alt=&#34;image&#34; data-orig-width=&#34;596&#34; data-orig-height=&#34;264&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のFacebookアカウントにも連携しているとこのように流れます。&lt;br&gt;（※これは別のイベントを投稿した際の画面です）&lt;/p&gt;
+&lt;figure data-orig-width=&#34;526&#34; data-orig-height=&#34;477&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823111103.png&#34; alt=&#34;image&#34; data-orig-width=&#34;526&#34; data-orig-height=&#34;477&#34;&gt;&lt;/figure&gt;&lt;p&gt;そして、&lt;a href=&#34;https://twitter.com/pys1st&#34;&gt;Players1stのTwitterアカウント&lt;/a&gt;からも、ポストを紹介するツイートを流しています。&lt;/p&gt;
+&lt;p&gt;こちらはポストやイベントを作成してから１営業日以内に、よく人がSNSを見る時間帯を狙って投稿しています。&lt;/p&gt;
+&lt;figure data-orig-width=&#34;593&#34; data-orig-height=&#34;407&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110732.png&#34; alt=&#34;image&#34; data-orig-width=&#34;593&#34; data-orig-height=&#34;407&#34;&gt;&lt;/figure&gt;&lt;p&gt;同時に&lt;a href=&#34;https://www.facebook.com/players1st.web/?fref=ts&#34;&gt;Facebookページ&lt;/a&gt;でも拡散！&lt;/p&gt;
+&lt;figure data-orig-width=&#34;515&#34; data-orig-height=&#34;566&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110115.png&#34; alt=&#34;image&#34; data-orig-width=&#34;515&#34; data-orig-height=&#34;566&#34;&gt;&lt;/figure&gt;&lt;p&gt;選手のサポーター、フォロワーだけではなく、Players1stのフォロワー、提携メディアへも情報を拡散します。&lt;/p&gt;
+&lt;p&gt;そうして、このトレーニングマッチのポストは公開後３日間で２２０回近く読まれています🎉&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;なにをポストしたらいい？&lt;/h2&gt;
+&lt;p&gt;「やり方は見たらわかるのだけど、どんな内容を書いたらいいのかわからない😕」&lt;br&gt;という選手もおられるかと思います。&lt;/p&gt;
+&lt;p&gt;あなたがスポーツにかかわっている限りは、どんなことでもいいのです👌&lt;/p&gt;
+&lt;p&gt;例として細かく切り出してみましょう。&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;何時に寝て何時に起きている？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;大舞台の前にすることは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;食べ物で気を付けていることは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;日々の練習メニューは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;特別な練習は？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;体のメンテナンスは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;今日、気持ちよかった瞬間は？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;チームメイト、ライバルとの関係は？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;家族は、あなたのスポーツ生活にどんな言葉を？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;どうしてそのスポーツと出会ったのか？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;そのスポーツにのめり込んだターニングポイントは？&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;地域のイベント参加は？&lt;/li&gt;
+&lt;li&gt;どんな子どもだった？&lt;/li&gt;
+&lt;li&gt;こだわりのアイテムはある？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Players1stでは、ウェイトリフティングの&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://players1.st/naoichiro&#34;&gt;大塩直一郎&lt;/a&gt;選手が、切り出し方がとてもうまいですね👍&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/posts/1&#34;&gt;4年後の自分 - Players1st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://players1.st/posts/2&#34;&gt;完全栄養食品 - Players1st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://players1.st/posts/3&#34;&gt;三井温熱療法 - Players1st&lt;/a&gt; &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;長い文章は必要ありません。&lt;/p&gt;
+&lt;p&gt;小さく少しずつでもポストを続けるうちに、あなたの人物像やそのスポーツの魅力が伝わり、興味を持った人がファンに、もともとファンだった人はさらなる支援者になるでしょう。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;スポーツ選手であるあなたの日常は、応援したいわたしたちの非日常です。&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ほんの一握りのスポーツ選手であるあなたの日常を、少しだけ見せてみてください☺&lt;/p&gt;
+&lt;p&gt;では、&lt;a href=&#34;https://players1.st/posts/new&#34;&gt;まずはここから投稿してみましょう！&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F&amp;amp;t=N2NkZGQ0OGRkYzAwOWM2ZDlmOTA4MmZhNGUyODE5MWViNGZmMmYxYSxzTkNTa0lKRg%3D%3D&#34;&gt;Players1st&lt;/a&gt; は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげる課金可能なPR・活動報告サイトを運営しています。&lt;/p&gt;
+&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われた選手は &lt;a href=&#34;http://t.umblr.com/redirect?z=https%3A%2F%2Fplayers1.st%2F%23form&amp;amp;t=N2QyNWZlNTY1ZTBjNWUyMTM2ODE0M2JkYTk3MjMyYWYzOTBjMjdhNyxmQUE5MmMweQ%3D%3D&#34;&gt;選手登録申請フォーム&lt;/a&gt; から申請して下さい。 審査後、承認された場合は登録用アドレスをお送りします。&lt;/p&gt;
+&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;/body&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
