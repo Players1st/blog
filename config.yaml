@@ -1,9 +1,9 @@
+# Don't change the following params
 baseurl: https://blog.players1.st/
 publishDir: docs
 title: Players1st プレイヤーズファースト Blog
 theme: hugo-theme-stack
 languageCode: ja-jp
-
 googleAnalytics: UA-73836462-6
 
 paginate: 5
@@ -37,7 +37,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: images/favicon.png
+    favicon: images/favicon.ico
 
     footer:
         since:
@@ -53,7 +53,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/logo_post_square.png
+            src: img/logo_square_big.png
 
     article:
         math: false
