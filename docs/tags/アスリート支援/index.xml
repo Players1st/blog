@@ -158,14 +158,13 @@ Players1stが受け取った資金から手数料を引いた上で該当選手�
 </description>
         </item>
         <item>
-        <title>スポンサー限定ポストができるようになりました</title>
+        <title>スポンサー限定ポストの作り方</title>
         <link>https://blog.players1.st/2018/05/17/093047/</link>
         <pubDate>Thu, 17 May 2018 09:30:00 +0900</pubDate>
         
         <guid>https://blog.players1.st/2018/05/17/093047/</guid>
-        <description>&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110535.png" alt="Featured image of post スポンサー限定ポストができるようになりました" /&gt;&lt;body&gt;
+        <description>&lt;img src="https://blog.players1.st/images/20221010/20180517_only_sponosr_post_thumbnail.png" alt="Featured image of post スポンサー限定ポストの作り方" /&gt;&lt;body&gt;
 &lt;p&gt;アスリートを支える機能をまた1つリリースしました！スポンサー限定ポスト機能です。&lt;/p&gt;
-&lt;p&gt;&lt;figure data-orig-width=&#34;192&#34; data-orig-height=&#34;192&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110535.png&#34; data-orig-width=&#34;192&#34; data-orig-height=&#34;192&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;使い方は簡単&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;作り方&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;ポスト作成画面に公開範囲を選択する項目が追加されています。
@@ -174,26 +173,43 @@ Players1stが受け取った資金から手数料を引いた上で該当選手�
 &lt;p&gt;操作はこれだけです。&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;見え方&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;スポンサーになっていない方からはこんなふうに見えます。&lt;/p&gt;
-&lt;figure data-orig-width=&#34;517&#34; data-orig-height=&#34;329&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/d/d_sea/20180823/20180823110157.png&#34; data-orig-width=&#34;517&#34; data-orig-height=&#34;329&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;p&gt;タイトルのみ表示され、内容は隠されています。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.players1.st/images/20221010/20221010_screenshot_only_sponsor_post.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;スポンサー限定ポスト&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;タイトルのみ表示され、内容は隠されています。&lt;/p&gt;
 &lt;p&gt;スポンサーになっている方は内容が表示され読めるようになります。&lt;/p&gt;
-&lt;p&gt;アスリートがスポンサー募集を複数作成している場合、どれか1つでも申し込みをされていれば、スポンサー限定ポストは見れます。&lt;/p&gt;
+&lt;p&gt;対象の選手のスポンサー募集に申し込みをされていれば、スポンサー限定ポストは見れます。&lt;/p&gt;
 &lt;h2&gt;こんな使い方ができます&lt;/h2&gt;
-&lt;p&gt;スポンサー限定ポストは、スポンサー特典を増やしてスポンサーの方々との継続性を高めるだけでなく、「限定ポスト見てみたい！」と思う新たなスポンサーを増やすための機能になります。&lt;/p&gt;
-&lt;p&gt;スポンサーにだけに特別な情報を届けることができます🔏&lt;/p&gt;
+&lt;h3 id=&#34;既存スポンサーに対して&#34;&gt;既存スポンサーに対して&lt;/h3&gt;
+&lt;p&gt;スポンサー限定ポストは、スポンサー特典の一つとしてスポンサーの継続性を高めるツールになります。&lt;/p&gt;
+&lt;p&gt;スポンサーの継続は毎月の資金提供の継続に直結しますので、非常に重要な点です。&lt;/p&gt;
+&lt;h3 id=&#34;新規スポンサーに対して&#34;&gt;新規スポンサーに対して&lt;/h3&gt;
+&lt;p&gt;スポンサー特典の一つではありますが、実は新規スポンサー獲得にもとても役に立ちます。&lt;/p&gt;
+&lt;p&gt;「限定ポスト見てみたい！」と思う新たなスポンサーを増やすためのアピール機能になります。&lt;/p&gt;
+&lt;p&gt;「まだ、スポンサーがいないからスポンサー限定ポストしない」ではなく、スポンサーがいないからこそスポンサー限定ポストを積極的に投稿しましょう。&lt;/p&gt;
+&lt;h3 id=&#34;どんな内容が良い&#34;&gt;どんな内容が良い？&lt;/h3&gt;
 &lt;p&gt;ポストは画像や動画もアップできますので、ちょっとプライベートなものや少しマニアックな内容もファンには喜ばれるのではないでしょうか。&lt;/p&gt;
 &lt;p&gt;例えば、オフショットの写真、普段見せないトレーニング方法、短い動画メッセージ、試合のレビュー・分析などなど。&lt;/p&gt;
+&lt;p&gt;特に終わった試合のレビューは、出場していた選手本人だけの視点で貴重なコンテンツになります。
+長く書く必要はなく、気になったポイントを1つ2つ書くだけで大丈夫です。&lt;/p&gt;
 &lt;p&gt;限定コンテンツを用意するのが難しいというアスリートは、普段行っていて公開していないものを出すだけでもファンにとっては貴重なコンテンツになりますので、まずは1つスポンサー限定ポストを作成してみましょう！&lt;/p&gt;
-&lt;p&gt;スポンサー募集の特典の1つとして是非活用ください！&lt;/p&gt;
-&lt;h2&gt;フィードバック募集中&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;Players1st&lt;/a&gt;はこれからもよりアスリートが支援を受けやすくなるような機能を提供していきます。&lt;/p&gt;
-&lt;p&gt;「こんな機能欲しい」「こんな使い方できないの？」などありましたら是非、&lt;a href=&#34;https://players1.st/feedbacks/new&#34;&gt;お問い合せ・ご要望フォーム&lt;/a&gt;にお寄せください。&lt;/p&gt;
-&lt;p&gt;ユーザーの皆さんと一緒にサービスを良くして成長していければと思っています😊&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;https://players1.st&#34;&gt;Players1st&lt;/a&gt;は、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するための「&lt;a class=&#34;keyword&#34; href=&#34;http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9&#34;&gt;クラウド&lt;/a&gt;スポンサー募集サービス」を運営しています。&lt;/p&gt;
+&lt;p&gt;Players1stは、「スポーツの力で世の中をより良くする」をミッションにアスリートのみなさんの経済的課題を解決するためのアスリートファンディングサイトを運営しています。&lt;/p&gt;
 &lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
-&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひ&lt;a href=&#34;https://players1.st/users/sign_up_confirm?token=U9uHncad&#34;&gt;こちら&lt;/a&gt;からご登録ください。&lt;/p&gt;
-&lt;p&gt;登録料・会費などはありません。無料でご利用できます。&lt;/p&gt;
-&lt;/body&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われたアスリートの方は、ぜひこちらからご登録ください。
+初期費無料・月額無料からご利用できます。&lt;/p&gt;
+&lt;a href=&#34;https://players1.st/&#34;&gt;
+  &lt;div class=&#34;primary-button&#34;&gt;
+    Players1stをはじめてみる
+  &lt;/div&gt;
+&lt;/a&gt;
 </description>
         </item>
         
