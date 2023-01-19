@@ -25,9 +25,28 @@ DefaultContentLanguage: ja
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
+# auto lastmod by git commit date
+enableGitInfo: true
+
 permalinks:
     post: /:year/:month/:day/:filename/
     page: /:filename/
+
+
+
+frontmatter:
+    date:
+        - date
+        - publishDate
+        - lastmod
+    lastmod:
+        - lastmod
+        - :git
+        - date
+        - publishDate
+    publishDate:
+        - publishDate
+        - date
 
 params:
     mainSections:
