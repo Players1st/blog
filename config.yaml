@@ -53,7 +53,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: images/favicon.ico
+    favicon: images/favicon/favicon.ico
 
     footer:
         since:
