@@ -1,7 +1,7 @@
 # Don't change the following params
 baseurl: https://blog.players1.st/
 publishDir: docs
-title: Players1st プレイヤーズファースト Blog
+title: P1st プレイヤーズファースト Blog
 theme: hugo-theme-stack
 languageCode: ja-jp
 googleAnalytics: UA-73836462-6
@@ -11,7 +11,7 @@ paginate: 5
 languages:
     ja:
         languageName: 日本語
-        title: Players1st プレイヤーズファースト Blog
+        title: P1st プレイヤーズファースト Blog
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -25,16 +25,35 @@ DefaultContentLanguage: ja
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
+# auto lastmod by git commit date
+enableGitInfo: true
+
 permalinks:
     post: /:year/:month/:day/:filename/
     page: /:filename/
+
+
+
+frontmatter:
+    date:
+        - date
+        - publishDate
+        - lastmod
+    lastmod:
+        - lastmod
+        - :git
+        - date
+        - publishDate
+    publishDate:
+        - publishDate
+        - date
 
 params:
     mainSections:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: images/favicon.ico
+    favicon: images/favicon/favicon.ico
 
     footer:
         since:
@@ -46,11 +65,11 @@ params:
 
     sidebar:
         emoji:
-        subtitle: アスリート・クラブチームのための月額スポンサー募集サイト 選手活動に必要な資金を継続的に得ることができます
+        subtitle: 個人の可能性をぐっと引き上げるパーソナルファンディングサービス。月額スポンサー募集によって活動に必要な資金を継続的に得ることができます。
         avatar:
             enabled: true
             local: true
-            src: img/logo_square_big.png
+            src: img/logo_avatar.png
 
     article:
         math: false

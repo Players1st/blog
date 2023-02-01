@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>twitter on Players1st プレイヤーズファースト Blog</title>
+        <title>twitter on P1st プレイヤーズファースト Blog</title>
         <link>https://blog.players1.st/tags/twitter/</link>
-        <description>Recent content in twitter on Players1st プレイヤーズファースト Blog</description>
+        <description>Recent content in twitter on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
         <lastBuildDate>Fri, 26 Aug 2016 17:01:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/tags/twitter/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -14,36 +14,36 @@
         <guid>https://blog.players1.st/2016/08/26/170113/</guid>
         <description>&lt;img src="https://blog.players1.st/images/20160826/20220907_SNS_linked_thumbnail.png" alt="Featured image of post SNS連携の方法" /&gt;&lt;p&gt;インターネット上でのPRに欠かせないSNS(ソーシャル・ネットワーキング・サービス）、ご自身でTwitter, Instagram, Facebookなどを利用している方も多いのではないでしょうか？&lt;/p&gt;
 &lt;p&gt;今回は、&lt;a class=&#34;link&#34; href=&#34;https://players1.st&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Players1st&lt;/a&gt; とTwitterの連携について説明します。&lt;/p&gt;
-&lt;p&gt;連携しておくと、Players1stに投稿しただけで、自動的にTwitterに投稿したページのURLを含んだツイートを投稿します。いちいちシェアしなくてもいいので、楽になりますよ👍&lt;/p&gt;
+    &gt;P1st&lt;/a&gt; とTwitterの連携について説明します。&lt;/p&gt;
+&lt;p&gt;連携しておくと、P1stに投稿しただけで、自動的にTwitterに投稿したページのURLを含んだツイートを投稿します。いちいちシェアしなくてもいいので、楽になりますよ👍&lt;/p&gt;
 &lt;p&gt;なお、すでにTwitterのアカウントをお持ちの方向けの説明です。
 まだの方は、メールアドレスとパスワードを入力するだけでTwitterアカウントが作成できますので、是非始めましょう。&lt;/p&gt;
 &lt;h1 id=&#34;snsシェアのメリット&#34;&gt;SNSシェアのメリット&lt;/h1&gt;
-&lt;p&gt;今までの傾向で、スポンサー募集開始時にすぐ申込をしていただける方は、選手のSNSフォロワーであることが分かっています。&lt;/p&gt;
-&lt;p&gt;選手のSNSフォロワーは、選手のことを知りたいと思うファンであるため、スポンサーになっていただける可能性が非常に高いのです。&lt;/p&gt;
+&lt;p&gt;今までの傾向で、スポンサー募集開始時にすぐ申込をしていただける方は、SNSフォロワーであることが分かっています。&lt;/p&gt;
+&lt;p&gt;SNSフォロワーは、プレイヤーのことを知りたいと思うファンであるため、スポンサーになっていただける可能性が非常に高いのです。&lt;/p&gt;
 &lt;p&gt;また、&lt;a class=&#34;link&#34; href=&#34;https://players1.st&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Players1st&lt;/a&gt;はインターネットを使ったサービスですので、&lt;/p&gt;
+    &gt;P1st&lt;/a&gt;はインターネットを使ったサービスですので、&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;SNSでファンになっている選手がスポンサー募集していることを知る&lt;/li&gt;
+&lt;li&gt;SNSでファンになっているプレイヤーがスポンサー募集していることを知る&lt;/li&gt;
 &lt;li&gt;SNSに掲載してあるリンクをクリック&lt;/li&gt;
-&lt;li&gt;Players1st にてスポンサー募集を確認&lt;/li&gt;
+&lt;li&gt;P1st にてスポンサー募集を確認&lt;/li&gt;
 &lt;li&gt;申込(支払)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;という流れがスムーズに行われます。
 実際、募集開始後、SNS経由で数時間以内に複数の申込があります。&lt;/p&gt;
-&lt;p&gt;それだけ選手のSNSフォロワーにお知らせすることはスポンサー獲得に非常に有効です。&lt;/p&gt;
+&lt;p&gt;それだけSNSフォロワーにお知らせすることはスポンサー獲得に非常に有効です。&lt;/p&gt;
 &lt;p&gt;SNSシェアによって重要なフォロワーに常にお知らせすることで、継続的な支援を得やすくできます。&lt;/p&gt;
 &lt;h1 id=&#34;twitter連携の仕方&#34;&gt;Twitter連携の仕方&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://players1.st&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Players1st&lt;/a&gt;にログインします&lt;/li&gt;
+    &gt;P1st&lt;/a&gt;にログインします&lt;/li&gt;
 &lt;li&gt;右上の三本線メニューから、「設定」へ進みます&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;「Twitter連携」のメニューがあります。&lt;/p&gt;
 &lt;p&gt;最初は設定されていませんので、「リンクされていません」という表示がされています。&lt;/p&gt;
 &lt;p&gt;「連携する」ボタンを押します。&lt;/p&gt;
 &lt;p&gt;スマートフォンであれば、どのアプリから開くかを選ぶ画面になるので、普段Twitterを使っているアプリを選びます。&lt;/p&gt;
-&lt;p&gt;Players1stに連携する許可をする画面になるので、「連携アプリを認証」を押します。&lt;/p&gt;
+&lt;p&gt;P1stに連携する許可をする画面になるので、「連携アプリを認証」を押します。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://blog.players1.st/images/20160826/20220907_screenshot_twitter_auth.png&#34;
 	
 	
@@ -92,16 +92,14 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;Players1stを使って、サポーターの方々に随時情報を届けて応援してもらいましょう！&lt;/p&gt;
+&lt;p&gt;P1stを使って、サポーターの方々に随時情報を届けて応援してもらいましょう！&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Players1st は、「スポーツの力で世の中をより良くする」をミッションに選手のみなさんの経済的課題を解決するため、選手とサポーター・企業を継続的につなげるアスリートファンディングサイトを運営しています。&lt;/p&gt;
-&lt;p&gt;「スポーツを支える」力になりたい。そんな思いでチームは日々開発しています。&lt;/p&gt;
-&lt;p&gt;まだ登録していないけど使ってみたい！と思われた選手は &lt;a class=&#34;link&#34; href=&#34;https://players1.st&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Players1st&lt;/a&gt; にアクセスしてみてください。&lt;/p&gt;
-&lt;p&gt;選手のみなさんの申請お待ちしております！&lt;/p&gt;
+&lt;p&gt;まだ登録していないけど使ってみたい！と思われた方は &lt;a class=&#34;link&#34; href=&#34;https://players1.st&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;P1st&lt;/a&gt; にアクセスしてみてください。&lt;/p&gt;
+&lt;p&gt;みなさんの登録をお待ちしております！&lt;/p&gt;
 &lt;a href=&#34;https://players1.st/&#34;&gt;
   &lt;div class=&#34;primary-button&#34;&gt;
-    Players1stをはじめてみる
+    P1stをはじめてみる
   &lt;/div&gt;
 &lt;/a&gt;
 </description>
