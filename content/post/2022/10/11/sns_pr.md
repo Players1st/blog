@@ -127,10 +127,10 @@ Instagramの投稿にリンクが貼れないため、[P1st][p1st_site]のペー
 まだ登録していないけど使ってみたい！と思われた方は、ぜひこちらからご登録ください。
 初期費無料・月額無料からご利用できます。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app

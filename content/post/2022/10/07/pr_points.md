@@ -62,7 +62,7 @@ SNSよりも近いスポンサーのコミュニティが1つ自分の周りに�
 
 支援を集めるために重要な要素の「スポンサー募集の金額」。スポンサー募集の金額の設定の際に、必ずおさえておきたい"3つの視点"について解説しています。
 
-<a href="https://blog.players1.st/2022/09/07/know-how-proposal-price/">
+<a href="https://blog.p1st.app/2022/09/07/know-how-proposal-price/">
   <div class="primary-button">
   ✍️「スポンサー募集の金額の設定でおさえたい3つの視点」
   </div>
@@ -71,7 +71,7 @@ SNSよりも近いスポンサーのコミュニティが1つ自分の周りに�
 
 資金調達の成功において特に重要になる「特典」を提供する際の5つのポイントと3つの注意点をご紹介しています。
 
-<a href="https://blog.players1.st/2022/09/08/know-how-proposal-content/">
+<a href="https://blog.p1st.app/2022/09/08/know-how-proposal-content/">
   <div class="primary-button">
     ✍️「魅力的な特典を提供するための5つのポイントと注意点」
   </div>
@@ -100,7 +100,7 @@ SNSよりも近いスポンサーのコミュニティが1つ自分の周りに�
 
 大変重要なプロフィールページですが、どのように書けば魅力的になるか悩ましいと思います。以下の記事が参考になります。是非ご覧ください。
 
-<a href="https://blog.players1.st/2016/08/17/103022/">
+<a href="https://blog.p1st.app/2016/08/17/103022/">
   <div class="primary-button">
     ✍️「魅力的なプロフィールページの作り方」
   </div>
@@ -136,7 +136,7 @@ SNSは身近なファンにお知らせするのに最適なツールです。�
 
 また、以下の記事で便利なSNS連携やSNSシェアの案内しています。
 
-<a href="https://blog.players1.st/2016/08/26/170113/">
+<a href="https://blog.p1st.app/2016/08/26/170113/">
   <div class="primary-button">
     ✍️「SNS連携の方法」
   </div>
@@ -186,7 +186,7 @@ P1stの中にはポストという簡易ブログのような機能がありま�
 
 ポストの作り方は以下の記事で案内しています。
 
-<a href="https://blog.players1.st/2016/09/23/174520/">
+<a href="https://blog.p1st.app/2016/09/23/174520/">
   <div class="primary-button">
     ✍️「ポストの作り方」
   </div>
@@ -196,7 +196,7 @@ P1stの中にはポストという簡易ブログのような機能がありま�
 
 スポンサーにだけに特別なコンテンツを提供することで、既存スポンサーの継続、新規スポンサー獲得につながります。スポンサー限定ポストについては以下の記事で説明しています。
 
-<a href="https://blog.players1.st/2018/05/17/093047/">
+<a href="https://blog.p1st.app/2018/05/17/093047/">
   <div class="primary-button">
     ✍️「スポンサー限定ポストの作り方」
   </div>
@@ -230,17 +230,17 @@ P1st公式アカウント
 お勧めしている内容は既にスポンサー獲得に成功しているプレイヤーの事例に基づいています。
 是非ポイントを学んで実践していただき継続的な資金調達を成功していただきたいと思います。
 
-また、実践する際に何かわからない点や相談などありましたら、[サポートまでお問い合わせくださいませ](https://players1.st/feedbacks/new)。
+また、実践する際に何かわからない点や相談などありましたら、[サポートまでお問い合わせくださいませ](https://p1st.app/feedbacks/new)。
 
 <hr>
 
 まだ登録していないけど使ってみたい！と思われた方は、ぜひこちらからご登録ください。
 初期費無料・月額無料からご利用できます。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app

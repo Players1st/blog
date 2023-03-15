@@ -64,7 +64,7 @@ type: post
 
 もし登録条件を満たしているか不安に思われたり判断に迷われた場合は、登録前にサポートまでお問い合わせください。
 
-[お問い合わせページ](https://players1.st/feedbacks/new)
+[お問い合わせページ](https://p1st.app/feedbacks/new)
 
 ## プレイヤーアカウントの登録条件
 
@@ -89,7 +89,7 @@ type: post
 
 [P1st][p1st_site]から「アカウント登録」ボタンを押すとアカウント登録ページが表示されます。
 
-アカウント登録ページ https://players1.st/sign_up
+アカウント登録ページ https://p1st.app/sign_up
 
 ![アカウント登録](/images/20220905/20220905_screenshot_sign_up.png)
 
@@ -117,7 +117,7 @@ type: post
 
 マイページ名についてですが、これは公開されるプロフィールページのURL(アドレス)になります。
 
-`https://players1.st/(マイページ名)`
+`https://p1st.app/(マイページ名)`
 
 カッコ内がマイページ名として指定できます。
 
@@ -135,10 +135,10 @@ type: post
 
 アカウント登録はスポンサー募集作成前に必要な最初のステップです。手順を確認しながらアカウント登録をしましょう。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app

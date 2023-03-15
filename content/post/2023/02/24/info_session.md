@@ -51,7 +51,7 @@ type: post
 
 サービス提供サイト
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1st プレイヤーズファースト
   </div>
@@ -59,7 +59,7 @@ type: post
 
 パーソナルファンディングのノウハウを無料で学べる
 
-<a href="https://players1.st/academy">
+<a href="https://p1st.app/academy">
   <div class="primary-button">
     プレイヤーズアカデミー
   </div>
@@ -67,7 +67,7 @@ type: post
 
 お問い合わせ前にチェック
 
-<a href="https://players1.st/faq">
+<a href="https://p1st.app/faq">
   <div class="primary-button">
     よくある質問
   </div>
@@ -77,7 +77,7 @@ type: post
 
 説明会を受けて、登録しようと思ったらこちらからどうぞ👇
 
-<a href="https://players1.st/sign_up">
+<a href="https://p1st.app/sign_up">
   <div class="primary-button">
     アカウント登録
   </div>
@@ -87,7 +87,7 @@ type: post
 
 利用に関して相談したいことがある場合は、こちらからお送りください👇
 
-<a href="https://players1.st/feedbacks/new">
+<a href="https://p1st.app/feedbacks/new">
   <div class="primary-button">
     お問い合わせ
   </div>
@@ -105,4 +105,4 @@ type: post
 [![P1st](images/logo.png)][p1st_site]
 
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app

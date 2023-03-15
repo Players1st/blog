@@ -100,7 +100,7 @@ type: post
 ワンクリックで作成できるスポンサー募集については以下の記事をご覧ください。
 
 「ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう」
-https://blog.players1.st/2018/09/27/500sponsor/
+https://blog.p1st.app/2018/09/27/500sponsor/
 
 # まとめ
 
@@ -111,10 +111,10 @@ https://blog.players1.st/2018/09/27/500sponsor/
 
 上記のまとめを活用して、ファンが申込みやすいスポンサー募集を作成してみましょう！
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app

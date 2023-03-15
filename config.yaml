@@ -1,5 +1,5 @@
 # Don't change the following params
-baseurl: https://blog.players1.st/
+baseurl: https://blog.p1st.app/
 publishDir: docs
 title: P1st プレイヤーズファースト Blog
 theme: hugo-theme-stack
@@ -210,13 +210,13 @@ menu:
 
         - identifier: link
           name: 2_Players1st
-          url: https://players1.st
+          url: https://p1st.app
           params:
               icon: link
 
         - identifier: rss
           name: 3_RSS
-          url: https://blog.players1.st/index.xml
+          url: https://blog.p1st.app/index.xml
           params:
               icon: rss
 

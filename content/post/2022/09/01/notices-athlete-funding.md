@@ -46,7 +46,7 @@ type: post
 
 「**今を活躍する人たちがまとまっている場所**」としても、パーソナルファンディングを活用することが可能です。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
@@ -93,10 +93,10 @@ type: post
 
 パーソナルファンディングの特性および注意点を踏まえた上で、うまく活用していきましょう。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app
