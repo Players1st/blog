@@ -32,7 +32,7 @@ P1stでは、月額スポンサーに申し込みいただいた支援者を「�
 
 スポンサー募集の金額の設定については、以下の記事を御覧ください。
 
-<a href="https://blog.players1.st/2022/09/07/know-how-proposal-price/">
+<a href="https://blog.p1st.app/2022/09/07/know-how-proposal-price/">
   <div class="primary-button">
   ✍️「スポンサー募集の金額の設定でおさえたい3つの視点」
   </div>
@@ -86,7 +86,7 @@ P1stでは、月額スポンサーに申し込みいただいた支援者を「�
 
 実際に、「限定xxx名のみ提供」や「スポンサー口数の多い順3名の方に」「マンツーマンのオンライン通話」「シーズン終了後にシーズン報告に直接伺わせていただきます。」などが設定されています。
 
-<a href="https://players1.st/proposals?sort=higher">
+<a href="https://p1st.app/proposals?sort=higher">
   <div class="primary-button">
   スポンサー募集一覧
   </div>
@@ -114,7 +114,7 @@ P1stでは、月額スポンサーに申し込みいただいた支援者を「�
 
 ワンクリックで作成するスポンサー募集については以下の記事をご覧ください。
 
-<a href="https://blog.players1.st/2018/09/27/500sponsor/">
+<a href="https://blog.p1st.app/2018/09/27/500sponsor/">
   <div class="primary-button">
   ✍️「ワンクリックでできて効果が高い↗️月額スポンサー募集を作ってみましょう」
   </div>
@@ -175,7 +175,7 @@ P1stでは、月額スポンサーに申し込みいただいた支援者を「�
 
 数多くの選手が作成していますので、一度、スポンサー募集一覧を見ていただくことをお勧めします。
 
-<a href="https://players1.st/proposals">
+<a href="https://p1st.app/proposals">
   <div class="primary-button">
   スポンサー募集一覧
   </div>
@@ -183,10 +183,10 @@ P1stでは、月額スポンサーに申し込みいただいた支援者を「�
 
 申込の多い順に見ることも可能ですので、是非参考にしてみてください。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app

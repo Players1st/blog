@@ -23,7 +23,7 @@ type: post
 
 海外では、Patreonが少額の月額をファンが支払う、パーソナルファンディングのサービスが定着しています。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
@@ -61,7 +61,7 @@ type: post
 
 ![サービス比較表](images/20220831/20220831_compare_services-2-1.png)
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
@@ -136,12 +136,12 @@ type: post
 
 また、出身地などの場所や出身校などでプレイヤー一覧から検索してみると、今まで知らなかったプレイヤーを見つけられるかもしれません。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app
 [source1]: https://camp-fire.jp/academy/articles/article-1

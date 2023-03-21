@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on P1st プレイヤーズファースト Blog</title>
-        <link>https://blog.players1.st/categories/</link>
+        <link>https://blog.p1st.app/categories/</link>
         <description>Recent content in Categories on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Fri, 17 Mar 2023 15:00:00 +0900</lastBuildDate><atom:link href="https://blog.players1.st/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Mar 2023 15:00:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>お知らせ</title>
-        <link>https://blog.players1.st/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <link>https://blog.p1st.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
         <pubDate>Fri, 17 Mar 2023 15:00:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <guid>https://blog.p1st.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
         <description></description>
         </item>
         <item>
         <title>基礎知識</title>
-        <link>https://blog.players1.st/categories/%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</link>
+        <link>https://blog.p1st.app/categories/%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</link>
         <pubDate>Fri, 24 Feb 2023 16:00:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</guid>
+        <guid>https://blog.p1st.app/categories/%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</guid>
         <description></description>
         </item>
         <item>
         <title>実践ノウハウ</title>
-        <link>https://blog.players1.st/categories/%E5%AE%9F%E8%B7%B5%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6/</link>
+        <link>https://blog.p1st.app/categories/%E5%AE%9F%E8%B7%B5%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6/</link>
         <pubDate>Tue, 11 Oct 2022 08:40:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E5%AE%9F%E8%B7%B5%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6/</guid>
+        <guid>https://blog.p1st.app/categories/%E5%AE%9F%E8%B7%B5%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6/</guid>
         <description></description>
         </item>
         <item>
         <title>マニュアル</title>
-        <link>https://blog.players1.st/categories/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
+        <link>https://blog.p1st.app/categories/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
         <pubDate>Mon, 05 Sep 2022 17:00:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</guid>
+        <guid>https://blog.p1st.app/categories/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</guid>
         <description></description>
         </item>
         <item>
         <title>プレスリリース</title>
-        <link>https://blog.players1.st/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
+        <link>https://blog.p1st.app/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
         <pubDate>Mon, 11 May 2020 09:58:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid>
+        <guid>https://blog.p1st.app/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid>
         <description></description>
         </item>
         <item>
         <title>新機能</title>
-        <link>https://blog.players1.st/categories/%E6%96%B0%E6%A9%9F%E8%83%BD/</link>
+        <link>https://blog.p1st.app/categories/%E6%96%B0%E6%A9%9F%E8%83%BD/</link>
         <pubDate>Mon, 15 Jul 2019 09:34:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E6%96%B0%E6%A9%9F%E8%83%BD/</guid>
+        <guid>https://blog.p1st.app/categories/%E6%96%B0%E6%A9%9F%E8%83%BD/</guid>
         <description></description>
         </item>
         <item>
         <title>アスリート紹介</title>
-        <link>https://blog.players1.st/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/</link>
+        <link>https://blog.p1st.app/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/</link>
         <pubDate>Fri, 23 Mar 2018 10:17:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/</guid>
+        <guid>https://blog.p1st.app/categories/%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E7%B4%B9%E4%BB%8B/</guid>
         <description></description>
         </item>
         <item>
         <title>メディア掲載</title>
-        <link>https://blog.players1.st/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</link>
+        <link>https://blog.p1st.app/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</link>
         <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
         
-        <guid>https://blog.players1.st/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</guid>
+        <guid>https://blog.p1st.app/categories/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</guid>
         <description></description>
         </item>
         

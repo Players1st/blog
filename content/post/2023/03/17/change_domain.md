@@ -46,5 +46,5 @@ type: post
 [![P1st](images/logo.png)][p1st_site]
 
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app
 

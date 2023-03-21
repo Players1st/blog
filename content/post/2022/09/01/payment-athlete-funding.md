@@ -37,7 +37,7 @@ type: post
 
 1回のコインパスで1度だけのメッセージのやり取りができることになります。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
@@ -70,7 +70,7 @@ type: post
 登録したプレイヤーは思い思いに特典を工夫していますので、参考までにスポンサー募集一覧をご覧いただければと思います。
 
 
-<a href="https://players1.st/proposals?sort=greater">
+<a href="https://p1st.app/proposals?sort=greater">
   <div class="primary-button">
     スポンサー募集一覧 | P1st
   </div>
@@ -80,10 +80,10 @@ type: post
 
 スポット課金、月額課金ともにそれぞれ特徴がありますので、自身の活動のスタイルに合ったパーソナルファンディングを利用してみましょう。
 
-<a href="https://players1.st/">
+<a href="https://p1st.app/">
   <div class="primary-button">
     P1stをはじめてみる
   </div>
 </a>
 
-[p1st_site]: https://players1.st
+[p1st_site]: https://p1st.app
