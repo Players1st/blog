@@ -2,44 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.p1st.app/tags/android%E3%82%A2%E3%83%97%E3%83%AA/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
     <loc>https://blog.p1st.app/categories/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/ios%E3%82%A2%E3%83%97%E3%83%AA/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/metapps/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/p1st/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://blog.p1st.app/tags/p1st.app/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://blog.p1st.app/2023/03/17/change_domain/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/post/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/sns%E3%82%A2%E3%83%97%E3%83%AA/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/2024/02/05/met-apps-release/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/%E3%83%86%E3%83%8B%E3%82%B9/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/%E9%87%8E%E7%90%83/</loc>
+    <lastmod>2024-02-05T12:23:44+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/tags/p1st.app/</loc>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.p1st.app/2023/03/17/change_domain/</loc>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E3%82%88%E3%82%8A%E7%9F%AD%E3%81%8F/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E3%82%88%E3%82%8A%E8%A6%9A%E3%81%88%E3%82%84%E3%81%99%E3%81%8F/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E5%A4%89%E6%9B%B4/</loc>
-    <lastmod>2023-03-17T15:00:00+09:00</lastmod>
+    <lastmod>2023-03-17T16:05:16+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/2023/02/24/info_session/</loc>
     <lastmod>2023-03-15T14:55:34+09:00</lastmod>
@@ -180,19 +216,13 @@
     <lastmod>2022-09-02T11:00:00+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/press-release/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:14+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E3%82%AF%E3%83%A9%E3%83%96%E3%83%81%E3%83%BC%E3%83%A0/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:14+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/2020/05/11/released-clubteam-account/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
-  </url><url>
-    <loc>https://blog.p1st.app/tags/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
-  </url><url>
-    <loc>https://blog.p1st.app/categories/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
+    <lastmod>2024-02-05T12:23:14+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/2020/03/23/coinpass-nocharge/</loc>
     <lastmod>2022-07-20T14:21:53+09:00</lastmod>
@@ -392,9 +422,6 @@
     <loc>https://blog.p1st.app/2018/02/14/082904/</loc>
     <lastmod>2022-07-20T14:21:53+09:00</lastmod>
   </url><url>
-    <loc>https://blog.p1st.app/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
-  </url><url>
     <loc>https://blog.p1st.app/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</loc>
     <lastmod>2022-07-20T14:21:53+09:00</lastmod>
   </url><url>
@@ -543,9 +570,6 @@
     <lastmod>2022-07-20T14:21:53+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/2017/03/27/124206/</loc>
-    <lastmod>2022-07-20T14:21:53+09:00</lastmod>
-  </url><url>
-    <loc>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</loc>
     <lastmod>2022-07-20T14:21:53+09:00</lastmod>
   </url><url>
     <loc>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E9%81%B8%E6%89%8B/</loc>
