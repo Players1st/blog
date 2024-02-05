@@ -6,12 +6,92 @@
         <description>Recent content in Tags on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Fri, 17 Mar 2023 15:00:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 05 Feb 2024 09:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Androidアプリ</title>
+        <link>https://blog.p1st.app/tags/android%E3%82%A2%E3%83%97%E3%83%AA/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/android%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>iOSアプリ</title>
+        <link>https://blog.p1st.app/tags/ios%E3%82%A2%E3%83%97%E3%83%AA/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/ios%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>MetApps</title>
+        <link>https://blog.p1st.app/tags/metapps/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/metapps/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>P1st</title>
         <link>https://blog.p1st.app/tags/p1st/</link>
-        <pubDate>Fri, 17 Mar 2023 15:00:00 +0900</pubDate>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
         
         <guid>https://blog.p1st.app/tags/p1st/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SNSアプリ</title>
+        <link>https://blog.p1st.app/tags/sns%E3%82%A2%E3%83%97%E3%83%AA/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/sns%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>サッカー</title>
+        <link>https://blog.p1st.app/tags/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>スポーツ</title>
+        <link>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>テニス</title>
+        <link>https://blog.p1st.app/tags/%E3%83%86%E3%83%8B%E3%82%B9/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E3%83%86%E3%83%8B%E3%82%B9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>フットサル</title>
+        <link>https://blog.p1st.app/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>プレスリリース</title>
+        <link>https://blog.p1st.app/tags/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>野球</title>
+        <link>https://blog.p1st.app/tags/%E9%87%8E%E7%90%83/</link>
+        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E9%87%8E%E7%90%83/</guid>
         <description></description>
         </item>
         <item>
@@ -316,14 +396,6 @@
         <pubDate>Mon, 11 May 2020 09:58:00 +0900</pubDate>
         
         <guid>https://blog.p1st.app/tags/%E3%82%AF%E3%83%A9%E3%83%96%E3%83%81%E3%83%BC%E3%83%A0/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>プレスリリース</title>
-        <link>https://blog.p1st.app/tags/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
-        <pubDate>Mon, 11 May 2020 09:58:00 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</guid>
         <description></description>
         </item>
         <item>
@@ -703,14 +775,6 @@
         <description></description>
         </item>
         <item>
-        <title>フットサル</title>
-        <link>https://blog.p1st.app/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</link>
-        <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>メディア掲載</title>
         <link>https://blog.p1st.app/tags/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</link>
         <pubDate>Wed, 14 Feb 2018 08:29:00 +0900</pubDate>
@@ -988,14 +1052,6 @@
         <pubDate>Fri, 02 Jun 2017 18:00:00 +0900</pubDate>
         
         <guid>https://blog.p1st.app/tags/%E9%81%B8%E6%89%8B%E7%B4%B9%E4%BB%8B/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>スポーツ</title>
-        <link>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</link>
-        <pubDate>Tue, 07 Mar 2017 10:01:00 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/</guid>
         <description></description>
         </item>
         <item>
