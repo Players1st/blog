@@ -6,7 +6,55 @@
         <description>Recent content in Tags on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Mon, 05 Feb 2024 09:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 16 Feb 2024 14:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>P1st</title>
+        <link>https://blog.p1st.app/tags/p1st/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/p1st/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>お知らせ</title>
+        <link>https://blog.p1st.app/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>分配率</title>
+        <link>https://blog.p1st.app/tags/%E5%88%86%E9%85%8D%E7%8E%87/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E5%88%86%E9%85%8D%E7%8E%87/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>手数料</title>
+        <link>https://blog.p1st.app/tags/%E6%89%8B%E6%95%B0%E6%96%99/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E6%89%8B%E6%95%B0%E6%96%99/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>有料プラン</title>
+        <link>https://blog.p1st.app/tags/%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>紹介制</title>
+        <link>https://blog.p1st.app/tags/%E7%B4%B9%E4%BB%8B%E5%88%B6/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/tags/%E7%B4%B9%E4%BB%8B%E5%88%B6/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Androidアプリ</title>
         <link>https://blog.p1st.app/tags/android%E3%82%A2%E3%83%97%E3%83%AA/</link>
         <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
@@ -28,14 +76,6 @@
         <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
         
         <guid>https://blog.p1st.app/tags/metapps/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>P1st</title>
-        <link>https://blog.p1st.app/tags/p1st/</link>
-        <pubDate>Mon, 05 Feb 2024 09:30:00 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/p1st/</guid>
         <description></description>
         </item>
         <item>
@@ -100,14 +140,6 @@
         <pubDate>Fri, 17 Mar 2023 15:00:00 +0900</pubDate>
         
         <guid>https://blog.p1st.app/tags/p1st.app/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>お知らせ</title>
-        <link>https://blog.p1st.app/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
-        <pubDate>Fri, 17 Mar 2023 15:00:00 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
         <description></description>
         </item>
         <item>
@@ -231,14 +263,6 @@
         <description></description>
         </item>
         <item>
-        <title>有料プラン</title>
-        <link>https://blog.p1st.app/tags/%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/</link>
-        <pubDate>Tue, 27 Sep 2022 10:30:00 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>機能</title>
         <link>https://blog.p1st.app/tags/%E6%A9%9F%E8%83%BD/</link>
         <pubDate>Tue, 27 Sep 2022 10:30:00 +0900</pubDate>
@@ -340,14 +364,6 @@
         <pubDate>Fri, 22 Jul 2022 10:46:15 +0900</pubDate>
         
         <guid>https://blog.p1st.app/tags/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%90%91%E3%81%91/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>手数料</title>
-        <link>https://blog.p1st.app/tags/%E6%89%8B%E6%95%B0%E6%96%99/</link>
-        <pubDate>Fri, 22 Jul 2022 10:46:15 +0900</pubDate>
-        
-        <guid>https://blog.p1st.app/tags/%E6%89%8B%E6%95%B0%E6%96%99/</guid>
         <description></description>
         </item>
         <item>
