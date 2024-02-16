@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>紹介制 on P1st プレイヤーズファースト Blog</title>
+        <link>https://blog.p1st.app/tags/%E7%B4%B9%E4%BB%8B%E5%88%B6/</link>
+        <description>Recent content in 紹介制 on P1st プレイヤーズファースト Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Fri, 16 Feb 2024 14:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/%E7%B4%B9%E4%BB%8B%E5%88%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>スポンサー募集の手数料を動的に変更する予定のお知らせ</title>
+        <link>https://blog.p1st.app/2024/02/16/dynamic-fee-start/</link>
+        <pubDate>Fri, 16 Feb 2024 14:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/2024/02/16/dynamic-fee-start/</guid>
+        <description>&lt;img src="https://blog.p1st.app/images/20240216/20240216_dynamic_fee_start.png" alt="Featured image of post スポンサー募集の手数料を動的に変更する予定のお知らせ" /&gt;&lt;p&gt;P1st は、2016年に創業し、アスリートのための月額スポンサー募集サービスとしてスタートしました。
+その後、アスリート以外にも、アーティストやクリエイターなどに利用され、&lt;strong&gt;個人の可能性を引き上げるパーソナルファンディグサービス&lt;/strong&gt;として、プレイヤーとサポーターの健全な関係が生まれる支援プラットフォームとなりました。&lt;/p&gt;
+&lt;p&gt;現在、1万5千回ほどの支払い、5万を超えるアクティビティを誇るサービスとして成長してきました。&lt;/p&gt;
+&lt;h1 id=&#34;つながる場から成長できる場へ&#34;&gt;「つながる場」から「成長できる場」へ&lt;/h1&gt;
+&lt;p&gt;P1stを、「支援をつなぐ場」から、今後「大きく成長できる場」へと変革するために、
+スポンサー募集の手数料を動的に変動するように変更いたします。&lt;/p&gt;
+&lt;h1 id=&#34;変更内容&#34;&gt;変更内容&lt;/h1&gt;
+&lt;p&gt;スポンサー募集の手数料を、一律15%(ユーザーへの分配率85%)から、利用プランと紹介者によって変動する「動的な手数料」に変更します。&lt;/p&gt;
+&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;利用しているプランによって変動します。有料プランを利用している場合は分配率が高くなります。&lt;/li&gt;
+&lt;li&gt;スポンサー申込があった場合、紹介者の判別を行い、スポンサー募集を作成したプレイヤー本人の紹介の場合は分配率を高く、他者の紹介の場合は分配率を低くします。&lt;/li&gt;
+&lt;li&gt;この変更は2024年3月12日以降、新規のスポンサー申込に対して適用されます。&lt;/li&gt;
+&lt;li&gt;それ以前に申し込まれ支払いが継続しているスポンサーの分配率は現状通りとなり、変更されません。&lt;/li&gt;
+&lt;li&gt;メッセージ付き投げ銭機能「コインパス」は、現状通り一律手数料となり変更はありません。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;変更後の分配率&#34;&gt;変更後の分配率&lt;/h1&gt;
+&lt;p&gt;プレイヤーが受け取る、手数料分を差し引いた後の分配率です。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;無料プランユーザー&lt;/th&gt;
+&lt;th&gt;有料プランユーザー&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;プレイヤー紹介&lt;/td&gt;
+&lt;td&gt;85%&lt;/td&gt;
+&lt;td&gt;93%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;他者紹介&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;60%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;プレイヤーがログインすると、プロフィールページ、スポンサー募集一覧ページ、各スポンサー募集ページのURLに紹介者情報を自動的に付与します。
+プレイヤーはそのURLをコピーし、SNSやメールにてシェアすることが可能です。&lt;/p&gt;
+&lt;p&gt;このURLをクリックしてスポンサー申込された場合にプレイヤー紹介の分配率が適用されます。&lt;/p&gt;
+&lt;p&gt;プレイヤー紹介とは、&lt;strong&gt;スポンサー募集を作成したユーザーの紹介者情報が付与されたURLを経由してスポンサー申込がされること&lt;/strong&gt;となります。&lt;/p&gt;
+&lt;h1 id=&#34;特徴&#34;&gt;特徴&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;有料プランユーザーのプレイヤー紹介の分配率93%は、ファンディング系サービスにて最も高い分配率になります。&lt;/li&gt;
+&lt;li&gt;P1st の試算では、月額4万円以上売上がある場合、フリープランに比べ有料プラン(ライトプラン)の方が得られる金額が多くなります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;試算に使用した想定モデルは、すべて他社による紹介のパターンとプレイヤー紹介が一定割合含まれたパターンの2パターンにより算出。
+2パターンともに月額4万円以上で有料プランであるライトプランを利用したほうが、得られる金額が大きくなった。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;変更の理由&#34;&gt;変更の理由&lt;/h1&gt;
+&lt;p&gt;現状、スポンサーとして支援いただいているサポーターはプレイヤーをすでに知っている方々の割合が多い傾向があります。 プレイヤーがさらに成長するためには、新しいファン・サポーターの獲得が必要になります。&lt;/p&gt;
+&lt;p&gt;P1stとしては、今後「大きく成長できる場」になるために、サービス自身を変革させていく必要があると判断しました。
+プレイヤーの、「認知向上」「支援拡大」「プレイヤーの成長」という成長サイクルを継続的に作り出すプラットフォームになるために、開発と投資を行っていきます。&lt;/p&gt;
+&lt;p&gt;具体的には、プレイヤーを積極的に特集するWebメディアの立ち上げ、広告を活用した露出、パートナーを含む紹介者ネットワークの拡大を予定しています。&lt;/p&gt;
+&lt;h1 id=&#34;スケジュール&#34;&gt;スケジュール&lt;/h1&gt;
+&lt;p&gt;2024年3月12日から、新規申込されたスポンサーに適用されます。&lt;/p&gt;
+&lt;p&gt;プレイヤー紹介のURLの取得方法を3月12日より前にブログにて公開予定です。ブログが公開されましたら、P1stサイト内にてP1st公式アカウントのポストで紹介します。&lt;/p&gt;
+&lt;p&gt;また、今回の変更後の手数料については、2024年3月12日以降、&lt;a class=&#34;link&#34; href=&#34;https://p1st.app/pricing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;料金プランページ&lt;/a&gt;に掲載されます。&lt;/p&gt;
+&lt;h1 id=&#34;お問い合わせ&#34;&gt;お問い合わせ&lt;/h1&gt;
+&lt;p&gt;今回の変更についての質問は、&lt;a class=&#34;link&#34; href=&#34;https://p1st.app/feedbacks/new&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;お問い合わせページ&lt;/a&gt;までご連絡ください。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
