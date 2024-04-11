@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>web on P1st プレイヤーズファースト Blog</title>
+        <title>Web on P1st プレイヤーズファースト Blog</title>
         <link>https://blog.p1st.app/tags/web/</link>
-        <description>Recent content in web on P1st プレイヤーズファースト Blog</description>
+        <description>Recent content in Web on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja-jp</language>
+        <language>ja</language>
         <lastBuildDate>Thu, 11 Aug 2016 12:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/web/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>選手登録申請をWebフォームから受付開始</title>
         <link>https://blog.p1st.app/2016/08/11/123027/</link>

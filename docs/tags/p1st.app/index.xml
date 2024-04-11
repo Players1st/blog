@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>p1st.app on P1st プレイヤーズファースト Blog</title>
+        <title>P1st.app on P1st プレイヤーズファースト Blog</title>
         <link>https://blog.p1st.app/tags/p1st.app/</link>
-        <description>Recent content in p1st.app on P1st プレイヤーズファースト Blog</description>
+        <description>Recent content in P1st.app on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja-jp</language>
+        <language>ja</language>
         <lastBuildDate>Fri, 17 Mar 2023 15:00:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/tags/p1st.app/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>P1stのドメインが &#34;p1st.app&#34; に変わります</title>
         <link>https://blog.p1st.app/2023/03/17/change_domain/</link>

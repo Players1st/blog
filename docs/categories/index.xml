@@ -5,8 +5,16 @@
         <link>https://blog.p1st.app/categories/</link>
         <description>Recent content in Categories on P1st プレイヤーズファースト Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja-jp</language>
-        <lastBuildDate>Mon, 04 Mar 2024 08:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>ja</language>
+        <lastBuildDate>Thu, 11 Apr 2024 09:30:00 +0900</lastBuildDate><atom:link href="https://blog.p1st.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>プレイヤー紹介</title>
+        <link>https://blog.p1st.app/categories/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E7%B4%B9%E4%BB%8B/</link>
+        <pubDate>Thu, 11 Apr 2024 09:30:00 +0900</pubDate>
+        
+        <guid>https://blog.p1st.app/categories/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E7%B4%B9%E4%BB%8B/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>マニュアル</title>
         <link>https://blog.p1st.app/categories/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/</link>
         <pubDate>Mon, 04 Mar 2024 08:30:00 +0900</pubDate>
